@@ -1,0 +1,71 @@
+Metadata-Version: 2.1
+Name: datacommons-pandas
+Version: 0.0.3
+Summary: A library to create pandas objects using the Data Commons Python API.
+Home-page: https://github.com/datacommonsorg/api-python
+Author: datacommons.org
+Author-email: support@datacommons.org
+Maintainer: datacommons.org
+Maintainer-email: support@datacommons.org
+License: Apache 2.0
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development
+Requires-Python: >=2.7
+Description-Content-Type: text/markdown
+Requires-Dist: six
+Requires-Dist: pandas
+
+# Data Commons Pandas API
+
+This is a Python library for creating pandas objects with data in the
+Data Commons Graph.
+
+To get started, install this package from pip.
+
+    pip install datacommons_pandas
+
+Once the package is installed, import `datacommons_pandas`.
+
+    import datacommons_pandas as dcpd
+
+For more detail on getting started with the API, please visit our
+[API Overview](http://docs.datacommons.org/api/).
+
+When you are ready to use the API, you can refer to `datacommons_pandas/examples` for
+examples on how to use this package to perform various tasks. More tutorials and
+documentation can be found on our [tutorials page](https://datacommons.org/colab)!
+
+## About Data Commons
+
+[Data Commons](https://datacommons.org/) is an open knowledge repository that
+provides a unified view across multiple public data sets and statistics. You can
+view what [datasets](https://datacommons.org/datasets) are currently ingested
+and browse the graph using our [browser](https://browser.datacommons.org/).
+
+## License
+
+Apache 2.0
+
+## Development
+
+Please follow the [Development instructions](../README.md#development).
+
+## Release
+
+Please follow the [Release instructions](../README.md#release).
+
+## Support
+
+For general questions or issues about the API, please open an issue on our
+[issues](https://github.com/datacommonsorg/api-python/issues) page. For all other
+questions, please send an email to `support@datacommons.org`.
+
+**Note** - This is not an officially supported Google product.
+
+

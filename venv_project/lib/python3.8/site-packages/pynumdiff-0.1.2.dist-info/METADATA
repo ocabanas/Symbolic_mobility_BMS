@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: pynumdiff
+Version: 0.1.2
+Summary: pynumdiff: numerical derivatives in python
+Home-page: https://github.com/luckystarufo/PyNumDiff/tree/upgrade
+Author: Floris van Breugel, Yuying Liu
+Author-email: florisvb@gmail.com, liuyuyingufo@gmail.com
+Maintainer: Floris van Breugel, Yuying Liu
+Maintainer-email: fvanbreugel@unr.edu, yliu814@uw.edu
+License: MIT
+Platform: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Requires: numpy
+Requires: scipy
+Requires: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+
+
+PyNumDiff
+=========
+PyNumDiff (pynumdiff) is a Python package for calculating numerical derivatives for noisy time series data, 
+using a variety of different methods.
+
+
