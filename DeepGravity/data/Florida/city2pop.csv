@@ -1,0 +1,491 @@
+name,m,area
+Madison,2912,6.827626
+North Port,74793,257.393424
+Lantana,11504,6.129682
+Pahokee,5524,13.766034
+West Palm Beach,117415,139.389655
+Avon Park,9658,26.238789
+Atlantic Beach,13513,9.533268
+Jacksonville Beach,23830,18.952469
+Neptune Beach,7217,6.053034
+St. Augustine,14329,24.660517
+Port Richey,3052,5.752825
+San Antonio,1297,3.520261
+Dade City,7275,17.312243
+Orange Park,9089,9.423393
+Ocala,63591,122.394663
+Palmetto Bay,24439,21.457215
+Apopka,54873,89.596672
+Sunrise,97335,41.953996
+Tamarac,71897,30.031144
+Weston,68107,63.695046
+West Park,15130,5.693183
+Riviera Beach,37604,21.441192
+Royal Palm Beach,38932,29.381909
+South Bay,4860,7.411275
+Wellington,61637,116.464126
+Okeechobee,5254,10.503786
+Century,1713,8.33708
+Belle Isle,7032,6.215271
+Maitland,19543,13.882185
+Hallandale Beach,41217,10.909332
+Lauderdale-by-the-Sea,6198,2.270798
+Lauderdale Lakes,35954,9.5331
+Destin,13931,19.407426
+Wilton Manors,11426,5.101568
+Lauderhill,74482,22.055046
+Lighthouse Point,10486,5.974211
+Margate,58712,22.688471
+Hollywood,153067,70.579359
+Oakland,3516,6.111552
+Orlando,307573,287.102775
+Belleair,4273,4.484002
+Belleair Beach,1633,1.234629
+Belleair Bluffs,2311,1.192624
+Clearwater,117292,67.679309
+Gulfport,11783,7.161137
+Indian Rocks Beach,3673,2.187868
+Indian Shores,1190,0.864594
+Gulf Breeze,6302,12.122982
+Madeira Beach,3895,2.542938
+Pinellas Park,53093,41.763584
+Redington Shores,2176,0.854328
+Safety Harbor,17072,12.753046
+Panama City,32939,90.968408
+St. Pete Beach,8879,5.506958
+South Pasadena,5353,1.580132
+Treasure Island,6584,4.003657
+Parker,4010,4.950664
+Springfield,8075,10.820357
+Oldsmar,14898,23.170578
+Vero Beach,16354,29.783516
+Highland Park,251,1.416651
+Jupiter Island,804,7.019565
+Tarpon Springs,25117,23.982323
+Indian River Shores,4241,13.270781
+Sewall's Point,1991,3.050789
+Brooksville,8890,28.966409
+Palm Shores,1200,1.555196
+Satellite Beach,11226,7.564576
+Titusville,48789,75.689682
+Rockledge,27678,34.236471
+Lakeland,112641,171.685496
+Cocoa,19041,35.569125
+Melbourne,84678,114.35693
+Palm Bay,119760,223.820939
+Fort Walton Beach,20922,19.794013
+Mary Esther,3982,3.768592
+Cape Canaveral,9972,5.754867
+Cocoa Beach,11354,12.064959
+Indialantic,3010,2.517231
+Indian Harbour Beach,9019,5.419577
+Melbourne Beach,3231,2.557835
+Gainesville,141085,164.110513
+Kissimmee,79226,55.688385
+Arcadia,7420,11.468173
+Lake Helen,2842,11.795098
+Green Cove Springs,9786,19.504609
+Flagler Beach,5160,9.283457
+New Port Richey,16728,11.798421
+Zephyrhills,17194,24.742892
+North Miami Beach,43676,12.546327
+West Miami,7233,1.836188
+Malone,1959,7.895475
+Bunnell,3276,362.074212
+North Bay Village,8159,0.957592
+Surfside,5689,1.443543
+Sweetwater,19363,5.677502
+Bradenton,55698,37.134572
+Mascotte,6609,32.075232
+Tavares,19003,32.027024
+Sunny Isles Beach,22342,2.61738
+Cutler Bay,45425,25.606166
+Doral,75874,35.829453
+Altamonte Springs,46231,23.566527
+Sanford,61051,61.07037
+Oviedo,40059,40.202567
+Lake Mary,16798,23.503975
+Longwood,15087,14.256361
+Grant-Valkaria,4509,70.50414
+Miami Lakes,30467,14.651596
+Miami,442241,93.228401
+Fort Myers Beach,5582,7.204107
+Sanibel,6382,41.904758
+Fort Myers,86395,103.189904
+Fort Pierce,47297,61.617494
+Port St. Lucie,204851,308.768074
+Plant City,39764,73.019441
+Tampa,384959,295.299062
+Temple Terrace,26690,19.360586
+Crescent City,1654,5.347109
+Miami Gardens,111640,47.209207
+Aventura,40242,6.858738
+Bal Harbour,3093,0.992933
+Wildwood,15730,145.765276
+Coral Gables,49248,33.480926
+Pensacola,54312,58.951748
+Hialeah,223109,55.895716
+Hialeah Gardens,23068,8.344775
+Homestead,80737,39.066901
+Medley,1056,13.167448
+Miami Beach,82890,19.923658
+North Miami,60191,21.908019
+Pinecrest,18388,19.297321
+Stuart,17425,18.252029
+Golden Beach,961,0.843255
+Indian Creek,84,1.10852
+Key Biscayne,14809,3.230374
+Miami Shores,11567,6.440547
+Miami Springs,13859,7.455957
+Opa-locka,16463,11.156828
+South Miami,12026,5.87186
+Bartow,19309,120.231292
+Fort Meade,5100,21.195412
+Frostproof,2877,27.93992
+Lake Wales,16361,48.807038
+Lake Butler,18851,29.528476
+Venice,25463,41.77397
+Cross City,1689,4.78152
+Sebastian,25054,36.256301
+Coconut Creek,57833,28.944946
+Cooper City,34401,20.818544
+Coral Springs,134394,59.218761
+Deerfield Beach,86859,38.709086
+Bradenton Beach,908,1.33894
+Longboat Key,7505,10.562362
+Palmetto,13323,13.857597
+Miramar,134721,74.729795
+North Lauderdale,44794,11.970406
+Parkland,34670,32.383486
+Pembroke Park,6260,3.573323
+Pompano Beach,112046,62.216264
+Bonita Springs,53644,99.502756
+Cape Coral,194016,274.613634
+Daytona Beach,72647,169.88558
+Edgewater,23097,63.996358
+DeBary,22260,49.083938
+DeLand,37351,49.930749
+"Islamorada, Village of Islands",7107,16.703315
+Marathon,9689,21.875978
+Oak Hill,1986,17.404382
+Ponce Inlet,3364,11.615038
+South Daytona,12865,9.585926
+Deltona,93692,96.668412
+Ormond Beach,43080,90.090884
+Port Orange,62596,69.492044
+Lake Hamilton,1537,8.080593
+Winter Haven,49219,85.053996
+Daytona Beach Shores,5179,2.201708
+Haines City,26669,48.572669
+Haverhill,2187,1.637297
+Hypoluxo,2687,1.469244
+Juno Beach,3858,5.282132
+Lake Clarke Shores,3564,2.389786
+Lake Park,9047,5.399822
+North Palm Beach,13162,8.45574
+Callaway,13045,24.40114
+Lynn Haven,18695,27.072014
+Palatka,10446,25.271098
+Tallahassee,196169,263.797394
+Dunedin,36068,26.959324
+Largo,82485,48.165972
+Redington Beach,1376,0.929623
+St. Petersburg,258308,160.239615
+Seminole,19364,13.420512
+Lake City,12329,30.685414
+Sarasota,54842,38.065059
+Dania Beach,31723,20.280262
+Davie,105691,90.375842
+Southwest Ranches,7607,33.606612
+Fort Lauderdale,182760,89.578884
+Oakland Park,44229,19.513177
+Pembroke Pines,171178,84.64399
+Plantation,5034,5.689919
+Palm Beach Gardens,59182,152.066204
+Mangonia Park,2142,1.938062
+Boynton Beach,80380,41.846134
+Highland Beach,4295,1.390058
+Greenacres,43990,15.539525
+Palm Beach,9245,9.844681
+Jacksonville,949611,1935.492088
+Palm Coast,89258,247.004408
+Ocoee,47295,40.429805
+Winter Park,29795,22.697253
+Marco Island,15760,31.487285
+Naples,19115,31.868178
+Auburndale,15616,35.116157
+Key West,26444,14.502298
+Punta Gorda,19471,40.134992
+West Melbourne,25924,27.599905
+Lady Lake,15970,21.55467
+Eustis,23189,28.752772
+Leesburg,27000,99.577364
+Estero,36939,63.116422
+Hillsboro Beach,1987,0.947189
+Sea Ranch Lakes,540,0.450579
+Jupiter,61047,56.016549
+Ocean Ridge,1830,1.970361
+Palm Springs,26890,10.896561
+Atlantis,2142,3.528744
+Boca Raton,97422,75.573116
+Delray Beach,66846,41.244216
+Golf,255,2.124563
+Valparaiso,4752,30.40768
+Casselberry,28794,18.048551
+Winter Springs,38342,38.484849
+Holly Hill,12958,10.255548
+New Smyrna Beach,30142,97.879927
+Orange City,12632,20.245805
+Fernandina Beach,13052,30.644496
+Alafaya,92452,79.358341
+Allentown,1023,76.331337
+Alturas,4084,139.854755
+Apollo Beach,26002,50.968039
+Azalea Park,14141,7.902643
+Bardmoor,9852,5.675815
+Bay Hill,5021,6.153014
+Bayonet Point,26713,14.712724
+Bay Pines,3106,3.360445
+Bayshore Gardens,19904,9.091165
+Beacon Square,8320,5.239755
+Bellair-Meadowbrook Terrace,14482,10.625522
+Bellview,25541,30.165696
+Beverly Hills,9961,7.684276
+Black Hammock,1195,28.819138
+Bloomingdale,22947,21.067201
+Bokeelia,1855,23.17937
+Brandon,114626,85.816233
+Brent,23447,26.486757
+Broadview Park,7670,2.594406
+Brookridge,4658,6.56019
+Brownsville,16583,5.90394
+Buckingham,4443,46.632506
+Buenaventura Lakes,30251,14.444011
+Burnt Store Marina,1890,2.758286
+Butler Beach,4978,6.588298
+Carrollwood,34352,23.893588
+Cedar Grove,3148,6.814217
+Charlotte Harbor,3784,6.009437
+Cheval,12522,15.412263
+Citrus Park,28178,26.325241
+Combee Settlement,5911,5.118815
+Connerton,5282,33.539188
+Conway,13596,8.768996
+Coral Terrace,23142,8.69985
+Cortez,4121,5.777878
+Country Club,49967,10.819822
+Country Walk,16951,6.679427
+Crystal Lake,5768,6.615427
+Crystal Springs,1268,15.296578
+Cypress Gardens,10169,8.934848
+Cypress Lake,13727,9.92286
+Cypress Quarters,1029,6.916284
+Doctor Phillips,12328,8.814862
+East Lake,32344,74.192867
+East Lake-Orient Park,28050,40.957965
+East Milton,14309,74.353692
+Eglin AFB,3006,7.84054
+Egypt Lake-Leto,36644,15.301552
+Elfers,14573,9.652261
+Ellenton,4129,8.56477
+Englewood,20800,48.751413
+Ensley,23817,31.649876
+Fairview Shores,10722,7.66546
+Ferndale,548,6.945163
+Fern Park,8205,5.193918
+Ferry Pass,29921,36.018007
+Fisher Island,561,0.623699
+Fish Hawk,24625,41.997048
+Fleming Island,29142,41.020989
+Floral City,5261,60.377804
+Florida Ridge,21302,27.894329
+Floridatown,319,1.032501
+Forest City,14623,11.133267
+Fort Denaud,2049,51.937876
+Fort Green,78,10.469295
+Fort Myers Shores,5774,5.372493
+Fort Pierce South,5209,6.916404
+Fountainebleau,59870,10.249004
+Four Corners,56381,123.120658
+Fruit Cove,32143,41.736597
+Fruitville,15484,17.675091
+Fussels Corner,5560,13.932776
+Geneva,2913,32.973902
+Gibsonton,18566,33.187904
+Gladeview,14927,6.629203
+Glenvar Heights,20786,10.562191
+Golden Gate,25321,10.112933
+Golden Glades,32499,12.514838
+Goldenrod,13431,6.537944
+Gonzalez,14586,39.213782
+Goulding,3392,3.071194
+Grove City,2174,3.509816
+Harbour Heights,3428,5.616612
+Heathrow,6806,7.105399
+Hernando Beach,2452,9.186737
+Highland City,12355,20.422867
+High Point,3873,12.850131
+Hobe Sound,13163,18.405617
+Holden Heights,4097,2.656061
+Holiday,24939,13.854085
+Homestead Base,999,10.990386
+Homosassa Springs,14283,65.184927
+Hudson,12944,16.443077
+Hunters Creek,24433,18.248481
+Hutchinson Island South,4988,11.152501
+Immokalee,24557,58.84687
+Inwood,7031,4.930479
+Iona,16908,17.161616
+Ives Estates,25005,6.599907
+Jasmine Estates,21525,9.403108
+Jensen Beach,12652,18.058793
+June Park,4283,7.839991
+Juno Ridge,1186,0.549006
+Jupiter Farms,12572,39.060582
+Kathleen,6486,18.62815
+Kendale Lakes,55646,20.9139
+Kendall,80241,41.696017
+Kendall West,36536,7.127142
+Kensington Park,3697,2.504158
+Key Largo,12447,31.211537
+Keystone,25211,90.947552
+Lakeland Highlands,12187,12.593936
+Lake Lorraine,7142,5.33036
+Lake Magdalene,30742,26.420787
+Lake Panasoffkee,4072,11.136462
+Lakeside,31275,34.842914
+Land O' Lakes,35929,49.098217
+Laurel,12186,23.519241
+Lealman,21189,10.417868
+Lehigh Acres,114287,240.077138
+Leisure City,26324,8.449113
+Lely,3694,3.553673
+Limestone Creek,1316,1.01288
+Lochmoor Waterway Estates,5828,6.204818
+Lockhart,14058,11.487074
+Lower Grand Lagoon,4398,5.439103
+Lutz,23707,63.268465
+McGregor,7976,6.127179
+Mango,12699,12.089866
+Medulla,10871,14.499659
+Memphis,9024,8.442472
+Merritt Island,34518,43.955131
+Middleburg,12881,50.806297
+Moon Lake,4817,15.511783
+Myrtle Grove,17224,17.206993
+Naples Park,5092,3.18554
+New Port Richey East,11015,9.85235
+Nokomis,3217,5.046873
+Northdale,23033,20.954178
+North Fort Myers,42719,127.855887
+North River Shores,3459,3.278882
+North Weeki Wachee,9131,37.345414
+Oak Ridge,25062,9.191451
+Ocean City,6314,4.024852
+Odessa,8080,13.893231
+Ojus,19673,6.860723
+Olympia Heights,12873,7.008952
+Oriole Beach,1679,2.179804
+Orlovista,6806,4.761339
+Ormond-by-the-Sea,7312,5.221027
+Pace,24684,62.751977
+Page Park,747,0.696557
+Palm City,25883,35.897541
+Palm Harbor,61366,44.960016
+Palm River-Clair Mel,26142,29.614143
+Palm Springs North,5030,2.060167
+Palm Valley,21827,31.587112
+Pasadena Hills,11120,77.66522
+Patrick AFB,1308,7.988788
+Pea Ridge,3787,7.26785
+Pelican Bay,6660,7.632307
+Pine Castle,11122,6.264973
+Pine Hills,66111,31.583921
+Pine Ridge,1717,4.360836
+Pinewood,17246,4.53986
+Port Charlotte,60625,73.763477
+Port St. John,23474,24.141772
+Port Salerno,10401,9.234731
+Princeton,39308,19.210857
+Progress Village,11188,7.836408
+Punta Rassa,1620,6.185835
+Raleigh,357,5.032495
+Richmond West,35884,10.804884
+Ridgecrest,2966,2.29916
+Ridge Wood Heights,5064,3.660241
+Rio Pinar,5409,5.628296
+River Ridge,5107,10.859981
+Riverview,107396,119.607244
+Roosevelt Gardens,2749,0.834817
+Roseland,1591,4.896422
+Ruskin,28620,47.113861
+St. Augustine South,5066,4.106071
+San Carlos Park,18563,12.232006
+San Castle,3755,1.086922
+Sarasota Springs,12521,6.930006
+Schall Circle,792,0.62153
+Seffner,8362,9.341777
+Seminole Manor,2562,0.824424
+Shady Hills,11690,74.183964
+Siesta Key,5454,6.071944
+Silver Springs Shores,24846,38.678504
+Solana,671,3.967929
+South Apopka,6803,5.489238
+South Bradenton,26858,11.655066
+South Brooksville,4311,46.37931
+Southchase,16276,17.92221
+Southeast Arcadia,6299,18.749405
+Southgate,6287,4.342372
+South Gate Ridge,6024,4.525844
+South Miami Heights,36770,12.711122
+South Patrick Shores,6496,3.918606
+South Sarasota,5133,4.982209
+South Venice,15619,15.425208
+Spring Hill,113568,155.187327
+Sun City Center,30952,40.81515
+Sunset,15912,9.091284
+Tamiami,54212,18.25211
+Tavernier,2530,6.510124
+Taylor Creek,4470,7.894943
+The Acreage,41654,88.76081
+The Crossings,23276,8.903853
+The Hammocks,59480,20.430604
+The Meadows,5037,6.156534
+The Villages,79077,84.566664
+Thonotosassa,15238,68.587326
+Three Oaks,5472,4.491377
+Timber Pines,5163,5.696117
+Town 'n' Country,85951,57.220109
+Trinity,11924,16.022175
+Union Park,10452,7.381851
+University,45284,23.438684
+Upper Grand Lagoon,15778,20.982605
+Valrico,37895,35.765135
+Venice Gardens,3402,2.394797
+Vero Beach South,28020,30.522487
+Viera East,11687,13.101208
+Villas,12687,11.97974
+Wabasso,1627,9.544548
+Wahneta,4409,5.888769
+Warm Mineral Springs,5442,6.111033
+Warrington,15218,17.952308
+Watergate,3459,1.077224
+Wekiwa Springs,23428,22.24255
+Wesley Chapel,64866,113.753751
+West Bradenton,4247,3.369604
+Westchase,25952,25.836776
+Westchester,56384,20.5981
+Westgate,8435,3.933996
+West Lealman,16438,8.148757
+West Little River,34128,11.877888
+West Pensacola,21019,18.574233
+West Perrine,10602,4.541376
+West Samoset,6482,3.487824
+Westwood Lakes,11373,4.294621
+Whiskey Creek,4842,4.000358
+Willow Oak,6806,8.078704
+Wimauma,9467,64.829661
+Woodville,4097,21.8741
+Wright,26277,14.230332
+Zephyrhills South,4985,5.119874
+Zephyrhills West,5533,6.81308

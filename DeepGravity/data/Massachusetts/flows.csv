@@ -1,0 +1,5025 @@
+residence,workplace,commuters
+Southbridge Town,Framingham,69.0
+Southbridge Town,Newton,91.0
+Southbridge Town,Westfield,146.0
+Southbridge Town,Boston,1571.0
+Southbridge Town,Chelsea,91.0
+Southbridge Town,Marlborough,413.0
+Southbridge Town,Worcester,7592.0
+Southbridge Town,Chicopee,358.0
+Southbridge Town,Holyoke,146.0
+Southbridge Town,Springfield,240.0
+Southbridge Town,West Springfield Town,77.0
+Southbridge Town,Lowell,69.0
+Southbridge Town,Waltham,77.0
+Southbridge Town,Cambridge,105.0
+Southbridge Town,Lynn,46.0
+Southbridge Town,Methuen Town,137.0
+Southbridge Town,Lawrence,91.0
+Southbridge Town,Hudson,77.0
+Southbridge Town,Oxford,1296.0
+Southbridge Town,Spencer,365.0
+Southbridge Town,Upton,84.0
+Southbridge Town,Ware,84.0
+Southbridge Town,Webster,1995.0
+Palmer Town,Southbridge Town,608.0
+Palmer Town,Braintree Town,82.0
+Palmer Town,Northampton,164.0
+Palmer Town,Fitchburg,186.0
+Palmer Town,Framingham,61.0
+Palmer Town,Newton,248.0
+Palmer Town,Westfield,646.0
+Palmer Town,Boston,587.0
+Palmer Town,New Bedford,82.0
+Palmer Town,Marlborough,236.0
+Palmer Town,Worcester,1233.0
+Palmer Town,Easthampton Town,93.0
+Palmer Town,Agawam Town,340.0
+Palmer Town,Chicopee,2613.0
+Palmer Town,Holyoke,1496.0
+Palmer Town,Springfield,8468.0
+Palmer Town,West Springfield Town,2432.0
+Palmer Town,Cambridge,93.0
+Palmer Town,Quincy,61.0
+Palmer Town,Methuen Town,82.0
+Palmer Town,Haverhill,93.0
+Palmer Town,Andover,186.0
+Palmer Town,Barre,93.0
+Palmer Town,Belmont,124.0
+Palmer Town,Longmeadow,186.0
+Palmer Town,Oxford,93.0
+Palmer Town,Turners Falls,61.0
+Palmer Town,Ware,1588.0
+Palmer Town,Wilbraham,3135.0
+Braintree Town,Weymouth Town,5280.0
+Braintree Town,Winthrop Town,346.0
+Braintree Town,Framingham,297.0
+Braintree Town,Everett,102.0
+Braintree Town,Newton,1310.0
+Braintree Town,Somerville,526.0
+Braintree Town,Boston,18800.0
+Braintree Town,Chelsea,344.0
+Braintree Town,Revere,576.0
+Braintree Town,Attleboro,81.0
+Braintree Town,Taunton,257.0
+Braintree Town,Malden,134.0
+Braintree Town,Worcester,224.0
+Braintree Town,Brockton,1750.0
+Braintree Town,Medford,527.0
+Braintree Town,Waltham,339.0
+Braintree Town,Woburn,111.0
+Braintree Town,Cambridge,992.0
+Braintree Town,Watertown Town,60.0
+Braintree Town,Quincy,18159.0
+Braintree Town,Franklin Town,92.0
+Braintree Town,Lynn,226.0
+Braintree Town,Abington,215.0
+Braintree Town,Acushnet Center,74.0
+Braintree Town,Brookline,162.0
+Braintree Town,Danvers,60.0
+Braintree Town,Dedham,1519.0
+Braintree Town,Falmouth,74.0
+Braintree Town,Hanson,74.0
+Braintree Town,Hingham,821.0
+Braintree Town,Holbrook,1190.0
+Braintree Town,Hull,367.0
+Braintree Town,Kingston,240.0
+Braintree Town,Lexington,92.0
+Braintree Town,Mansfield Center,250.0
+Braintree Town,Milton,1135.0
+Braintree Town,Monument Beach,103.0
+Braintree Town,Needham,399.0
+Braintree Town,North Pembroke,428.0
+Braintree Town,Norwood,471.0
+Braintree Town,Reading,60.0
+Braintree Town,Somerset,74.0
+Braintree Town,Wakefield,111.0
+Braintree Town,Wellesley,121.0
+Weymouth Town,Braintree Town,16785.0
+Weymouth Town,Barnstable Town,92.0
+Weymouth Town,Winthrop Town,182.0
+Weymouth Town,Framingham,463.0
+Weymouth Town,Newton,1702.0
+Weymouth Town,Somerville,426.0
+Weymouth Town,Boston,17928.0
+Weymouth Town,Chelsea,82.0
+Weymouth Town,Revere,121.0
+Weymouth Town,Attleboro,92.0
+Weymouth Town,New Bedford,243.0
+Weymouth Town,Beverly,173.0
+Weymouth Town,Fall River,182.0
+Weymouth Town,Taunton,82.0
+Weymouth Town,Marlborough,476.0
+Weymouth Town,Worcester,212.0
+Weymouth Town,Leominster,121.0
+Weymouth Town,Brockton,2588.0
+Weymouth Town,Springfield,116.0
+Weymouth Town,Lowell,91.0
+Weymouth Town,Medford,228.0
+Weymouth Town,Waltham,1166.0
+Weymouth Town,Woburn,286.0
+Weymouth Town,Cambridge,1570.0
+Weymouth Town,Quincy,9543.0
+Weymouth Town,Lynn,216.0
+Weymouth Town,Salem,277.0
+Weymouth Town,Lawrence,137.0
+Weymouth Town,Haverhill,116.0
+Weymouth Town,Abington,2983.0
+Weymouth Town,Brookline,675.0
+Weymouth Town,Danvers,91.0
+Weymouth Town,Dedham,2375.0
+Weymouth Town,Hanson,121.0
+Weymouth Town,Hingham,9521.0
+Weymouth Town,Holbrook,952.0
+Weymouth Town,Hudson,100.0
+Weymouth Town,Hull,920.0
+Weymouth Town,Kingston,207.0
+Weymouth Town,Mansfield Center,121.0
+Weymouth Town,Milton,610.0
+Weymouth Town,Needham,727.0
+Weymouth Town,North Pembroke,280.0
+Weymouth Town,North Plymouth,116.0
+Weymouth Town,Norwood,685.0
+Weymouth Town,Plymouth,121.0
+Weymouth Town,Reading,100.0
+Weymouth Town,Sharon,107.0
+Weymouth Town,Smith Mills,107.0
+Weymouth Town,South Duxbury,121.0
+Weymouth Town,Swampscott,82.0
+Weymouth Town,Wellesley,385.0
+Weymouth Town,West Yarmouth,116.0
+Weymouth Town,Wilmington,265.0
+Barnstable Town,Braintree Town,560.0
+Barnstable Town,Weymouth Town,273.0
+Barnstable Town,Framingham,303.0
+Barnstable Town,Newton,368.0
+Barnstable Town,Boston,7883.0
+Barnstable Town,Revere,102.0
+Barnstable Town,New Bedford,934.0
+Barnstable Town,Beverly,97.0
+Barnstable Town,Fall River,208.0
+Barnstable Town,Taunton,181.0
+Barnstable Town,Worcester,433.0
+Barnstable Town,Brockton,196.0
+Barnstable Town,Pittsfield,80.0
+Barnstable Town,Chicopee,102.0
+Barnstable Town,Springfield,102.0
+Barnstable Town,Waltham,209.0
+Barnstable Town,Cambridge,610.0
+Barnstable Town,Watertown Town,75.0
+Barnstable Town,Quincy,443.0
+Barnstable Town,Methuen Town,194.0
+Barnstable Town,Newburyport,105.0
+Barnstable Town,Belmont,97.0
+Barnstable Town,Brookline,156.0
+Barnstable Town,Dedham,313.0
+Barnstable Town,Dennis,483.0
+Barnstable Town,Dennis Port,1143.0
+Barnstable Town,East Dennis,565.0
+Barnstable Town,East Falmouth,1816.0
+Barnstable Town,East Harwich,1079.0
+Barnstable Town,East Sandwich,782.0
+Barnstable Town,Falmouth,1972.0
+Barnstable Town,Harwich Center,157.0
+Barnstable Town,Holbrook,80.0
+Barnstable Town,Kingston,407.0
+Barnstable Town,Lexington,131.0
+Barnstable Town,Mansfield Center,97.0
+Barnstable Town,Milton,106.0
+Barnstable Town,Monument Beach,499.0
+Barnstable Town,Nantucket,381.0
+Barnstable Town,North Falmouth,524.0
+Barnstable Town,Northwest Harwich,783.0
+Barnstable Town,Plymouth,297.0
+Barnstable Town,Pocasset,599.0
+Barnstable Town,Sagamore,3473.0
+Barnstable Town,Sandwich,1401.0
+Barnstable Town,Smith Mills,647.0
+Barnstable Town,South Dennis,3220.0
+Barnstable Town,South Yarmouth,6144.0
+Barnstable Town,Wellesley,94.0
+Barnstable Town,West Dennis,227.0
+Barnstable Town,West Yarmouth,2936.0
+Barnstable Town,Yarmouth Port,362.0
+Gardner,Braintree Town,428.0
+Gardner,Northampton,79.0
+Gardner,Fitchburg,6142.0
+Gardner,Everett,79.0
+Gardner,Newton,49.0
+Gardner,Somerville,231.0
+Gardner,Boston,945.0
+Gardner,Revere,102.0
+Gardner,Fall River,237.0
+Gardner,Malden,102.0
+Gardner,Marlborough,613.0
+Gardner,Worcester,2117.0
+Gardner,Leominster,8915.0
+Gardner,Chicopee,77.0
+Gardner,Springfield,175.0
+Gardner,West Springfield Town,49.0
+Gardner,Waltham,266.0
+Gardner,Woburn,102.0
+Gardner,Cambridge,562.0
+Gardner,Methuen Town,77.0
+Gardner,Lawrence,179.0
+Gardner,Haverhill,279.0
+Gardner,Arlington,79.0
+Gardner,Athol,479.0
+Gardner,Barre,396.0
+Gardner,Brookline,79.0
+Gardner,Burlington,79.0
+Gardner,Clinton,181.0
+Gardner,Dedham,79.0
+Gardner,Hudson,204.0
+Gardner,Littleton Common,197.0
+Gardner,Lunenburg,331.0
+Gardner,Needham,49.0
+Gardner,Norwood,49.0
+Gardner,Orange,156.0
+Gardner,Oxford,77.0
+Gardner,Plymouth,79.0
+Gardner,Saugus,79.0
+Gardner,Wilmington,102.0
+Northampton,Palmer Town,99.0
+Northampton,Gardner,99.0
+Northampton,Framingham,110.0
+Northampton,Westfield,1376.0
+Northampton,Boston,784.0
+Northampton,Worcester,294.0
+Northampton,Pittsfield,606.0
+Northampton,Easthampton Town,4674.0
+Northampton,Agawam Town,155.0
+Northampton,Chicopee,1889.0
+Northampton,Holyoke,2598.0
+Northampton,Springfield,5062.0
+Northampton,West Springfield Town,3057.0
+Northampton,Lowell,220.0
+Northampton,Cambridge,437.0
+Northampton,Arlington,56.0
+Northampton,Brookline,128.0
+Northampton,Longmeadow,541.0
+Northampton,Turners Falls,282.0
+Northampton,Wellesley,171.0
+Northampton,Wilbraham,468.0
+Fitchburg,Southbridge Town,98.0
+Fitchburg,Gardner,2526.0
+Fitchburg,Northampton,156.0
+Fitchburg,Framingham,228.0
+Fitchburg,Everett,72.0
+Fitchburg,Newton,347.0
+Fitchburg,Somerville,221.0
+Fitchburg,Westfield,80.0
+Fitchburg,Boston,2506.0
+Fitchburg,Chelsea,109.0
+Fitchburg,Revere,92.0
+Fitchburg,New Bedford,147.0
+Fitchburg,Taunton,109.0
+Fitchburg,Marlborough,1206.0
+Fitchburg,Worcester,5520.0
+Fitchburg,Leominster,36859.0
+Fitchburg,North Adams,64.0
+Fitchburg,Springfield,553.0
+Fitchburg,Lowell,1079.0
+Fitchburg,Waltham,630.0
+Fitchburg,Cambridge,410.0
+Fitchburg,Quincy,128.0
+Fitchburg,Lynn,92.0
+Fitchburg,Methuen Town,109.0
+Fitchburg,Peabody,83.0
+Fitchburg,Lawrence,66.0
+Fitchburg,Haverhill,175.0
+Fitchburg,Athol,153.0
+Fitchburg,Barre,92.0
+Fitchburg,Belmont,184.0
+Fitchburg,Brookline,72.0
+Fitchburg,Burlington,263.0
+Fitchburg,Clinton,1109.0
+Fitchburg,Cochituate,92.0
+Fitchburg,Dedham,132.0
+Fitchburg,East Falmouth,87.0
+Fitchburg,Hanson,92.0
+Fitchburg,Hudson,201.0
+Fitchburg,Lexington,201.0
+Fitchburg,Littleton Common,175.0
+Fitchburg,Lunenburg,8804.0
+Fitchburg,Mattapoisett Center,83.0
+Fitchburg,Maynard,92.0
+Fitchburg,Needham,92.0
+Fitchburg,Norwood,128.0
+Fitchburg,Stoneham,64.0
+Fitchburg,Westborough,272.0
+Fitchburg,West Concord,72.0
+Winthrop Town,Braintree Town,262.0
+Winthrop Town,Framingham,194.0
+Winthrop Town,Everett,173.0
+Winthrop Town,Newton,543.0
+Winthrop Town,Somerville,1130.0
+Winthrop Town,Boston,24225.0
+Winthrop Town,Chelsea,2970.0
+Winthrop Town,Revere,11036.0
+Winthrop Town,Beverly,86.0
+Winthrop Town,Malden,1091.0
+Winthrop Town,Marlborough,95.0
+Winthrop Town,Worcester,258.0
+Winthrop Town,Brockton,256.0
+Winthrop Town,Lowell,180.0
+Winthrop Town,Medford,1227.0
+Winthrop Town,Melrose,65.0
+Winthrop Town,Waltham,246.0
+Winthrop Town,Woburn,271.0
+Winthrop Town,Cambridge,2291.0
+Winthrop Town,Quincy,201.0
+Winthrop Town,Lynn,2149.0
+Winthrop Town,Methuen Town,166.0
+Winthrop Town,Newburyport,175.0
+Winthrop Town,Peabody,357.0
+Winthrop Town,Salem,386.0
+Winthrop Town,Lawrence,130.0
+Winthrop Town,Arlington,90.0
+Winthrop Town,Belmont,65.0
+Winthrop Town,Brookline,680.0
+Winthrop Town,Burlington,80.0
+Winthrop Town,Danvers,816.0
+Winthrop Town,Lynnfield,869.0
+Winthrop Town,Marblehead,90.0
+Winthrop Town,Pinehurst,86.0
+Winthrop Town,Reading,90.0
+Winthrop Town,Rowley,90.0
+Winthrop Town,Saugus,688.0
+Winthrop Town,Stoneham,456.0
+Winthrop Town,Swampscott,145.0
+Winthrop Town,Wakefield,419.0
+Winthrop Town,Wellesley,145.0
+Winthrop Town,Wilmington,90.0
+Framingham,Southbridge Town,71.0
+Framingham,Palmer Town,116.0
+Framingham,Braintree Town,559.0
+Framingham,Weymouth Town,132.0
+Framingham,Northampton,278.0
+Framingham,Fitchburg,92.0
+Framingham,Everett,176.0
+Framingham,Newton,5209.0
+Framingham,Somerville,809.0
+Framingham,Boston,11414.0
+Framingham,Chelsea,556.0
+Framingham,Taunton,105.0
+Framingham,Malden,213.0
+Framingham,Marlborough,5602.0
+Framingham,Worcester,2770.0
+Framingham,Brockton,73.0
+Framingham,Springfield,122.0
+Framingham,Lowell,404.0
+Framingham,Medford,92.0
+Framingham,Waltham,3923.0
+Framingham,Woburn,318.0
+Framingham,Cambridge,1708.0
+Framingham,Watertown Town,528.0
+Framingham,Quincy,319.0
+Framingham,Franklin Town,232.0
+Framingham,Lynn,168.0
+Framingham,Newburyport,71.0
+Framingham,Peabody,178.0
+Framingham,Lawrence,98.0
+Framingham,Haverhill,59.0
+Framingham,Abington,163.0
+Framingham,Andover,71.0
+Framingham,Arlington,257.0
+Framingham,Belmont,210.0
+Framingham,Brookline,985.0
+Framingham,Burlington,189.0
+Framingham,Cochituate,1603.0
+Framingham,Danvers,240.0
+Framingham,Dedham,1288.0
+Framingham,East Falmouth,73.0
+Framingham,Hingham,105.0
+Framingham,Hudson,499.0
+Framingham,Lexington,486.0
+Framingham,Maynard,84.0
+Framingham,Medfield,151.0
+Framingham,Milford,483.0
+Framingham,Milton,116.0
+Framingham,Monument Beach,105.0
+Framingham,Needham,333.0
+Framingham,Norwood,351.0
+Framingham,Reading,176.0
+Framingham,Stoneham,194.0
+Framingham,Wakefield,290.0
+Framingham,Ware,116.0
+Framingham,Webster,84.0
+Framingham,Wellesley,3821.0
+Framingham,Westborough,312.0
+Framingham,Wilmington,228.0
+Everett,Winthrop Town,189.0
+Everett,Framingham,277.0
+Everett,Newton,1442.0
+Everett,Somerville,2641.0
+Everett,Boston,16509.0
+Everett,Chelsea,7759.0
+Everett,Revere,2204.0
+Everett,New Bedford,78.0
+Everett,Malden,6213.0
+Everett,Worcester,146.0
+Everett,Brockton,55.0
+Everett,Medford,3700.0
+Everett,Melrose,240.0
+Everett,Waltham,563.0
+Everett,Woburn,637.0
+Everett,Cambridge,3970.0
+Everett,Quincy,199.0
+Everett,Lynn,1744.0
+Everett,Methuen Town,67.0
+Everett,Newburyport,78.0
+Everett,Peabody,187.0
+Everett,Salem,199.0
+Everett,Arlington,256.0
+Everett,Belmont,223.0
+Everett,Brookline,366.0
+Everett,Danvers,492.0
+Everett,Dedham,78.0
+Everett,East Sandwich,65.0
+Everett,Holbrook,79.0
+Everett,Hudson,78.0
+Everett,Lexington,223.0
+Everett,Lynnfield,310.0
+Everett,Marblehead,55.0
+Everett,Milford,65.0
+Everett,Milton,133.0
+Everett,Monument Beach,65.0
+Everett,Nahant,67.0
+Everett,Reading,177.0
+Everett,Saugus,538.0
+Everett,Stoneham,447.0
+Everett,Wakefield,526.0
+Everett,Wellesley,67.0
+Everett,Wilmington,65.0
+Newton,Braintree Town,1644.0
+Newton,Weymouth Town,465.0
+Newton,Barnstable Town,244.0
+Newton,Fitchburg,182.0
+Newton,Winthrop Town,334.0
+Newton,Framingham,8448.0
+Newton,Everett,149.0
+Newton,Somerville,1206.0
+Newton,Boston,66946.0
+Newton,Chelsea,110.0
+Newton,Revere,1478.0
+Newton,Gloucester,45.0
+Newton,Fall River,114.0
+Newton,Taunton,294.0
+Newton,Malden,291.0
+Newton,Marlborough,497.0
+Newton,Worcester,699.0
+Newton,Leominster,384.0
+Newton,Brockton,235.0
+Newton,Pittsfield,225.0
+Newton,Holyoke,67.0
+Newton,Springfield,87.0
+Newton,Lowell,440.0
+Newton,Medford,1094.0
+Newton,Melrose,112.0
+Newton,Waltham,28021.0
+Newton,Woburn,1201.0
+Newton,Cambridge,13018.0
+Newton,Watertown Town,1266.0
+Newton,Quincy,2296.0
+Newton,Lynn,1362.0
+Newton,Newburyport,251.0
+Newton,Peabody,113.0
+Newton,Salem,305.0
+Newton,Haverhill,106.0
+Newton,Andover,133.0
+Newton,Arlington,688.0
+Newton,Athol,171.0
+Newton,Barre,133.0
+Newton,Belmont,1574.0
+Newton,Brookline,5452.0
+Newton,Burlington,67.0
+Newton,Danvers,370.0
+Newton,Dedham,10592.0
+Newton,Dennis Port,154.0
+Newton,Lexington,1098.0
+Newton,Lynnfield,175.0
+Newton,Mansfield Center,110.0
+Newton,Maynard,112.0
+Newton,Medfield,67.0
+Newton,Milton,480.0
+Newton,Nantucket,67.0
+Newton,Needham,4242.0
+Newton,Norwood,652.0
+Newton,Plymouth,156.0
+Newton,Reading,45.0
+Newton,Saugus,133.0
+Newton,Smith Mills,241.0
+Newton,Stoneham,613.0
+Newton,Vineyard Haven,91.0
+Newton,Wakefield,219.0
+Newton,Wellesley,8913.0
+Newton,Westborough,131.0
+Newton,West Concord,325.0
+Newton,Wilmington,125.0
+Newton,Winchester,131.0
+Newton,Yarmouth Port,110.0
+Somerville,Braintree Town,81.0
+Somerville,Weymouth Town,122.0
+Somerville,Barnstable Town,162.0
+Somerville,Winthrop Town,106.0
+Somerville,Framingham,470.0
+Somerville,Everett,625.0
+Somerville,Newton,1003.0
+Somerville,Boston,18997.0
+Somerville,Chelsea,1282.0
+Somerville,Revere,1004.0
+Somerville,Malden,1237.0
+Somerville,Marlborough,190.0
+Somerville,Worcester,48.0
+Somerville,Lowell,320.0
+Somerville,Medford,6145.0
+Somerville,Melrose,187.0
+Somerville,Waltham,2240.0
+Somerville,Woburn,899.0
+Somerville,Cambridge,27299.0
+Somerville,Watertown Town,152.0
+Somerville,Quincy,202.0
+Somerville,Lynn,481.0
+Somerville,Methuen Town,84.0
+Somerville,Salem,24.0
+Somerville,Andover,90.0
+Somerville,Arlington,998.0
+Somerville,Belmont,530.0
+Somerville,Brookline,835.0
+Somerville,Danvers,105.0
+Somerville,Kingston,84.0
+Somerville,Lexington,893.0
+Somerville,Lynnfield,274.0
+Somerville,Pinehurst,72.0
+Somerville,Reading,476.0
+Somerville,Saugus,271.0
+Somerville,Stoneham,130.0
+Somerville,Wakefield,548.0
+Somerville,Wellesley,120.0
+Somerville,West Concord,82.0
+Somerville,Wilmington,187.0
+Somerville,Winchester,299.0
+Westfield,Palmer Town,692.0
+Westfield,Weymouth Town,160.0
+Westfield,Barnstable Town,138.0
+Westfield,Northampton,4234.0
+Westfield,Framingham,77.0
+Westfield,Boston,828.0
+Westfield,New Bedford,320.0
+Westfield,Marlborough,77.0
+Westfield,Worcester,504.0
+Westfield,Leominster,138.0
+Westfield,North Adams,77.0
+Westfield,Pittsfield,356.0
+Westfield,Easthampton Town,1944.0
+Westfield,Agawam Town,4845.0
+Westfield,Chicopee,6935.0
+Westfield,Holyoke,8737.0
+Westfield,Springfield,14759.0
+Westfield,West Springfield Town,19262.0
+Westfield,Lowell,77.0
+Westfield,Lynn,178.0
+Westfield,Brookline,77.0
+Westfield,Dedham,77.0
+Westfield,Longmeadow,974.0
+Westfield,North Pembroke,77.0
+Westfield,Oxford,77.0
+Westfield,Turners Falls,87.0
+Westfield,Ware,91.0
+Westfield,Wilbraham,259.0
+Boston,Palmer Town,30.0
+Boston,Braintree Town,26804.0
+Boston,Weymouth Town,1320.0
+Boston,Barnstable Town,1058.0
+Boston,Gardner,14.0
+Boston,Northampton,246.0
+Boston,Fitchburg,710.0
+Boston,Winthrop Town,2537.0
+Boston,Framingham,7304.0
+Boston,Everett,3522.0
+Boston,Newton,38449.0
+Boston,Somerville,15463.0
+Boston,Chelsea,22347.0
+Boston,Revere,14645.0
+Boston,Attleboro,486.0
+Boston,New Bedford,1375.0
+Boston,Beverly,148.0
+Boston,Gloucester,521.0
+Boston,Fall River,1725.0
+Boston,Taunton,778.0
+Boston,Malden,4757.0
+Boston,Marlborough,1824.0
+Boston,Worcester,4800.0
+Boston,Leominster,767.0
+Boston,Brockton,6941.0
+Boston,Pittsfield,143.0
+Boston,Easthampton Town,39.0
+Boston,Chicopee,191.0
+Boston,Holyoke,5.0
+Boston,Springfield,1077.0
+Boston,West Springfield Town,573.0
+Boston,Lowell,2412.0
+Boston,Medford,8069.0
+Boston,Melrose,1084.0
+Boston,Waltham,12252.0
+Boston,Woburn,3534.0
+Boston,Cambridge,66483.0
+Boston,Watertown Town,3425.0
+Boston,Quincy,20491.0
+Boston,Franklin Town,5.0
+Boston,Lynn,9122.0
+Boston,Methuen Town,1305.0
+Boston,Newburyport,98.0
+Boston,Peabody,1339.0
+Boston,Salem,2135.0
+Boston,Lawrence,2055.0
+Boston,Haverhill,989.0
+Boston,Amesbury Town,57.0
+Boston,Abington,168.0
+Boston,Acushnet Center,19.0
+Boston,Andover,653.0
+Boston,Arlington,2015.0
+Boston,Athol,14.0
+Boston,Belmont,3607.0
+Boston,Bliss Corner,55.0
+Boston,Brookline,29992.0
+Boston,Burlington,484.0
+Boston,Clinton,80.0
+Boston,Cochituate,170.0
+Boston,Danvers,961.0
+Boston,Dedham,61718.0
+Boston,Duxbury,63.0
+Boston,East Harwich,20.0
+Boston,Essex,2.0
+Boston,Falmouth,396.0
+Boston,Harwich Center,29.0
+Boston,Hingham,1915.0
+Boston,Holbrook,612.0
+Boston,Hudson,34.0
+Boston,Hull,960.0
+Boston,Kingston,155.0
+Boston,Lexington,1475.0
+Boston,Longmeadow,48.0
+Boston,Lunenburg,48.0
+Boston,Lynnfield,882.0
+Boston,Mansfield Center,105.0
+Boston,Marblehead,101.0
+Boston,Mattapoisett Center,5.0
+Boston,Maynard,242.0
+Boston,Medfield,400.0
+Boston,Milford,240.0
+Boston,Milton,9199.0
+Boston,Monument Beach,74.0
+Boston,Nahant,270.0
+Boston,Nantucket,102.0
+Boston,Needham,5090.0
+Boston,North Pembroke,435.0
+Boston,Norwood,7269.0
+Boston,Pinehurst,66.0
+Boston,Plymouth,82.0
+Boston,Pocasset,87.0
+Boston,Reading,951.0
+Boston,Rowley,2.0
+Boston,Saugus,1204.0
+Boston,Sharon,83.0
+Boston,Smith Mills,131.0
+Boston,South Dennis,262.0
+Boston,South Yarmouth,66.0
+Boston,Stoneham,675.0
+Boston,Swampscott,49.0
+Boston,Topsfield,55.0
+Boston,Upton,78.0
+Boston,Wakefield,657.0
+Boston,Wellesley,5931.0
+Boston,Westborough,165.0
+Boston,West Concord,541.0
+Boston,West Yarmouth,254.0
+Boston,Whitinsville,194.0
+Boston,Wilmington,891.0
+Boston,Winchester,1037.0
+Chelsea,Winthrop Town,283.0
+Chelsea,Framingham,253.0
+Chelsea,Everett,2963.0
+Chelsea,Newton,653.0
+Chelsea,Somerville,1217.0
+Chelsea,Boston,28637.0
+Chelsea,Revere,4425.0
+Chelsea,Beverly,198.0
+Chelsea,Gloucester,132.0
+Chelsea,Malden,1337.0
+Chelsea,Marlborough,124.0
+Chelsea,Worcester,103.0
+Chelsea,Brockton,134.0
+Chelsea,Springfield,114.0
+Chelsea,Medford,1894.0
+Chelsea,Melrose,132.0
+Chelsea,Waltham,355.0
+Chelsea,Woburn,59.0
+Chelsea,Cambridge,3390.0
+Chelsea,Watertown Town,48.0
+Chelsea,Quincy,224.0
+Chelsea,Lynn,2954.0
+Chelsea,Newburyport,48.0
+Chelsea,Peabody,360.0
+Chelsea,Salem,505.0
+Chelsea,Lawrence,204.0
+Chelsea,Haverhill,59.0
+Chelsea,Arlington,146.0
+Chelsea,Belmont,156.0
+Chelsea,Brookline,454.0
+Chelsea,Burlington,48.0
+Chelsea,Danvers,550.0
+Chelsea,Hingham,135.0
+Chelsea,Lexington,385.0
+Chelsea,Littleton Common,59.0
+Chelsea,Lunenburg,32.0
+Chelsea,Lynnfield,139.0
+Chelsea,Marblehead,48.0
+Chelsea,Milton,38.0
+Chelsea,Norwood,194.0
+Chelsea,Reading,347.0
+Chelsea,Rockport,32.0
+Chelsea,Saugus,533.0
+Chelsea,Stoneham,32.0
+Chelsea,Swampscott,48.0
+Chelsea,Wakefield,80.0
+Chelsea,Wellesley,62.0
+Chelsea,Wilmington,76.0
+Chelsea,Winchester,59.0
+Revere,Braintree Town,375.0
+Revere,Weymouth Town,34.0
+Revere,Barnstable Town,63.0
+Revere,Winthrop Town,1801.0
+Revere,Framingham,198.0
+Revere,Everett,2189.0
+Revere,Newton,1313.0
+Revere,Somerville,1564.0
+Revere,Boston,34789.0
+Revere,Chelsea,10258.0
+Revere,New Bedford,34.0
+Revere,Beverly,177.0
+Revere,Gloucester,81.0
+Revere,Malden,2235.0
+Revere,Marlborough,63.0
+Revere,Worcester,134.0
+Revere,Brockton,57.0
+Revere,Lowell,217.0
+Revere,Medford,2098.0
+Revere,Melrose,154.0
+Revere,Waltham,1117.0
+Revere,Woburn,378.0
+Revere,Cambridge,5824.0
+Revere,Watertown Town,163.0
+Revere,Quincy,225.0
+Revere,Lynn,4808.0
+Revere,Newburyport,73.0
+Revere,Peabody,342.0
+Revere,Salem,219.0
+Revere,Lawrence,171.0
+Revere,Haverhill,57.0
+Revere,Amesbury Town,63.0
+Revere,Arlington,171.0
+Revere,Belmont,287.0
+Revere,Brookline,602.0
+Revere,Burlington,81.0
+Revere,Danvers,1050.0
+Revere,Dedham,180.0
+Revere,Lexington,129.0
+Revere,Lynnfield,535.0
+Revere,Marblehead,57.0
+Revere,Maynard,57.0
+Revere,Milton,73.0
+Revere,Nahant,126.0
+Revere,Needham,57.0
+Revere,Norwood,162.0
+Revere,Pinehurst,268.0
+Revere,Reading,68.0
+Revere,Rowley,57.0
+Revere,Saugus,640.0
+Revere,Stoneham,267.0
+Revere,Swampscott,114.0
+Revere,Wakefield,504.0
+Revere,Westborough,34.0
+Revere,Wilmington,207.0
+Revere,Winchester,57.0
+Attleboro,Braintree Town,323.0
+Attleboro,Weymouth Town,85.0
+Attleboro,Barnstable Town,85.0
+Attleboro,Gardner,85.0
+Attleboro,Northampton,62.0
+Attleboro,Fitchburg,255.0
+Attleboro,Framingham,710.0
+Attleboro,Newton,254.0
+Attleboro,Somerville,427.0
+Attleboro,Boston,7121.0
+Attleboro,Chelsea,62.0
+Attleboro,New Bedford,157.0
+Attleboro,Fall River,657.0
+Attleboro,Taunton,3409.0
+Attleboro,Marlborough,155.0
+Attleboro,Worcester,147.0
+Attleboro,Leominster,87.0
+Attleboro,Brockton,1034.0
+Attleboro,West Springfield Town,87.0
+Attleboro,Lowell,106.0
+Attleboro,Medford,85.0
+Attleboro,Waltham,284.0
+Attleboro,Woburn,87.0
+Attleboro,Cambridge,889.0
+Attleboro,Watertown Town,38.0
+Attleboro,Quincy,242.0
+Attleboro,Lynn,110.0
+Attleboro,Methuen Town,70.0
+Attleboro,Lawrence,124.0
+Attleboro,Abington,62.0
+Attleboro,Acushnet Center,171.0
+Attleboro,Arlington,170.0
+Attleboro,Brookline,25.0
+Attleboro,Clinton,70.0
+Attleboro,Danvers,62.0
+Attleboro,Dedham,1199.0
+Attleboro,East Dennis,87.0
+Attleboro,Holbrook,119.0
+Attleboro,Lexington,87.0
+Attleboro,Mansfield Center,928.0
+Attleboro,Milford,174.0
+Attleboro,Milton,195.0
+Attleboro,Needham,516.0
+Attleboro,Norwood,2029.0
+Attleboro,Plymouth,85.0
+Attleboro,Somerset,298.0
+Attleboro,Wellesley,174.0
+Attleboro,Westborough,108.0
+Attleboro,West Yarmouth,87.0
+Attleboro,Wilmington,70.0
+New Bedford,Braintree Town,744.0
+New Bedford,Barnstable Town,1557.0
+New Bedford,Framingham,209.0
+New Bedford,Everett,69.0
+New Bedford,Newton,107.0
+New Bedford,Somerville,295.0
+New Bedford,Boston,7706.0
+New Bedford,Chelsea,251.0
+New Bedford,Revere,83.0
+New Bedford,Attleboro,818.0
+New Bedford,Fall River,14785.0
+New Bedford,Taunton,4842.0
+New Bedford,Malden,189.0
+New Bedford,Marlborough,508.0
+New Bedford,Worcester,892.0
+New Bedford,Brockton,2851.0
+New Bedford,Chicopee,79.0
+New Bedford,Springfield,198.0
+New Bedford,West Springfield Town,83.0
+New Bedford,Lowell,79.0
+New Bedford,Medford,163.0
+New Bedford,Waltham,404.0
+New Bedford,Woburn,242.0
+New Bedford,Cambridge,1241.0
+New Bedford,Watertown Town,567.0
+New Bedford,Quincy,607.0
+New Bedford,Franklin Town,89.0
+New Bedford,Lynn,114.0
+New Bedford,Lawrence,193.0
+New Bedford,Haverhill,284.0
+New Bedford,Abington,239.0
+New Bedford,Acushnet Center,1824.0
+New Bedford,Bliss Corner,6164.0
+New Bedford,Brookline,228.0
+New Bedford,Burlington,75.0
+New Bedford,Danvers,300.0
+New Bedford,Dedham,288.0
+New Bedford,Duxbury,83.0
+New Bedford,East Falmouth,366.0
+New Bedford,East Sandwich,78.0
+New Bedford,Falmouth,133.0
+New Bedford,Harwich Center,75.0
+New Bedford,Hingham,72.0
+New Bedford,Lexington,61.0
+New Bedford,Mattapoisett Center,1275.0
+New Bedford,Milford,79.0
+New Bedford,Nantucket,83.0
+New Bedford,Needham,123.0
+New Bedford,North Falmouth,91.0
+New Bedford,North Lakeville,364.0
+New Bedford,North Pembroke,138.0
+New Bedford,North Westport,1544.0
+New Bedford,Norwood,184.0
+New Bedford,Plymouth,80.0
+New Bedford,Pocasset,136.0
+New Bedford,Sagamore,147.0
+New Bedford,Sharon,61.0
+New Bedford,Smith Mills,53590.0
+New Bedford,Somerset,1654.0
+New Bedford,South Dennis,136.0
+New Bedford,Vineyard Haven,77.0
+New Bedford,Wellesley,61.0
+Beverly,Barnstable Town,52.0
+Beverly,Newton,137.0
+Beverly,Somerville,276.0
+Beverly,Boston,2950.0
+Beverly,Chelsea,475.0
+Beverly,Revere,307.0
+Beverly,Gloucester,1707.0
+Beverly,Fall River,170.0
+Beverly,Taunton,85.0
+Beverly,Malden,52.0
+Beverly,Worcester,119.0
+Beverly,Lowell,171.0
+Beverly,Medford,335.0
+Beverly,Melrose,119.0
+Beverly,Waltham,794.0
+Beverly,Woburn,578.0
+Beverly,Cambridge,119.0
+Beverly,Watertown Town,66.0
+Beverly,Lynn,2003.0
+Beverly,Methuen Town,181.0
+Beverly,Newburyport,331.0
+Beverly,Peabody,2698.0
+Beverly,Salem,3248.0
+Beverly,Lawrence,137.0
+Beverly,Haverhill,119.0
+Beverly,Amesbury Town,52.0
+Beverly,Belmont,222.0
+Beverly,Burlington,119.0
+Beverly,Danvers,8412.0
+Beverly,Essex,105.0
+Beverly,Ipswich,52.0
+Beverly,Lexington,85.0
+Beverly,Lynnfield,1817.0
+Beverly,Marblehead,300.0
+Beverly,North Pembroke,52.0
+Beverly,Reading,317.0
+Beverly,Rowley,85.0
+Beverly,Saugus,52.0
+Beverly,Stoneham,436.0
+Beverly,Swampscott,321.0
+Beverly,Topsfield,52.0
+Beverly,Wakefield,554.0
+Beverly,Wilmington,119.0
+Gloucester,Braintree Town,144.0
+Gloucester,Barnstable Town,62.0
+Gloucester,Framingham,108.0
+Gloucester,Everett,76.0
+Gloucester,Newton,108.0
+Gloucester,Somerville,508.0
+Gloucester,Boston,4793.0
+Gloucester,Chelsea,278.0
+Gloucester,Revere,279.0
+Gloucester,Beverly,2714.0
+Gloucester,Malden,124.0
+Gloucester,Worcester,331.0
+Gloucester,Holyoke,76.0
+Gloucester,Lowell,108.0
+Gloucester,Medford,386.0
+Gloucester,Melrose,108.0
+Gloucester,Waltham,152.0
+Gloucester,Woburn,204.0
+Gloucester,Cambridge,646.0
+Gloucester,Watertown Town,62.0
+Gloucester,Lynn,851.0
+Gloucester,Methuen Town,117.0
+Gloucester,Newburyport,559.0
+Gloucester,Peabody,1262.0
+Gloucester,Salem,2263.0
+Gloucester,Lawrence,82.0
+Gloucester,Haverhill,629.0
+Gloucester,Amesbury Town,354.0
+Gloucester,Andover,76.0
+Gloucester,Arlington,124.0
+Gloucester,Belmont,62.0
+Gloucester,Brookline,225.0
+Gloucester,Danvers,4730.0
+Gloucester,Essex,1885.0
+Gloucester,Ipswich,297.0
+Gloucester,Lynnfield,2243.0
+Gloucester,Marblehead,76.0
+Gloucester,Reading,62.0
+Gloucester,Rockport,1764.0
+Gloucester,Rowley,393.0
+Gloucester,Saugus,637.0
+Gloucester,Smith Mills,328.0
+Gloucester,South Duxbury,117.0
+Gloucester,Stoneham,396.0
+Gloucester,Swampscott,82.0
+Gloucester,Wakefield,77.0
+Gloucester,Wilmington,184.0
+Fall River,Braintree Town,958.0
+Fall River,Weymouth Town,158.0
+Fall River,Barnstable Town,248.0
+Fall River,Fitchburg,61.0
+Fall River,Framingham,484.0
+Fall River,Everett,65.0
+Fall River,Newton,209.0
+Fall River,Somerville,142.0
+Fall River,Boston,8231.0
+Fall River,Chelsea,212.0
+Fall River,Revere,61.0
+Fall River,Attleboro,583.0
+Fall River,New Bedford,10876.0
+Fall River,Beverly,103.0
+Fall River,Gloucester,123.0
+Fall River,Taunton,6689.0
+Fall River,Marlborough,93.0
+Fall River,Worcester,1207.0
+Fall River,Brockton,2467.0
+Fall River,Springfield,192.0
+Fall River,Lowell,78.0
+Fall River,Waltham,487.0
+Fall River,Woburn,61.0
+Fall River,Cambridge,499.0
+Fall River,Watertown Town,486.0
+Fall River,Quincy,136.0
+Fall River,Lynn,268.0
+Fall River,Methuen Town,159.0
+Fall River,Lawrence,129.0
+Fall River,Abington,206.0
+Fall River,Acushnet Center,189.0
+Fall River,Arlington,61.0
+Fall River,Bliss Corner,265.0
+Fall River,Brookline,72.0
+Fall River,Danvers,275.0
+Fall River,Dedham,471.0
+Fall River,East Falmouth,65.0
+Fall River,Falmouth,187.0
+Fall River,Kingston,311.0
+Fall River,Lexington,65.0
+Fall River,Lynnfield,60.0
+Fall River,Mansfield Center,238.0
+Fall River,Mattapoisett Center,264.0
+Fall River,Medfield,60.0
+Fall River,Milford,61.0
+Fall River,Milton,115.0
+Fall River,Monument Beach,325.0
+Fall River,Needham,65.0
+Fall River,North Lakeville,254.0
+Fall River,North Pembroke,192.0
+Fall River,North Plymouth,132.0
+Fall River,North Westport,2462.0
+Fall River,Norwood,479.0
+Fall River,Plymouth,310.0
+Fall River,Pocasset,54.0
+Fall River,Sagamore,153.0
+Fall River,Smith Mills,18574.0
+Fall River,Somerset,12589.0
+Fall River,South Yarmouth,133.0
+Fall River,Stoneham,75.0
+Fall River,Swampscott,60.0
+Fall River,Turners Falls,54.0
+Fall River,Wakefield,72.0
+Fall River,Wellesley,69.0
+Fall River,Westborough,72.0
+Fall River,Wilmington,157.0
+Fall River,Winchester,61.0
+Taunton,Southbridge Town,196.0
+Taunton,Braintree Town,2405.0
+Taunton,Weymouth Town,239.0
+Taunton,Barnstable Town,1385.0
+Taunton,Fitchburg,180.0
+Taunton,Winthrop Town,72.0
+Taunton,Framingham,799.0
+Taunton,Everett,74.0
+Taunton,Newton,741.0
+Taunton,Somerville,255.0
+Taunton,Boston,12522.0
+Taunton,Chelsea,87.0
+Taunton,Revere,78.0
+Taunton,Attleboro,2246.0
+Taunton,New Bedford,4055.0
+Taunton,Gloucester,87.0
+Taunton,Fall River,5551.0
+Taunton,Malden,74.0
+Taunton,Marlborough,144.0
+Taunton,Worcester,243.0
+Taunton,Leominster,180.0
+Taunton,Brockton,10242.0
+Taunton,North Adams,80.0
+Taunton,Holyoke,78.0
+Taunton,Springfield,74.0
+Taunton,Lowell,77.0
+Taunton,Medford,326.0
+Taunton,Waltham,387.0
+Taunton,Woburn,42.0
+Taunton,Cambridge,361.0
+Taunton,Watertown Town,227.0
+Taunton,Quincy,1297.0
+Taunton,Franklin Town,52.0
+Taunton,Methuen Town,77.0
+Taunton,Peabody,287.0
+Taunton,Haverhill,153.0
+Taunton,Abington,760.0
+Taunton,Arlington,42.0
+Taunton,Bliss Corner,160.0
+Taunton,Brookline,231.0
+Taunton,Danvers,157.0
+Taunton,Dedham,1525.0
+Taunton,Duxbury,81.0
+Taunton,East Dennis,90.0
+Taunton,Falmouth,42.0
+Taunton,Harwich Center,72.0
+Taunton,Hingham,327.0
+Taunton,Holbrook,42.0
+Taunton,Hull,66.0
+Taunton,Kingston,308.0
+Taunton,Lexington,180.0
+Taunton,Mansfield Center,925.0
+Taunton,Marshfield,42.0
+Taunton,Maynard,81.0
+Taunton,Medfield,100.0
+Taunton,Milford,78.0
+Taunton,Milton,324.0
+Taunton,Monument Beach,235.0
+Taunton,Nantucket,80.0
+Taunton,Needham,395.0
+Taunton,North Falmouth,167.0
+Taunton,North Lakeville,1133.0
+Taunton,North Pembroke,174.0
+Taunton,North Plymouth,81.0
+Taunton,North Westport,80.0
+Taunton,Norwood,1753.0
+Taunton,Pinehurst,87.0
+Taunton,Plymouth,80.0
+Taunton,Sharon,245.0
+Taunton,Smith Mills,1034.0
+Taunton,Somerset,617.0
+Taunton,South Duxbury,91.0
+Taunton,South Yarmouth,125.0
+Taunton,Stoneham,77.0
+Taunton,Swampscott,42.0
+Taunton,Wellesley,912.0
+Taunton,Westborough,72.0
+Taunton,Wilmington,164.0
+Malden,Braintree Town,651.0
+Malden,Weymouth Town,70.0
+Malden,Winthrop Town,246.0
+Malden,Framingham,150.0
+Malden,Everett,5276.0
+Malden,Newton,1086.0
+Malden,Somerville,3856.0
+Malden,Westfield,70.0
+Malden,Boston,33597.0
+Malden,Chelsea,4393.0
+Malden,Revere,2220.0
+Malden,New Bedford,75.0
+Malden,Beverly,342.0
+Malden,Gloucester,122.0
+Malden,Taunton,100.0
+Malden,Marlborough,45.0
+Malden,Worcester,228.0
+Malden,Brockton,127.0
+Malden,Agawam Town,70.0
+Malden,Springfield,19.0
+Malden,Lowell,387.0
+Malden,Medford,13805.0
+Malden,Melrose,2164.0
+Malden,Waltham,962.0
+Malden,Woburn,1246.0
+Malden,Cambridge,9937.0
+Malden,Watertown Town,434.0
+Malden,Quincy,877.0
+Malden,Lynn,2189.0
+Malden,Methuen Town,129.0
+Malden,Newburyport,145.0
+Malden,Peabody,650.0
+Malden,Salem,443.0
+Malden,Lawrence,240.0
+Malden,Haverhill,64.0
+Malden,Amesbury Town,38.0
+Malden,Andover,215.0
+Malden,Arlington,1075.0
+Malden,Belmont,556.0
+Malden,Brookline,973.0
+Malden,Burlington,70.0
+Malden,Danvers,1528.0
+Malden,Dedham,201.0
+Malden,Ipswich,84.0
+Malden,Lexington,636.0
+Malden,Lynnfield,1037.0
+Malden,Mansfield Center,45.0
+Malden,Marblehead,209.0
+Malden,Milton,45.0
+Malden,Nahant,91.0
+Malden,Pinehurst,175.0
+Malden,Reading,427.0
+Malden,Saugus,1545.0
+Malden,Smith Mills,84.0
+Malden,Stoneham,2373.0
+Malden,Swampscott,70.0
+Malden,Wakefield,834.0
+Malden,Wellesley,339.0
+Malden,Wilmington,302.0
+Malden,Winchester,838.0
+Marlborough,Southbridge Town,82.0
+Marlborough,Barnstable Town,208.0
+Marlborough,Gardner,117.0
+Marlborough,Fitchburg,175.0
+Marlborough,Framingham,9967.0
+Marlborough,Everett,82.0
+Marlborough,Newton,1608.0
+Marlborough,Somerville,93.0
+Marlborough,Westfield,93.0
+Marlborough,Boston,5376.0
+Marlborough,Chelsea,72.0
+Marlborough,New Bedford,93.0
+Marlborough,Fall River,72.0
+Marlborough,Taunton,154.0
+Marlborough,Worcester,4630.0
+Marlborough,Leominster,1094.0
+Marlborough,Brockton,82.0
+Marlborough,Chicopee,401.0
+Marlborough,Holyoke,186.0
+Marlborough,Springfield,165.0
+Marlborough,Lowell,302.0
+Marlborough,Medford,144.0
+Marlborough,Melrose,72.0
+Marlborough,Waltham,3078.0
+Marlborough,Woburn,299.0
+Marlborough,Cambridge,1762.0
+Marlborough,Watertown Town,72.0
+Marlborough,Lynn,93.0
+Marlborough,Methuen Town,43.0
+Marlborough,Andover,90.0
+Marlborough,Arlington,400.0
+Marlborough,Belmont,165.0
+Marlborough,Brookline,619.0
+Marlborough,Clinton,406.0
+Marlborough,Cochituate,165.0
+Marlborough,Danvers,280.0
+Marlborough,Dedham,330.0
+Marlborough,Dennis Port,72.0
+Marlborough,Duxbury,43.0
+Marlborough,Hudson,4497.0
+Marlborough,Lexington,72.0
+Marlborough,Littleton Common,72.0
+Marlborough,Maynard,269.0
+Marlborough,Needham,298.0
+Marlborough,Northborough,530.0
+Marlborough,Norwood,236.0
+Marlborough,Oxford,43.0
+Marlborough,Reading,82.0
+Marlborough,Smith Mills,145.0
+Marlborough,South Yarmouth,414.0
+Marlborough,Stoneham,165.0
+Marlborough,Wakefield,43.0
+Marlborough,Webster,43.0
+Marlborough,Wellesley,309.0
+Marlborough,Westborough,676.0
+Marlborough,West Concord,93.0
+Marlborough,Wilmington,224.0
+Marlborough,Winchester,93.0
+Worcester,Southbridge Town,837.0
+Worcester,Palmer Town,83.0
+Worcester,Braintree Town,610.0
+Worcester,Weymouth Town,136.0
+Worcester,Barnstable Town,199.0
+Worcester,Gardner,888.0
+Worcester,Northampton,67.0
+Worcester,Fitchburg,2732.0
+Worcester,Winthrop Town,87.0
+Worcester,Framingham,6596.0
+Worcester,Everett,104.0
+Worcester,Newton,1447.0
+Worcester,Somerville,691.0
+Worcester,Westfield,49.0
+Worcester,Boston,14284.0
+Worcester,Chelsea,500.0
+Worcester,Revere,59.0
+Worcester,Attleboro,55.0
+Worcester,Fall River,508.0
+Worcester,Taunton,471.0
+Worcester,Malden,63.0
+Worcester,Marlborough,10239.0
+Worcester,Leominster,4119.0
+Worcester,Brockton,214.0
+Worcester,Pittsfield,209.0
+Worcester,Easthampton Town,247.0
+Worcester,Chicopee,721.0
+Worcester,Holyoke,283.0
+Worcester,Springfield,1807.0
+Worcester,West Springfield Town,169.0
+Worcester,Lowell,812.0
+Worcester,Waltham,1333.0
+Worcester,Woburn,447.0
+Worcester,Cambridge,1806.0
+Worcester,Watertown Town,621.0
+Worcester,Quincy,170.0
+Worcester,Franklin Town,346.0
+Worcester,Lynn,289.0
+Worcester,Methuen Town,486.0
+Worcester,Newburyport,80.0
+Worcester,Peabody,64.0
+Worcester,Salem,273.0
+Worcester,Lawrence,500.0
+Worcester,Haverhill,518.0
+Worcester,Abington,84.0
+Worcester,Andover,352.0
+Worcester,Arlington,151.0
+Worcester,Athol,84.0
+Worcester,Barre,407.0
+Worcester,Brookline,354.0
+Worcester,Burlington,56.0
+Worcester,Clinton,825.0
+Worcester,Cochituate,129.0
+Worcester,Danvers,270.0
+Worcester,Dedham,603.0
+Worcester,Dennis,50.0
+Worcester,Hopedale,232.0
+Worcester,Hudson,977.0
+Worcester,Lexington,224.0
+Worcester,Littleton Common,117.0
+Worcester,Lunenburg,148.0
+Worcester,Lynnfield,100.0
+Worcester,Marshfield,87.0
+Worcester,Maynard,210.0
+Worcester,Milford,402.0
+Worcester,Needham,100.0
+Worcester,Northborough,556.0
+Worcester,Norwood,274.0
+Worcester,Oxford,2065.0
+Worcester,Pinehurst,123.0
+Worcester,Smith Mills,56.0
+Worcester,South Yarmouth,80.0
+Worcester,Spencer,542.0
+Worcester,Stoneham,291.0
+Worcester,Upton,217.0
+Worcester,Wakefield,82.0
+Worcester,Ware,99.0
+Worcester,Webster,1529.0
+Worcester,Wellesley,814.0
+Worcester,Westborough,1951.0
+Worcester,West Concord,83.0
+Worcester,Whitinsville,687.0
+Worcester,Wilmington,114.0
+Worcester,Winchester,193.0
+Leominster,Braintree Town,213.0
+Leominster,Gardner,2270.0
+Leominster,Northampton,67.0
+Leominster,Fitchburg,16351.0
+Leominster,Framingham,837.0
+Leominster,Newton,306.0
+Leominster,Somerville,67.0
+Leominster,Westfield,73.0
+Leominster,Boston,2912.0
+Leominster,Chelsea,73.0
+Leominster,Revere,219.0
+Leominster,Gloucester,67.0
+Leominster,Taunton,73.0
+Leominster,Marlborough,2442.0
+Leominster,Worcester,5089.0
+Leominster,Springfield,271.0
+Leominster,West Springfield Town,67.0
+Leominster,Lowell,795.0
+Leominster,Waltham,869.0
+Leominster,Woburn,208.0
+Leominster,Cambridge,202.0
+Leominster,Watertown Town,51.0
+Leominster,Lynn,213.0
+Leominster,Lawrence,96.0
+Leominster,Andover,169.0
+Leominster,Brookline,36.0
+Leominster,Burlington,96.0
+Leominster,Clinton,380.0
+Leominster,Cochituate,101.0
+Leominster,Danvers,71.0
+Leominster,Dedham,307.0
+Leominster,East Pepperell,169.0
+Leominster,Hudson,96.0
+Leominster,Lexington,73.0
+Leominster,Littleton Common,337.0
+Leominster,Lunenburg,4213.0
+Leominster,Lynnfield,193.0
+Leominster,Maynard,67.0
+Leominster,Milton,96.0
+Leominster,Needham,29.0
+Leominster,Northborough,146.0
+Leominster,North Lakeville,73.0
+Leominster,Oxford,73.0
+Leominster,Reading,71.0
+Leominster,Saugus,84.0
+Leominster,Wakefield,71.0
+Leominster,Ware,96.0
+Leominster,Wellesley,96.0
+Leominster,Westborough,146.0
+Leominster,West Concord,240.0
+Leominster,Whitinsville,71.0
+Leominster,Wilmington,209.0
+Leominster,Winchester,73.0
+Brockton,Braintree Town,11987.0
+Brockton,Weymouth Town,1074.0
+Brockton,Barnstable Town,347.0
+Brockton,Fitchburg,198.0
+Brockton,Framingham,1013.0
+Brockton,Everett,106.0
+Brockton,Newton,1972.0
+Brockton,Somerville,532.0
+Brockton,Westfield,193.0
+Brockton,Boston,48858.0
+Brockton,Chelsea,370.0
+Brockton,Revere,510.0
+Brockton,Attleboro,531.0
+Brockton,New Bedford,1182.0
+Brockton,Gloucester,150.0
+Brockton,Fall River,1264.0
+Brockton,Taunton,3629.0
+Brockton,Malden,266.0
+Brockton,Marlborough,216.0
+Brockton,Worcester,844.0
+Brockton,Leominster,166.0
+Brockton,Springfield,222.0
+Brockton,West Springfield Town,155.0
+Brockton,Lowell,401.0
+Brockton,Medford,313.0
+Brockton,Waltham,1251.0
+Brockton,Woburn,149.0
+Brockton,Cambridge,2938.0
+Brockton,Watertown Town,523.0
+Brockton,Quincy,3586.0
+Brockton,Franklin Town,75.0
+Brockton,Lynn,769.0
+Brockton,Methuen Town,60.0
+Brockton,Newburyport,53.0
+Brockton,Peabody,58.0
+Brockton,Salem,143.0
+Brockton,Lawrence,434.0
+Brockton,Amesbury Town,69.0
+Brockton,Abington,6342.0
+Brockton,Andover,69.0
+Brockton,Arlington,121.0
+Brockton,Belmont,80.0
+Brockton,Brookline,727.0
+Brockton,Burlington,77.0
+Brockton,Danvers,272.0
+Brockton,Dedham,3957.0
+Brockton,Hingham,205.0
+Brockton,Holbrook,2452.0
+Brockton,Hull,150.0
+Brockton,Kingston,183.0
+Brockton,Lexington,60.0
+Brockton,Lunenburg,77.0
+Brockton,Lynnfield,77.0
+Brockton,Mansfield Center,355.0
+Brockton,Milford,198.0
+Brockton,Milton,1616.0
+Brockton,Monument Beach,184.0
+Brockton,Nantucket,61.0
+Brockton,Needham,381.0
+Brockton,North Lakeville,229.0
+Brockton,North Pembroke,316.0
+Brockton,North Plymouth,129.0
+Brockton,Norwood,2044.0
+Brockton,Plymouth,362.0
+Brockton,Reading,90.0
+Brockton,Sagamore,80.0
+Brockton,Sandwich,80.0
+Brockton,Sharon,75.0
+Brockton,Smith Mills,186.0
+Brockton,Somerset,155.0
+Brockton,South Duxbury,286.0
+Brockton,Stoneham,75.0
+Brockton,Wellesley,507.0
+Brockton,West Yarmouth,80.0
+Brockton,Wilmington,138.0
+North Adams,Gardner,110.0
+North Adams,Northampton,528.0
+North Adams,Boston,79.0
+North Adams,Attleboro,79.0
+North Adams,Worcester,109.0
+North Adams,Pittsfield,8493.0
+North Adams,Springfield,79.0
+North Adams,West Springfield Town,258.0
+North Adams,Adams,3114.0
+North Adams,Wilbraham,110.0
+North Adams,Williamstown,1878.0
+Pittsfield,Palmer Town,175.0
+Pittsfield,Braintree Town,35.0
+Pittsfield,Northampton,457.0
+Pittsfield,Newton,107.0
+Pittsfield,Westfield,451.0
+Pittsfield,Boston,524.0
+Pittsfield,Beverly,89.0
+Pittsfield,Worcester,512.0
+Pittsfield,North Adams,2362.0
+Pittsfield,Agawam Town,107.0
+Pittsfield,Chicopee,432.0
+Pittsfield,Holyoke,300.0
+Pittsfield,Springfield,1738.0
+Pittsfield,West Springfield Town,988.0
+Pittsfield,Haverhill,137.0
+Pittsfield,Adams,913.0
+Pittsfield,Longmeadow,319.0
+Pittsfield,Milton,89.0
+Pittsfield,North Pembroke,103.0
+Pittsfield,South Dennis,44.0
+Pittsfield,Williamstown,378.0
+Easthampton Town,Palmer Town,129.0
+Easthampton Town,Northampton,12073.0
+Easthampton Town,Westfield,2552.0
+Easthampton Town,Boston,212.0
+Easthampton Town,Worcester,73.0
+Easthampton Town,Pittsfield,202.0
+Easthampton Town,Agawam Town,221.0
+Easthampton Town,Chicopee,1329.0
+Easthampton Town,Holyoke,3609.0
+Easthampton Town,Springfield,3327.0
+Easthampton Town,West Springfield Town,3400.0
+Easthampton Town,Cambridge,184.0
+Easthampton Town,Watertown Town,73.0
+Easthampton Town,Arlington,129.0
+Easthampton Town,Athol,92.0
+Easthampton Town,Longmeadow,73.0
+Easthampton Town,Turners Falls,259.0
+Easthampton Town,Ware,129.0
+Agawam Town,Palmer Town,70.0
+Agawam Town,Braintree Town,200.0
+Agawam Town,Northampton,1243.0
+Agawam Town,Framingham,189.0
+Agawam Town,Newton,346.0
+Agawam Town,Westfield,9726.0
+Agawam Town,Boston,903.0
+Agawam Town,Revere,66.0
+Agawam Town,Malden,78.0
+Agawam Town,Worcester,402.0
+Agawam Town,Brockton,94.0
+Agawam Town,North Adams,94.0
+Agawam Town,Pittsfield,288.0
+Agawam Town,Easthampton Town,929.0
+Agawam Town,Chicopee,3788.0
+Agawam Town,Holyoke,3415.0
+Agawam Town,Springfield,21365.0
+Agawam Town,West Springfield Town,24702.0
+Agawam Town,Waltham,283.0
+Agawam Town,Woburn,70.0
+Agawam Town,Watertown Town,66.0
+Agawam Town,Dedham,66.0
+Agawam Town,Longmeadow,1024.0
+Agawam Town,Pocasset,70.0
+Agawam Town,South Yarmouth,94.0
+Agawam Town,Ware,157.0
+Agawam Town,Wilbraham,359.0
+Agawam Town,Williamstown,94.0
+Chicopee,Southbridge Town,87.0
+Chicopee,Palmer Town,539.0
+Chicopee,Barnstable Town,228.0
+Chicopee,Northampton,3557.0
+Chicopee,Framingham,70.0
+Chicopee,Westfield,4456.0
+Chicopee,Boston,1216.0
+Chicopee,Taunton,87.0
+Chicopee,Marlborough,32.0
+Chicopee,Worcester,690.0
+Chicopee,North Adams,43.0
+Chicopee,Pittsfield,331.0
+Chicopee,Easthampton Town,1129.0
+Chicopee,Agawam Town,2640.0
+Chicopee,Holyoke,15992.0
+Chicopee,Springfield,47926.0
+Chicopee,West Springfield Town,14918.0
+Chicopee,Cambridge,32.0
+Chicopee,Watertown Town,246.0
+Chicopee,Lynn,142.0
+Chicopee,Dedham,87.0
+Chicopee,Longmeadow,983.0
+Chicopee,Turners Falls,102.0
+Chicopee,Ware,98.0
+Chicopee,Webster,148.0
+Chicopee,Wilbraham,949.0
+Holyoke,Palmer Town,216.0
+Holyoke,Northampton,5976.0
+Holyoke,Fitchburg,484.0
+Holyoke,Everett,52.0
+Holyoke,Westfield,2972.0
+Holyoke,Boston,1120.0
+Holyoke,Beverly,73.0
+Holyoke,Fall River,142.0
+Holyoke,Marlborough,69.0
+Holyoke,Worcester,125.0
+Holyoke,Leominster,173.0
+Holyoke,Pittsfield,192.0
+Holyoke,Easthampton Town,2396.0
+Holyoke,Agawam Town,908.0
+Holyoke,Chicopee,13348.0
+Holyoke,Springfield,18578.0
+Holyoke,West Springfield Town,10346.0
+Holyoke,Cambridge,203.0
+Holyoke,Watertown Town,141.0
+Holyoke,Lynn,179.0
+Holyoke,Peabody,177.0
+Holyoke,Dedham,104.0
+Holyoke,Longmeadow,198.0
+Holyoke,Reading,73.0
+Holyoke,Somerset,69.0
+Holyoke,Wellesley,87.0
+Holyoke,Wilbraham,315.0
+Springfield,Southbridge Town,128.0
+Springfield,Palmer Town,1818.0
+Springfield,Braintree Town,222.0
+Springfield,Barnstable Town,46.0
+Springfield,Gardner,123.0
+Springfield,Northampton,4596.0
+Springfield,Fitchburg,454.0
+Springfield,Framingham,262.0
+Springfield,Everett,81.0
+Springfield,Newton,146.0
+Springfield,Somerville,121.0
+Springfield,Westfield,7794.0
+Springfield,Boston,4045.0
+Springfield,Revere,94.0
+Springfield,New Bedford,213.0
+Springfield,Gloucester,110.0
+Springfield,Fall River,114.0
+Springfield,Malden,65.0
+Springfield,Marlborough,118.0
+Springfield,Worcester,3020.0
+Springfield,Leominster,550.0
+Springfield,Brockton,75.0
+Springfield,North Adams,113.0
+Springfield,Pittsfield,786.0
+Springfield,Easthampton Town,847.0
+Springfield,Agawam Town,4779.0
+Springfield,Chicopee,37685.0
+Springfield,Holyoke,19388.0
+Springfield,West Springfield Town,42074.0
+Springfield,Lowell,60.0
+Springfield,Waltham,126.0
+Springfield,Cambridge,225.0
+Springfield,Watertown Town,627.0
+Springfield,Quincy,46.0
+Springfield,Lynn,650.0
+Springfield,Newburyport,51.0
+Springfield,Peabody,64.0
+Springfield,Lawrence,60.0
+Springfield,Haverhill,46.0
+Springfield,Danvers,170.0
+Springfield,Dedham,47.0
+Springfield,Hudson,55.0
+Springfield,Lexington,85.0
+Springfield,Longmeadow,4139.0
+Springfield,Lynnfield,27.0
+Springfield,Maynard,85.0
+Springfield,Milford,65.0
+Springfield,Monument Beach,55.0
+Springfield,North Pembroke,54.0
+Springfield,Rowley,85.0
+Springfield,Smith Mills,76.0
+Springfield,Spencer,58.0
+Springfield,Turners Falls,113.0
+Springfield,Ware,142.0
+Springfield,Webster,30.0
+Springfield,Wellesley,146.0
+Springfield,Wilbraham,5057.0
+West Springfield Town,Southbridge Town,78.0
+West Springfield Town,Palmer Town,78.0
+West Springfield Town,Northampton,1569.0
+West Springfield Town,Newton,187.0
+West Springfield Town,Westfield,11185.0
+West Springfield Town,Boston,1338.0
+West Springfield Town,Taunton,78.0
+West Springfield Town,Worcester,377.0
+West Springfield Town,North Adams,84.0
+West Springfield Town,Pittsfield,330.0
+West Springfield Town,Easthampton Town,460.0
+West Springfield Town,Agawam Town,5878.0
+West Springfield Town,Chicopee,7346.0
+West Springfield Town,Holyoke,6690.0
+West Springfield Town,Springfield,23665.0
+West Springfield Town,Woburn,84.0
+West Springfield Town,Cambridge,92.0
+West Springfield Town,Watertown Town,42.0
+West Springfield Town,Quincy,110.0
+West Springfield Town,Danvers,63.0
+West Springfield Town,Dedham,42.0
+West Springfield Town,Longmeadow,499.0
+West Springfield Town,Turners Falls,78.0
+West Springfield Town,Wilbraham,237.0
+Lowell,Braintree Town,611.0
+Lowell,Weymouth Town,163.0
+Lowell,Barnstable Town,116.0
+Lowell,Fitchburg,183.0
+Lowell,Winthrop Town,213.0
+Lowell,Framingham,641.0
+Lowell,Everett,191.0
+Lowell,Newton,652.0
+Lowell,Somerville,596.0
+Lowell,Boston,11728.0
+Lowell,Chelsea,477.0
+Lowell,Revere,633.0
+Lowell,New Bedford,137.0
+Lowell,Gloucester,192.0
+Lowell,Fall River,303.0
+Lowell,Taunton,77.0
+Lowell,Malden,685.0
+Lowell,Marlborough,1210.0
+Lowell,Worcester,1161.0
+Lowell,Leominster,467.0
+Lowell,Brockton,303.0
+Lowell,Springfield,133.0
+Lowell,Medford,600.0
+Lowell,Waltham,1685.0
+Lowell,Woburn,2042.0
+Lowell,Cambridge,2777.0
+Lowell,Watertown Town,184.0
+Lowell,Quincy,391.0
+Lowell,Lynn,1818.0
+Lowell,Methuen Town,4716.0
+Lowell,Newburyport,197.0
+Lowell,Peabody,201.0
+Lowell,Salem,138.0
+Lowell,Lawrence,7147.0
+Lowell,Haverhill,2373.0
+Lowell,Amesbury Town,155.0
+Lowell,Abington,120.0
+Lowell,Andover,927.0
+Lowell,Arlington,581.0
+Lowell,Athol,71.0
+Lowell,Belmont,246.0
+Lowell,Brookline,183.0
+Lowell,Burlington,813.0
+Lowell,Clinton,181.0
+Lowell,Danvers,449.0
+Lowell,Dedham,224.0
+Lowell,East Pepperell,171.0
+Lowell,Hingham,63.0
+Lowell,Hopedale,63.0
+Lowell,Lexington,889.0
+Lowell,Littleton Common,234.0
+Lowell,Lynnfield,303.0
+Lowell,Mansfield Center,71.0
+Lowell,Maynard,361.0
+Lowell,Milton,62.0
+Lowell,Needham,63.0
+Lowell,Norwood,134.0
+Lowell,Pinehurst,940.0
+Lowell,Reading,77.0
+Lowell,Stoneham,608.0
+Lowell,Swampscott,126.0
+Lowell,Topsfield,131.0
+Lowell,Wakefield,389.0
+Lowell,Wellesley,376.0
+Lowell,West Concord,63.0
+Lowell,Wilmington,1902.0
+Lowell,Winchester,224.0
+Medford,Braintree Town,1074.0
+Medford,Weymouth Town,112.0
+Medford,Barnstable Town,95.0
+Medford,Gardner,72.0
+Medford,Winthrop Town,258.0
+Medford,Framingham,677.0
+Medford,Everett,1365.0
+Medford,Newton,2669.0
+Medford,Somerville,13314.0
+Medford,Boston,23992.0
+Medford,Chelsea,3161.0
+Medford,Revere,1474.0
+Medford,Attleboro,96.0
+Medford,Gloucester,132.0
+Medford,Malden,5531.0
+Medford,Marlborough,356.0
+Medford,Worcester,294.0
+Medford,Leominster,89.0
+Medford,Brockton,127.0
+Medford,Chicopee,268.0
+Medford,Springfield,144.0
+Medford,West Springfield Town,179.0
+Medford,Lowell,413.0
+Medford,Melrose,1645.0
+Medford,Waltham,1957.0
+Medford,Woburn,3993.0
+Medford,Cambridge,14982.0
+Medford,Quincy,360.0
+Medford,Lynn,735.0
+Medford,Methuen Town,354.0
+Medford,Peabody,95.0
+Medford,Lawrence,445.0
+Medford,Haverhill,96.0
+Medford,Andover,96.0
+Medford,Arlington,4746.0
+Medford,Belmont,1323.0
+Medford,Brookline,1145.0
+Medford,Burlington,60.0
+Medford,Danvers,890.0
+Medford,Dedham,539.0
+Medford,Essex,96.0
+Medford,Holbrook,104.0
+Medford,Lexington,739.0
+Medford,Lynnfield,726.0
+Medford,Milton,127.0
+Medford,Nahant,89.0
+Medford,Nantucket,88.0
+Medford,Needham,255.0
+Medford,Northwest Harwich,95.0
+Medford,Norwood,214.0
+Medford,Pinehurst,104.0
+Medford,Reading,1419.0
+Medford,Saugus,515.0
+Medford,South Dennis,214.0
+Medford,South Yarmouth,95.0
+Medford,Spencer,95.0
+Medford,Stoneham,3082.0
+Medford,Wakefield,1371.0
+Medford,Wellesley,404.0
+Medford,Wilmington,786.0
+Medford,Winchester,2620.0
+Melrose,Braintree Town,205.0
+Melrose,Everett,127.0
+Melrose,Newton,410.0
+Melrose,Somerville,565.0
+Melrose,Boston,7613.0
+Melrose,Chelsea,1810.0
+Melrose,Revere,443.0
+Melrose,Beverly,127.0
+Melrose,Malden,4253.0
+Melrose,Worcester,100.0
+Melrose,Springfield,100.0
+Melrose,Lowell,105.0
+Melrose,Medford,1890.0
+Melrose,Waltham,358.0
+Melrose,Woburn,1728.0
+Melrose,Cambridge,3690.0
+Melrose,Quincy,200.0
+Melrose,Lynn,1172.0
+Melrose,Methuen Town,205.0
+Melrose,Peabody,572.0
+Melrose,Salem,587.0
+Melrose,Lawrence,200.0
+Melrose,Andover,105.0
+Melrose,Arlington,511.0
+Melrose,Belmont,482.0
+Melrose,Brookline,105.0
+Melrose,Danvers,1784.0
+Melrose,Lexington,549.0
+Melrose,Littleton Common,105.0
+Melrose,Lynnfield,1831.0
+Melrose,Maynard,100.0
+Melrose,Norwood,105.0
+Melrose,Pocasset,100.0
+Melrose,Reading,2277.0
+Melrose,Saugus,862.0
+Melrose,Stoneham,6396.0
+Melrose,Topsfield,105.0
+Melrose,Wakefield,2851.0
+Melrose,Wellesley,205.0
+Melrose,Wilmington,227.0
+Melrose,Winchester,464.0
+Waltham,Braintree Town,293.0
+Waltham,Weymouth Town,72.0
+Waltham,Barnstable Town,179.0
+Waltham,Fitchburg,78.0
+Waltham,Winthrop Town,91.0
+Waltham,Framingham,3227.0
+Waltham,Everett,628.0
+Waltham,Newton,13778.0
+Waltham,Somerville,1977.0
+Waltham,Westfield,35.0
+Waltham,Boston,29409.0
+Waltham,Chelsea,317.0
+Waltham,Revere,113.0
+Waltham,Attleboro,129.0
+Waltham,New Bedford,106.0
+Waltham,Beverly,57.0
+Waltham,Gloucester,113.0
+Waltham,Fall River,35.0
+Waltham,Malden,344.0
+Waltham,Marlborough,867.0
+Waltham,Worcester,475.0
+Waltham,Leominster,146.0
+Waltham,Brockton,239.0
+Waltham,Pittsfield,219.0
+Waltham,Springfield,108.0
+Waltham,West Springfield Town,44.0
+Waltham,Lowell,484.0
+Waltham,Medford,1094.0
+Waltham,Melrose,72.0
+Waltham,Woburn,1973.0
+Waltham,Cambridge,7351.0
+Waltham,Watertown Town,2141.0
+Waltham,Quincy,441.0
+Waltham,Lynn,637.0
+Waltham,Methuen Town,394.0
+Waltham,Newburyport,181.0
+Waltham,Peabody,76.0
+Waltham,Salem,242.0
+Waltham,Lawrence,324.0
+Waltham,Haverhill,35.0
+Waltham,Abington,88.0
+Waltham,Andover,327.0
+Waltham,Arlington,1558.0
+Waltham,Belmont,4931.0
+Waltham,Brookline,1806.0
+Waltham,Burlington,298.0
+Waltham,Cochituate,279.0
+Waltham,Danvers,109.0
+Waltham,Dedham,1990.0
+Waltham,East Harwich,35.0
+Waltham,Essex,78.0
+Waltham,Hudson,65.0
+Waltham,Lexington,3453.0
+Waltham,Lynnfield,238.0
+Waltham,Maynard,273.0
+Waltham,Medfield,97.0
+Waltham,Milton,92.0
+Waltham,Needham,702.0
+Waltham,North Westport,35.0
+Waltham,Norwood,725.0
+Waltham,Pinehurst,197.0
+Waltham,Reading,625.0
+Waltham,Sagamore,177.0
+Waltham,Saugus,165.0
+Waltham,Smith Mills,35.0
+Waltham,South Yarmouth,35.0
+Waltham,Stoneham,330.0
+Waltham,Vineyard Haven,76.0
+Waltham,Wakefield,180.0
+Waltham,Webster,72.0
+Waltham,Wellesley,2531.0
+Waltham,West Concord,222.0
+Waltham,Wilmington,452.0
+Waltham,Winchester,275.0
+Woburn,Braintree Town,272.0
+Woburn,Barnstable Town,113.0
+Woburn,Winthrop Town,113.0
+Woburn,Framingham,301.0
+Woburn,Everett,307.0
+Woburn,Newton,764.0
+Woburn,Somerville,2135.0
+Woburn,Boston,12813.0
+Woburn,Chelsea,576.0
+Woburn,Revere,62.0
+Woburn,New Bedford,142.0
+Woburn,Beverly,72.0
+Woburn,Gloucester,113.0
+Woburn,Fall River,134.0
+Woburn,Malden,1477.0
+Woburn,Marlborough,267.0
+Woburn,Worcester,345.0
+Woburn,Leominster,175.0
+Woburn,Springfield,75.0
+Woburn,Lowell,589.0
+Woburn,Medford,1991.0
+Woburn,Melrose,160.0
+Woburn,Waltham,2153.0
+Woburn,Cambridge,3706.0
+Woburn,Watertown Town,220.0
+Woburn,Quincy,72.0
+Woburn,Lynn,1175.0
+Woburn,Methuen Town,486.0
+Woburn,Newburyport,126.0
+Woburn,Peabody,342.0
+Woburn,Salem,137.0
+Woburn,Lawrence,601.0
+Woburn,Haverhill,273.0
+Woburn,Amesbury Town,94.0
+Woburn,Andover,322.0
+Woburn,Arlington,3607.0
+Woburn,Belmont,1400.0
+Woburn,Brookline,312.0
+Woburn,Burlington,1333.0
+Woburn,Danvers,949.0
+Woburn,Dedham,279.0
+Woburn,Lexington,4394.0
+Woburn,Lynnfield,1376.0
+Woburn,Maynard,74.0
+Woburn,Milton,204.0
+Woburn,Needham,132.0
+Woburn,Norwood,83.0
+Woburn,Pinehurst,833.0
+Woburn,Plymouth,83.0
+Woburn,Pocasset,72.0
+Woburn,Reading,3630.0
+Woburn,Sagamore,90.0
+Woburn,Saugus,244.0
+Woburn,South Dennis,113.0
+Woburn,Stoneham,7471.0
+Woburn,Wakefield,1102.0
+Woburn,Wellesley,62.0
+Woburn,Westborough,74.0
+Woburn,West Concord,74.0
+Woburn,Wilmington,3300.0
+Woburn,Winchester,4731.0
+Cambridge,Braintree Town,145.0
+Cambridge,Barnstable Town,151.0
+Cambridge,Winthrop Town,125.0
+Cambridge,Framingham,338.0
+Cambridge,Everett,79.0
+Cambridge,Newton,3372.0
+Cambridge,Somerville,19494.0
+Cambridge,Boston,53140.0
+Cambridge,Chelsea,1080.0
+Cambridge,Revere,350.0
+Cambridge,New Bedford,25.0
+Cambridge,Beverly,35.0
+Cambridge,Gloucester,110.0
+Cambridge,Fall River,18.0
+Cambridge,Taunton,9.0
+Cambridge,Malden,1197.0
+Cambridge,Marlborough,346.0
+Cambridge,Leominster,119.0
+Cambridge,Brockton,302.0
+Cambridge,Chicopee,44.0
+Cambridge,Holyoke,128.0
+Cambridge,Springfield,9.0
+Cambridge,Lowell,89.0
+Cambridge,Medford,2812.0
+Cambridge,Waltham,2254.0
+Cambridge,Woburn,558.0
+Cambridge,Watertown Town,368.0
+Cambridge,Quincy,875.0
+Cambridge,Lynn,681.0
+Cambridge,Methuen Town,198.0
+Cambridge,Newburyport,156.0
+Cambridge,Peabody,83.0
+Cambridge,Salem,187.0
+Cambridge,Lawrence,288.0
+Cambridge,Haverhill,9.0
+Cambridge,Abington,90.0
+Cambridge,Arlington,1226.0
+Cambridge,Belmont,3251.0
+Cambridge,Brookline,2184.0
+Cambridge,Burlington,126.0
+Cambridge,Danvers,90.0
+Cambridge,Dedham,1596.0
+Cambridge,Holbrook,35.0
+Cambridge,Lexington,822.0
+Cambridge,Longmeadow,9.0
+Cambridge,Mansfield Center,99.0
+Cambridge,Medfield,225.0
+Cambridge,Milton,75.0
+Cambridge,Nantucket,35.0
+Cambridge,Needham,361.0
+Cambridge,Norwood,128.0
+Cambridge,Pinehurst,168.0
+Cambridge,Reading,211.0
+Cambridge,Sandwich,99.0
+Cambridge,Saugus,41.0
+Cambridge,South Dennis,9.0
+Cambridge,Stoneham,185.0
+Cambridge,Topsfield,125.0
+Cambridge,Wakefield,169.0
+Cambridge,Wellesley,72.0
+Cambridge,West Concord,90.0
+Cambridge,Wilmington,79.0
+Watertown Town,Barnstable Town,257.0
+Watertown Town,Fitchburg,288.0
+Watertown Town,Framingham,1526.0
+Watertown Town,Everett,66.0
+Watertown Town,Newton,3602.0
+Watertown Town,Somerville,444.0
+Watertown Town,Boston,8505.0
+Watertown Town,Chelsea,144.0
+Watertown Town,Revere,181.0
+Watertown Town,Fall River,44.0
+Watertown Town,Malden,144.0
+Watertown Town,Marlborough,243.0
+Watertown Town,Worcester,520.0
+Watertown Town,Medford,157.0
+Watertown Town,Waltham,8293.0
+Watertown Town,Woburn,217.0
+Watertown Town,Cambridge,5468.0
+Watertown Town,Lynn,44.0
+Watertown Town,Salem,44.0
+Watertown Town,Arlington,483.0
+Watertown Town,Belmont,3451.0
+Watertown Town,Brookline,500.0
+Watertown Town,Danvers,44.0
+Watertown Town,East Falmouth,44.0
+Watertown Town,Essex,44.0
+Watertown Town,Lexington,976.0
+Watertown Town,Nantucket,288.0
+Watertown Town,Needham,113.0
+Watertown Town,Norwood,144.0
+Watertown Town,Rockport,44.0
+Watertown Town,Stoneham,44.0
+Watertown Town,Wellesley,232.0
+Watertown Town,Wilmington,144.0
+Quincy,Braintree Town,30733.0
+Quincy,Weymouth Town,4645.0
+Quincy,Barnstable Town,460.0
+Quincy,Gardner,87.0
+Quincy,Fitchburg,498.0
+Quincy,Winthrop Town,186.0
+Quincy,Framingham,614.0
+Quincy,Everett,208.0
+Quincy,Newton,1567.0
+Quincy,Somerville,1049.0
+Quincy,Boston,63603.0
+Quincy,Chelsea,1510.0
+Quincy,Revere,312.0
+Quincy,Attleboro,110.0
+Quincy,New Bedford,201.0
+Quincy,Fall River,182.0
+Quincy,Taunton,238.0
+Quincy,Malden,670.0
+Quincy,Marlborough,434.0
+Quincy,Worcester,640.0
+Quincy,Leominster,506.0
+Quincy,Brockton,1483.0
+Quincy,Pittsfield,87.0
+Quincy,Chicopee,85.0
+Quincy,Springfield,319.0
+Quincy,Lowell,427.0
+Quincy,Medford,457.0
+Quincy,Waltham,1047.0
+Quincy,Woburn,148.0
+Quincy,Cambridge,8256.0
+Quincy,Watertown Town,95.0
+Quincy,Lynn,678.0
+Quincy,Methuen Town,195.0
+Quincy,Peabody,316.0
+Quincy,Lawrence,248.0
+Quincy,Amesbury Town,262.0
+Quincy,Abington,502.0
+Quincy,Brookline,1775.0
+Quincy,Cochituate,99.0
+Quincy,Danvers,194.0
+Quincy,Dedham,4735.0
+Quincy,East Pepperell,121.0
+Quincy,Harwich Center,271.0
+Quincy,Hingham,3590.0
+Quincy,Holbrook,302.0
+Quincy,Hull,387.0
+Quincy,Lexington,97.0
+Quincy,Mansfield Center,63.0
+Quincy,Milton,3911.0
+Quincy,Needham,441.0
+Quincy,North Pembroke,412.0
+Quincy,North Westport,105.0
+Quincy,Norwood,729.0
+Quincy,Plymouth,415.0
+Quincy,Reading,189.0
+Quincy,Somerset,99.0
+Quincy,South Dennis,85.0
+Quincy,South Yarmouth,97.0
+Quincy,Stoneham,277.0
+Quincy,Wakefield,180.0
+Quincy,Wellesley,363.0
+Quincy,West Concord,150.0
+Franklin Town,Braintree Town,625.0
+Franklin Town,Weymouth Town,87.0
+Franklin Town,Barnstable Town,262.0
+Franklin Town,Northampton,87.0
+Franklin Town,Fitchburg,109.0
+Franklin Town,Framingham,1326.0
+Franklin Town,Newton,310.0
+Franklin Town,Boston,3210.0
+Franklin Town,Revere,87.0
+Franklin Town,Attleboro,526.0
+Franklin Town,New Bedford,164.0
+Franklin Town,Taunton,191.0
+Franklin Town,Marlborough,854.0
+Franklin Town,Worcester,169.0
+Franklin Town,Brockton,273.0
+Franklin Town,West Springfield Town,82.0
+Franklin Town,Lowell,175.0
+Franklin Town,Medford,87.0
+Franklin Town,Waltham,906.0
+Franklin Town,Cambridge,261.0
+Franklin Town,Quincy,175.0
+Franklin Town,Lynn,87.0
+Franklin Town,Methuen Town,82.0
+Franklin Town,Amesbury Town,82.0
+Franklin Town,Arlington,87.0
+Franklin Town,Brookline,104.0
+Franklin Town,Danvers,104.0
+Franklin Town,Dedham,1664.0
+Franklin Town,East Dennis,82.0
+Franklin Town,Hanson,104.0
+Franklin Town,Hopedale,87.0
+Franklin Town,Hudson,174.0
+Franklin Town,Lexington,87.0
+Franklin Town,Mansfield Center,104.0
+Franklin Town,Medfield,279.0
+Franklin Town,Milford,513.0
+Franklin Town,Needham,345.0
+Franklin Town,North Pembroke,131.0
+Franklin Town,Norwood,948.0
+Franklin Town,Plymouth,82.0
+Franklin Town,Sharon,377.0
+Franklin Town,Wellesley,470.0
+Franklin Town,West Concord,104.0
+Lynn,Braintree Town,326.0
+Lynn,Weymouth Town,219.0
+Lynn,Barnstable Town,23.0
+Lynn,Fitchburg,74.0
+Lynn,Winthrop Town,76.0
+Lynn,Framingham,442.0
+Lynn,Everett,1438.0
+Lynn,Newton,823.0
+Lynn,Somerville,1764.0
+Lynn,Boston,35936.0
+Lynn,Chelsea,8917.0
+Lynn,Revere,8110.0
+Lynn,New Bedford,52.0
+Lynn,Beverly,2157.0
+Lynn,Gloucester,923.0
+Lynn,Malden,3681.0
+Lynn,Marlborough,316.0
+Lynn,Worcester,466.0
+Lynn,Brockton,249.0
+Lynn,Holyoke,59.0
+Lynn,Springfield,259.0
+Lynn,West Springfield Town,70.0
+Lynn,Lowell,773.0
+Lynn,Medford,1984.0
+Lynn,Melrose,1223.0
+Lynn,Waltham,1112.0
+Lynn,Woburn,2040.0
+Lynn,Cambridge,4178.0
+Lynn,Watertown Town,530.0
+Lynn,Quincy,321.0
+Lynn,Methuen Town,290.0
+Lynn,Newburyport,343.0
+Lynn,Peabody,8504.0
+Lynn,Salem,10181.0
+Lynn,Lawrence,1635.0
+Lynn,Haverhill,571.0
+Lynn,Amesbury Town,131.0
+Lynn,Abington,183.0
+Lynn,Andover,110.0
+Lynn,Arlington,513.0
+Lynn,Belmont,83.0
+Lynn,Brookline,455.0
+Lynn,Burlington,125.0
+Lynn,Cochituate,60.0
+Lynn,Danvers,10909.0
+Lynn,Dedham,356.0
+Lynn,Essex,113.0
+Lynn,Falmouth,41.0
+Lynn,Hingham,259.0
+Lynn,Hudson,74.0
+Lynn,Ipswich,66.0
+Lynn,Lexington,428.0
+Lynn,Lynnfield,5575.0
+Lynn,Marblehead,1348.0
+Lynn,Nahant,656.0
+Lynn,Needham,260.0
+Lynn,Norwood,95.0
+Lynn,Pinehurst,114.0
+Lynn,Reading,1816.0
+Lynn,Rowley,138.0
+Lynn,Saugus,3718.0
+Lynn,Stoneham,1378.0
+Lynn,Swampscott,4313.0
+Lynn,Topsfield,254.0
+Lynn,Upton,111.0
+Lynn,Wakefield,2246.0
+Lynn,Wellesley,203.0
+Lynn,West Concord,57.0
+Lynn,Wilmington,974.0
+Lynn,Winchester,124.0
+Methuen Town,Braintree Town,152.0
+Methuen Town,Everett,193.0
+Methuen Town,Newton,681.0
+Methuen Town,Somerville,1398.0
+Methuen Town,Boston,11115.0
+Methuen Town,Chelsea,756.0
+Methuen Town,Revere,474.0
+Methuen Town,New Bedford,77.0
+Methuen Town,Beverly,460.0
+Methuen Town,Gloucester,337.0
+Methuen Town,Fall River,117.0
+Methuen Town,Taunton,134.0
+Methuen Town,Malden,268.0
+Methuen Town,Marlborough,254.0
+Methuen Town,Worcester,616.0
+Methuen Town,Leominster,80.0
+Methuen Town,Brockton,98.0
+Methuen Town,Springfield,145.0
+Methuen Town,Lowell,4682.0
+Methuen Town,Medford,1412.0
+Methuen Town,Melrose,138.0
+Methuen Town,Waltham,611.0
+Methuen Town,Woburn,1535.0
+Methuen Town,Cambridge,2112.0
+Methuen Town,Watertown Town,51.0
+Methuen Town,Quincy,175.0
+Methuen Town,Lynn,691.0
+Methuen Town,Newburyport,1057.0
+Methuen Town,Peabody,560.0
+Methuen Town,Salem,559.0
+Methuen Town,Lawrence,33549.0
+Methuen Town,Haverhill,10200.0
+Methuen Town,Amesbury Town,712.0
+Methuen Town,Abington,80.0
+Methuen Town,Andover,5432.0
+Methuen Town,Arlington,292.0
+Methuen Town,Brookline,252.0
+Methuen Town,Burlington,178.0
+Methuen Town,Cochituate,320.0
+Methuen Town,Danvers,679.0
+Methuen Town,Dedham,313.0
+Methuen Town,Ipswich,98.0
+Methuen Town,Lexington,351.0
+Methuen Town,Littleton Common,98.0
+Methuen Town,Lynnfield,177.0
+Methuen Town,Milton,80.0
+Methuen Town,Needham,388.0
+Methuen Town,Northborough,104.0
+Methuen Town,Northwest Harwich,96.0
+Methuen Town,Norwood,80.0
+Methuen Town,Reading,1416.0
+Methuen Town,Rowley,157.0
+Methuen Town,Saugus,252.0
+Methuen Town,South Yarmouth,77.0
+Methuen Town,Stoneham,679.0
+Methuen Town,Topsfield,225.0
+Methuen Town,Wakefield,639.0
+Methuen Town,Wellesley,234.0
+Methuen Town,West Concord,122.0
+Methuen Town,West Yarmouth,77.0
+Methuen Town,Wilmington,1801.0
+Methuen Town,Winchester,104.0
+Newburyport,Braintree Town,77.0
+Newburyport,Northampton,89.0
+Newburyport,Framingham,136.0
+Newburyport,Newton,379.0
+Newburyport,Boston,3647.0
+Newburyport,Beverly,364.0
+Newburyport,Gloucester,89.0
+Newburyport,Marlborough,77.0
+Newburyport,Worcester,178.0
+Newburyport,Lowell,386.0
+Newburyport,Woburn,96.0
+Newburyport,Cambridge,438.0
+Newburyport,Lynn,238.0
+Newburyport,Methuen Town,1315.0
+Newburyport,Peabody,416.0
+Newburyport,Salem,297.0
+Newburyport,Lawrence,864.0
+Newburyport,Haverhill,2764.0
+Newburyport,Amesbury Town,3682.0
+Newburyport,Andover,154.0
+Newburyport,Belmont,119.0
+Newburyport,Brookline,89.0
+Newburyport,Danvers,1539.0
+Newburyport,Ipswich,166.0
+Newburyport,Lexington,421.0
+Newburyport,Lynnfield,1654.0
+Newburyport,Marblehead,119.0
+Newburyport,Reading,89.0
+Newburyport,Rowley,975.0
+Newburyport,Topsfield,384.0
+Newburyport,Wakefield,89.0
+Newburyport,Wellesley,77.0
+Newburyport,Wilmington,208.0
+Peabody,Braintree Town,149.0
+Peabody,Winthrop Town,442.0
+Peabody,Framingham,439.0
+Peabody,Everett,748.0
+Peabody,Newton,679.0
+Peabody,Somerville,862.0
+Peabody,Boston,10659.0
+Peabody,Chelsea,962.0
+Peabody,Revere,1035.0
+Peabody,New Bedford,66.0
+Peabody,Beverly,3142.0
+Peabody,Gloucester,303.0
+Peabody,Taunton,215.0
+Peabody,Malden,1531.0
+Peabody,Marlborough,99.0
+Peabody,Worcester,208.0
+Peabody,Leominster,71.0
+Peabody,Holyoke,77.0
+Peabody,Lowell,855.0
+Peabody,Medford,533.0
+Peabody,Melrose,462.0
+Peabody,Waltham,805.0
+Peabody,Woburn,1429.0
+Peabody,Cambridge,2178.0
+Peabody,Watertown Town,151.0
+Peabody,Quincy,149.0
+Peabody,Lynn,9677.0
+Peabody,Methuen Town,520.0
+Peabody,Newburyport,545.0
+Peabody,Salem,10508.0
+Peabody,Lawrence,586.0
+Peabody,Haverhill,748.0
+Peabody,Amesbury Town,99.0
+Peabody,Andover,215.0
+Peabody,Arlington,71.0
+Peabody,Belmont,92.0
+Peabody,Brookline,378.0
+Peabody,Burlington,77.0
+Peabody,Clinton,79.0
+Peabody,Danvers,24536.0
+Peabody,Dedham,79.0
+Peabody,Essex,248.0
+Peabody,Hingham,184.0
+Peabody,Ipswich,298.0
+Peabody,Lexington,359.0
+Peabody,Lynnfield,5457.0
+Peabody,Marblehead,665.0
+Peabody,Milton,72.0
+Peabody,Northborough,118.0
+Peabody,Pinehurst,149.0
+Peabody,Reading,1710.0
+Peabody,Rowley,319.0
+Peabody,Saugus,932.0
+Peabody,Stoneham,435.0
+Peabody,Swampscott,1088.0
+Peabody,Topsfield,617.0
+Peabody,Wakefield,2091.0
+Peabody,Wilmington,148.0
+Peabody,Winchester,406.0
+Salem,Braintree Town,170.0
+Salem,Fitchburg,42.0
+Salem,Winthrop Town,85.0
+Salem,Newton,262.0
+Salem,Somerville,291.0
+Salem,Boston,13625.0
+Salem,Chelsea,549.0
+Salem,Revere,863.0
+Salem,New Bedford,86.0
+Salem,Beverly,4149.0
+Salem,Gloucester,1223.0
+Salem,Malden,410.0
+Salem,Worcester,267.0
+Salem,Pittsfield,86.0
+Salem,Chicopee,173.0
+Salem,Lowell,42.0
+Salem,Medford,423.0
+Salem,Melrose,258.0
+Salem,Waltham,152.0
+Salem,Woburn,723.0
+Salem,Cambridge,1664.0
+Salem,Quincy,86.0
+Salem,Lynn,9000.0
+Salem,Methuen Town,239.0
+Salem,Newburyport,362.0
+Salem,Peabody,5997.0
+Salem,Lawrence,481.0
+Salem,Haverhill,753.0
+Salem,Amesbury Town,170.0
+Salem,Andover,285.0
+Salem,Arlington,103.0
+Salem,Brookline,357.0
+Salem,Burlington,68.0
+Salem,Danvers,9762.0
+Salem,Dedham,86.0
+Salem,Lexington,244.0
+Salem,Lynnfield,1770.0
+Salem,Marblehead,17348.0
+Salem,Milton,172.0
+Salem,Nahant,42.0
+Salem,Needham,42.0
+Salem,Pinehurst,85.0
+Salem,Reading,766.0
+Salem,Rockport,42.0
+Salem,Rowley,353.0
+Salem,Sagamore,42.0
+Salem,Saugus,185.0
+Salem,Stoneham,423.0
+Salem,Swampscott,6062.0
+Salem,Topsfield,106.0
+Salem,Wakefield,955.0
+Salem,Wilmington,223.0
+Salem,Winchester,442.0
+Lawrence,Barnstable Town,144.0
+Lawrence,Fitchburg,64.0
+Lawrence,Framingham,363.0
+Lawrence,Everett,373.0
+Lawrence,Newton,415.0
+Lawrence,Somerville,717.0
+Lawrence,Boston,12405.0
+Lawrence,Chelsea,219.0
+Lawrence,Revere,150.0
+Lawrence,New Bedford,80.0
+Lawrence,Beverly,302.0
+Lawrence,Gloucester,290.0
+Lawrence,Fall River,51.0
+Lawrence,Malden,517.0
+Lawrence,Marlborough,154.0
+Lawrence,Worcester,274.0
+Lawrence,Leominster,280.0
+Lawrence,Brockton,217.0
+Lawrence,North Adams,112.0
+Lawrence,Chicopee,64.0
+Lawrence,Holyoke,71.0
+Lawrence,Springfield,102.0
+Lawrence,Lowell,7756.0
+Lawrence,Medford,651.0
+Lawrence,Melrose,128.0
+Lawrence,Waltham,485.0
+Lawrence,Woburn,1544.0
+Lawrence,Cambridge,1342.0
+Lawrence,Watertown Town,194.0
+Lawrence,Lynn,1011.0
+Lawrence,Methuen Town,55499.0
+Lawrence,Newburyport,888.0
+Lawrence,Peabody,64.0
+Lawrence,Salem,74.0
+Lawrence,Haverhill,9339.0
+Lawrence,Amesbury Town,600.0
+Lawrence,Andover,6217.0
+Lawrence,Arlington,160.0
+Lawrence,Belmont,131.0
+Lawrence,Brookline,272.0
+Lawrence,Burlington,127.0
+Lawrence,Danvers,996.0
+Lawrence,Dedham,291.0
+Lawrence,Ipswich,121.0
+Lawrence,Lexington,228.0
+Lawrence,Littleton Common,208.0
+Lawrence,Lynnfield,80.0
+Lawrence,Milford,64.0
+Lawrence,Milton,70.0
+Lawrence,Nantucket,64.0
+Lawrence,North Pembroke,247.0
+Lawrence,Norwood,156.0
+Lawrence,Pinehurst,155.0
+Lawrence,Reading,716.0
+Lawrence,Sagamore,47.0
+Lawrence,Saugus,74.0
+Lawrence,Stoneham,483.0
+Lawrence,Topsfield,74.0
+Lawrence,Wakefield,496.0
+Lawrence,West Concord,64.0
+Lawrence,Wilmington,1317.0
+Lawrence,Winchester,215.0
+Haverhill,Braintree Town,134.0
+Haverhill,Barnstable Town,107.0
+Haverhill,Winthrop Town,107.0
+Haverhill,Framingham,208.0
+Haverhill,Everett,237.0
+Haverhill,Newton,1243.0
+Haverhill,Somerville,570.0
+Haverhill,Boston,8292.0
+Haverhill,Chelsea,480.0
+Haverhill,Revere,191.0
+Haverhill,Beverly,499.0
+Haverhill,Gloucester,269.0
+Haverhill,Fall River,290.0
+Haverhill,Taunton,66.0
+Haverhill,Malden,584.0
+Haverhill,Marlborough,384.0
+Haverhill,Worcester,648.0
+Haverhill,Leominster,67.0
+Haverhill,Brockton,60.0
+Haverhill,Holyoke,111.0
+Haverhill,Springfield,299.0
+Haverhill,Lowell,2434.0
+Haverhill,Medford,753.0
+Haverhill,Melrose,65.0
+Haverhill,Waltham,971.0
+Haverhill,Woburn,1149.0
+Haverhill,Cambridge,1352.0
+Haverhill,Watertown Town,227.0
+Haverhill,Lynn,1589.0
+Haverhill,Methuen Town,21585.0
+Haverhill,Newburyport,6885.0
+Haverhill,Peabody,537.0
+Haverhill,Salem,784.0
+Haverhill,Lawrence,15660.0
+Haverhill,Amesbury Town,2153.0
+Haverhill,Andover,3230.0
+Haverhill,Arlington,264.0
+Haverhill,Belmont,148.0
+Haverhill,Brookline,134.0
+Haverhill,Burlington,216.0
+Haverhill,Clinton,83.0
+Haverhill,Danvers,1618.0
+Haverhill,Dedham,197.0
+Haverhill,Essex,71.0
+Haverhill,Hudson,174.0
+Haverhill,Hull,74.0
+Haverhill,Ipswich,222.0
+Haverhill,Lexington,434.0
+Haverhill,Lynnfield,836.0
+Haverhill,Maynard,66.0
+Haverhill,Needham,60.0
+Haverhill,Norwood,76.0
+Haverhill,Oxford,60.0
+Haverhill,Pinehurst,83.0
+Haverhill,Reading,1126.0
+Haverhill,Rowley,1125.0
+Haverhill,Saugus,83.0
+Haverhill,Stoneham,388.0
+Haverhill,Swampscott,65.0
+Haverhill,Topsfield,60.0
+Haverhill,Wakefield,797.0
+Haverhill,Wellesley,148.0
+Haverhill,West Yarmouth,66.0
+Haverhill,Wilmington,1541.0
+Haverhill,Winchester,332.0
+Amesbury Town,Braintree Town,94.0
+Amesbury Town,Winthrop Town,94.0
+Amesbury Town,Framingham,260.0
+Amesbury Town,Everett,189.0
+Amesbury Town,Newton,198.0
+Amesbury Town,Somerville,94.0
+Amesbury Town,Boston,2830.0
+Amesbury Town,Chelsea,94.0
+Amesbury Town,Beverly,175.0
+Amesbury Town,Malden,94.0
+Amesbury Town,Lowell,88.0
+Amesbury Town,Medford,94.0
+Amesbury Town,Waltham,81.0
+Amesbury Town,Woburn,94.0
+Amesbury Town,Cambridge,182.0
+Amesbury Town,Lynn,351.0
+Amesbury Town,Methuen Town,896.0
+Amesbury Town,Newburyport,11114.0
+Amesbury Town,Peabody,373.0
+Amesbury Town,Salem,413.0
+Amesbury Town,Lawrence,1663.0
+Amesbury Town,Haverhill,3472.0
+Amesbury Town,Andover,308.0
+Amesbury Town,Danvers,1005.0
+Amesbury Town,Ipswich,185.0
+Amesbury Town,Lynnfield,182.0
+Amesbury Town,Norwood,142.0
+Amesbury Town,Rowley,469.0
+Amesbury Town,Saugus,175.0
+Amesbury Town,Stoneham,88.0
+Amesbury Town,Swampscott,104.0
+Amesbury Town,Wakefield,188.0
+Abington,Braintree Town,3095.0
+Abington,Weymouth Town,2751.0
+Abington,Winthrop Town,228.0
+Abington,Framingham,152.0
+Abington,Newton,223.0
+Abington,Somerville,71.0
+Abington,Boston,5245.0
+Abington,New Bedford,76.0
+Abington,Taunton,309.0
+Abington,Marlborough,96.0
+Abington,Brockton,3659.0
+Abington,Springfield,96.0
+Abington,West Springfield Town,144.0
+Abington,Waltham,71.0
+Abington,Cambridge,885.0
+Abington,Watertown Town,76.0
+Abington,Quincy,1618.0
+Abington,Lynn,76.0
+Abington,Brookline,96.0
+Abington,Danvers,76.0
+Abington,Dedham,268.0
+Abington,Hanson,96.0
+Abington,Hingham,482.0
+Abington,Holbrook,1258.0
+Abington,Hull,167.0
+Abington,Kingston,440.0
+Abington,Milton,71.0
+Abington,Needham,152.0
+Abington,North Pembroke,1145.0
+Abington,North Plymouth,76.0
+Abington,Norwood,243.0
+Abington,Plymouth,120.0
+Acushnet Center,Barnstable Town,97.0
+Acushnet Center,New Bedford,7468.0
+Acushnet Center,Fall River,680.0
+Acushnet Center,Taunton,485.0
+Acushnet Center,Worcester,97.0
+Acushnet Center,Brockton,97.0
+Acushnet Center,Quincy,146.0
+Acushnet Center,Bliss Corner,97.0
+Acushnet Center,Kingston,97.0
+Acushnet Center,Mansfield Center,97.0
+Acushnet Center,Monument Beach,97.0
+Acushnet Center,North Westport,97.0
+Acushnet Center,Smith Mills,1924.0
+Adams,Northampton,275.0
+Adams,Westfield,101.0
+Adams,North Adams,8471.0
+Adams,Pittsfield,6812.0
+Adams,Chicopee,405.0
+Adams,Springfield,897.0
+Adams,West Springfield Town,101.0
+Adams,Williamstown,654.0
+Andover,Everett,102.0
+Andover,Newton,218.0
+Andover,Boston,4645.0
+Andover,Beverly,102.0
+Andover,Fall River,102.0
+Andover,Malden,349.0
+Andover,Marlborough,539.0
+Andover,Easthampton Town,102.0
+Andover,Holyoke,102.0
+Andover,Lowell,1043.0
+Andover,Medford,539.0
+Andover,Waltham,307.0
+Andover,Woburn,684.0
+Andover,Cambridge,756.0
+Andover,Quincy,102.0
+Andover,Methuen Town,2670.0
+Andover,Newburyport,218.0
+Andover,Salem,349.0
+Andover,Lawrence,3802.0
+Andover,Haverhill,1247.0
+Andover,Arlington,566.0
+Andover,Danvers,875.0
+Andover,Dedham,232.0
+Andover,Lynnfield,410.0
+Andover,Reading,307.0
+Andover,Stoneham,204.0
+Andover,Wakefield,102.0
+Andover,Wilmington,944.0
+Andover,Winchester,116.0
+Arlington,Braintree Town,535.0
+Arlington,Weymouth Town,229.0
+Arlington,Winthrop Town,100.0
+Arlington,Framingham,129.0
+Arlington,Everett,305.0
+Arlington,Newton,1756.0
+Arlington,Somerville,6874.0
+Arlington,Boston,16437.0
+Arlington,Chelsea,334.0
+Arlington,Revere,438.0
+Arlington,Attleboro,129.0
+Arlington,Malden,1139.0
+Arlington,Worcester,320.0
+Arlington,Brockton,104.0
+Arlington,Easthampton Town,129.0
+Arlington,Lowell,351.0
+Arlington,Medford,6035.0
+Arlington,Melrose,175.0
+Arlington,Waltham,4924.0
+Arlington,Woburn,4977.0
+Arlington,Cambridge,17211.0
+Arlington,Watertown Town,362.0
+Arlington,Quincy,494.0
+Arlington,Lynn,251.0
+Arlington,Methuen Town,100.0
+Arlington,Newburyport,223.0
+Arlington,Peabody,198.0
+Arlington,Salem,279.0
+Arlington,Lawrence,100.0
+Arlington,Barre,101.0
+Arlington,Belmont,5676.0
+Arlington,Brookline,1236.0
+Arlington,Burlington,261.0
+Arlington,Danvers,379.0
+Arlington,Dedham,165.0
+Arlington,Lexington,5552.0
+Arlington,Lynnfield,236.0
+Arlington,Marblehead,150.0
+Arlington,Maynard,220.0
+Arlington,Milton,315.0
+Arlington,Norwood,304.0
+Arlington,Reading,279.0
+Arlington,Saugus,100.0
+Arlington,Sharon,104.0
+Arlington,Stoneham,1064.0
+Arlington,Swampscott,100.0
+Arlington,Wakefield,514.0
+Arlington,Wellesley,474.0
+Arlington,West Concord,554.0
+Arlington,Wilmington,934.0
+Arlington,Winchester,2183.0
+Athol,Gardner,1737.0
+Athol,Northampton,248.0
+Athol,Fitchburg,496.0
+Athol,Newton,248.0
+Athol,Boston,124.0
+Athol,Worcester,372.0
+Athol,Leominster,962.0
+Athol,Holyoke,248.0
+Athol,Springfield,124.0
+Athol,Lawrence,124.0
+Athol,Clinton,124.0
+Athol,Orange,403.0
+Athol,Turners Falls,559.0
+Barre,Palmer Town,294.0
+Barre,Gardner,2209.0
+Barre,Northampton,147.0
+Barre,Fitchburg,589.0
+Barre,Boston,294.0
+Barre,Marlborough,331.0
+Barre,Worcester,5227.0
+Barre,Leominster,1767.0
+Barre,Holyoke,221.0
+Barre,Springfield,589.0
+Barre,Cambridge,147.0
+Barre,Athol,147.0
+Barre,Spencer,147.0
+Barre,Upton,294.0
+Barre,Ware,442.0
+Barre,Wilbraham,147.0
+Belmont,Weymouth Town,135.0
+Belmont,Barnstable Town,203.0
+Belmont,Fitchburg,105.0
+Belmont,Framingham,626.0
+Belmont,Everett,201.0
+Belmont,Newton,2679.0
+Belmont,Somerville,1753.0
+Belmont,Boston,15958.0
+Belmont,Chelsea,984.0
+Belmont,Revere,105.0
+Belmont,Malden,510.0
+Belmont,Worcester,129.0
+Belmont,Brockton,103.0
+Belmont,Lowell,135.0
+Belmont,Medford,928.0
+Belmont,Melrose,103.0
+Belmont,Waltham,13081.0
+Belmont,Woburn,788.0
+Belmont,Cambridge,18820.0
+Belmont,Watertown Town,769.0
+Belmont,Quincy,240.0
+Belmont,Haverhill,372.0
+Belmont,Arlington,2557.0
+Belmont,Brookline,438.0
+Belmont,Burlington,210.0
+Belmont,Cochituate,112.0
+Belmont,Dedham,235.0
+Belmont,Hingham,258.0
+Belmont,Lexington,3522.0
+Belmont,Lynnfield,105.0
+Belmont,Marshfield,136.0
+Belmont,Nantucket,135.0
+Belmont,Needham,425.0
+Belmont,Sandwich,98.0
+Belmont,Stoneham,475.0
+Belmont,Upton,98.0
+Belmont,Wakefield,234.0
+Belmont,Wellesley,461.0
+Belmont,Westborough,103.0
+Belmont,West Concord,105.0
+Belmont,West Yarmouth,196.0
+Belmont,Wilmington,208.0
+Belmont,Winchester,234.0
+Bliss Corner,Barnstable Town,198.0
+Bliss Corner,Newton,123.0
+Bliss Corner,Boston,495.0
+Bliss Corner,Attleboro,99.0
+Bliss Corner,New Bedford,11978.0
+Bliss Corner,Fall River,792.0
+Bliss Corner,Taunton,99.0
+Bliss Corner,Malden,99.0
+Bliss Corner,Brockton,99.0
+Bliss Corner,Waltham,123.0
+Bliss Corner,Quincy,198.0
+Bliss Corner,Salem,198.0
+Bliss Corner,Acushnet Center,198.0
+Bliss Corner,Brookline,99.0
+Bliss Corner,East Falmouth,99.0
+Bliss Corner,Falmouth,99.0
+Bliss Corner,Hudson,99.0
+Bliss Corner,Marblehead,99.0
+Bliss Corner,Milford,99.0
+Bliss Corner,North Westport,198.0
+Bliss Corner,Norwood,99.0
+Bliss Corner,Smith Mills,8245.0
+Bliss Corner,Somerset,99.0
+Brookline,Braintree Town,951.0
+Brookline,Weymouth Town,112.0
+Brookline,Barnstable Town,760.0
+Brookline,Northampton,118.0
+Brookline,Fitchburg,97.0
+Brookline,Framingham,1310.0
+Brookline,Everett,246.0
+Brookline,Newton,10105.0
+Brookline,Somerville,755.0
+Brookline,Boston,64759.0
+Brookline,Chelsea,860.0
+Brookline,Revere,476.0
+Brookline,Gloucester,116.0
+Brookline,Taunton,142.0
+Brookline,Marlborough,98.0
+Brookline,Worcester,317.0
+Brookline,Leominster,649.0
+Brookline,Brockton,194.0
+Brookline,Lowell,98.0
+Brookline,Medford,413.0
+Brookline,Waltham,2335.0
+Brookline,Woburn,396.0
+Brookline,Cambridge,11340.0
+Brookline,Watertown Town,81.0
+Brookline,Quincy,406.0
+Brookline,Lynn,112.0
+Brookline,Belmont,473.0
+Brookline,Cochituate,162.0
+Brookline,Dedham,3555.0
+Brookline,Lexington,500.0
+Brookline,Lynnfield,122.0
+Brookline,Milton,162.0
+Brookline,Monument Beach,162.0
+Brookline,Nantucket,236.0
+Brookline,Needham,197.0
+Brookline,North Lakeville,97.0
+Brookline,Norwood,453.0
+Brookline,Saugus,118.0
+Brookline,Stoneham,97.0
+Brookline,Webster,81.0
+Brookline,Wellesley,523.0
+Brookline,Wilmington,81.0
+Brookline,Winchester,112.0
+Burlington,Braintree Town,76.0
+Burlington,Winthrop Town,76.0
+Burlington,Framingham,228.0
+Burlington,Newton,568.0
+Burlington,Somerville,152.0
+Burlington,Boston,3481.0
+Burlington,Chelsea,264.0
+Burlington,Gloucester,152.0
+Burlington,Malden,321.0
+Burlington,Marlborough,76.0
+Burlington,Springfield,76.0
+Burlington,Lowell,976.0
+Burlington,Medford,670.0
+Burlington,Melrose,229.0
+Burlington,Waltham,1664.0
+Burlington,Woburn,3308.0
+Burlington,Cambridge,1204.0
+Burlington,Watertown Town,76.0
+Burlington,Quincy,152.0
+Burlington,Lynn,228.0
+Burlington,Methuen Town,507.0
+Burlington,Peabody,152.0
+Burlington,Haverhill,412.0
+Burlington,Amesbury Town,112.0
+Burlington,Arlington,604.0
+Burlington,Belmont,188.0
+Burlington,Danvers,152.0
+Burlington,Dedham,152.0
+Burlington,Lexington,903.0
+Burlington,Littleton Common,76.0
+Burlington,Pinehurst,5178.0
+Burlington,Reading,905.0
+Burlington,Stoneham,1020.0
+Burlington,Wakefield,455.0
+Burlington,Wellesley,76.0
+Burlington,Wilmington,2891.0
+Burlington,Winchester,983.0
+Clinton,Fitchburg,177.0
+Clinton,Framingham,236.0
+Clinton,Boston,427.0
+Clinton,Marlborough,428.0
+Clinton,Worcester,708.0
+Clinton,Leominster,811.0
+Clinton,Medford,59.0
+Clinton,Waltham,221.0
+Clinton,Lynn,59.0
+Clinton,Lawrence,59.0
+Clinton,Hudson,310.0
+Clinton,Lunenburg,59.0
+Clinton,Oxford,147.0
+Clinton,Webster,59.0
+Clinton,West Concord,73.0
+Clinton,Wilbraham,59.0
+Cochituate,Framingham,5116.0
+Cochituate,Newton,244.0
+Cochituate,Boston,2141.0
+Cochituate,Lowell,153.0
+Cochituate,Waltham,857.0
+Cochituate,Cambridge,427.0
+Cochituate,Belmont,122.0
+Cochituate,Brookline,244.0
+Cochituate,Dedham,398.0
+Cochituate,Lexington,122.0
+Cochituate,Norwood,244.0
+Cochituate,Wellesley,979.0
+Cochituate,West Concord,122.0
+Cochituate,Winchester,122.0
+Danvers,Braintree Town,138.0
+Danvers,Barnstable Town,90.0
+Danvers,Fitchburg,271.0
+Danvers,Winthrop Town,158.0
+Danvers,Framingham,326.0
+Danvers,Newton,148.0
+Danvers,Somerville,369.0
+Danvers,Boston,5198.0
+Danvers,Chelsea,158.0
+Danvers,Revere,664.0
+Danvers,Beverly,3454.0
+Danvers,Gloucester,869.0
+Danvers,Malden,389.0
+Danvers,Lowell,265.0
+Danvers,Medford,405.0
+Danvers,Melrose,83.0
+Danvers,Waltham,169.0
+Danvers,Woburn,1050.0
+Danvers,Cambridge,828.0
+Danvers,Watertown Town,69.0
+Danvers,Lynn,4050.0
+Danvers,Methuen Town,311.0
+Danvers,Peabody,4278.0
+Danvers,Salem,3716.0
+Danvers,Lawrence,169.0
+Danvers,Haverhill,1140.0
+Danvers,Amesbury Town,83.0
+Danvers,Andover,228.0
+Danvers,Arlington,187.0
+Danvers,Belmont,158.0
+Danvers,Brookline,158.0
+Danvers,Clinton,181.0
+Danvers,Falmouth,204.0
+Danvers,Ipswich,162.0
+Danvers,Lexington,260.0
+Danvers,Lunenburg,90.0
+Danvers,Lynnfield,3069.0
+Danvers,Marblehead,69.0
+Danvers,Norwood,167.0
+Danvers,Pinehurst,162.0
+Danvers,Reading,763.0
+Danvers,Rowley,524.0
+Danvers,Saugus,538.0
+Danvers,Smith Mills,69.0
+Danvers,Stoneham,724.0
+Danvers,Swampscott,569.0
+Danvers,Topsfield,336.0
+Danvers,Wakefield,459.0
+Danvers,Wilmington,663.0
+Danvers,Winchester,338.0
+Dedham,Braintree Town,1421.0
+Dedham,Barnstable Town,476.0
+Dedham,Winthrop Town,105.0
+Dedham,Framingham,1226.0
+Dedham,Everett,55.0
+Dedham,Newton,3681.0
+Dedham,Boston,22316.0
+Dedham,Chelsea,511.0
+Dedham,Revere,79.0
+Dedham,Attleboro,178.0
+Dedham,Fall River,53.0
+Dedham,Taunton,106.0
+Dedham,Malden,53.0
+Dedham,Worcester,53.0
+Dedham,Brockton,322.0
+Dedham,Lowell,122.0
+Dedham,Medford,142.0
+Dedham,Waltham,1052.0
+Dedham,Woburn,53.0
+Dedham,Cambridge,1186.0
+Dedham,Quincy,777.0
+Dedham,Lynn,105.0
+Dedham,Newburyport,195.0
+Dedham,Lawrence,55.0
+Dedham,Belmont,370.0
+Dedham,Brookline,432.0
+Dedham,Lexington,300.0
+Dedham,Milton,364.0
+Dedham,Needham,2507.0
+Dedham,Norwood,5115.0
+Dedham,Pinehurst,122.0
+Dedham,Reading,175.0
+Dedham,Sharon,105.0
+Dedham,Smith Mills,53.0
+Dedham,South Duxbury,55.0
+Dedham,Wellesley,899.0
+Dedham,Wilmington,53.0
+Dedham,Winchester,53.0
+Dennis,Barnstable Town,3158.0
+Dennis,Boston,792.0
+Dennis,Worcester,109.0
+Dennis,Cambridge,109.0
+Dennis,Dennis Port,274.0
+Dennis,East Dennis,439.0
+Dennis,East Falmouth,109.0
+Dennis,East Harwich,109.0
+Dennis,Falmouth,109.0
+Dennis,Harwich Center,329.0
+Dennis,Lexington,109.0
+Dennis,Monument Beach,219.0
+Dennis,Nantucket,109.0
+Dennis,North Pembroke,109.0
+Dennis,Northwest Harwich,329.0
+Dennis,Sagamore,219.0
+Dennis,South Dennis,2419.0
+Dennis,South Yarmouth,1758.0
+Dennis,Stoneham,109.0
+Dennis,West Yarmouth,218.0
+Dennis,Yarmouth Port,439.0
+Dennis Port,Barnstable Town,2589.0
+Dennis Port,Boston,447.0
+Dennis Port,Cambridge,74.0
+Dennis Port,Quincy,74.0
+Dennis Port,Lynn,74.0
+Dennis Port,East Harwich,149.0
+Dennis Port,Harwich Center,223.0
+Dennis Port,North Pembroke,74.0
+Dennis Port,Northwest Harwich,149.0
+Dennis Port,Sandwich,74.0
+Dennis Port,South Dennis,2070.0
+Dennis Port,South Yarmouth,670.0
+Dennis Port,West Dennis,373.0
+Dennis Port,West Yarmouth,521.0
+Duxbury,Braintree Town,590.0
+Duxbury,Weymouth Town,118.0
+Duxbury,Fitchburg,118.0
+Duxbury,Boston,3008.0
+Duxbury,Chelsea,118.0
+Duxbury,Revere,118.0
+Duxbury,New Bedford,265.0
+Duxbury,Taunton,118.0
+Duxbury,Brockton,236.0
+Duxbury,Watertown Town,118.0
+Duxbury,Quincy,118.0
+Duxbury,Lynn,118.0
+Duxbury,Brookline,236.0
+Duxbury,Dedham,472.0
+Duxbury,East Falmouth,118.0
+Duxbury,Hingham,354.0
+Duxbury,Kingston,5635.0
+Duxbury,Marshfield,1681.0
+Duxbury,North Pembroke,2153.0
+Duxbury,North Plymouth,118.0
+Duxbury,Plymouth,354.0
+Duxbury,South Duxbury,3245.0
+East Dennis,Barnstable Town,3083.0
+East Dennis,Boston,381.0
+East Dennis,Taunton,127.0
+East Dennis,Waltham,127.0
+East Dennis,Dennis,635.0
+East Dennis,Dennis Port,254.0
+East Dennis,East Harwich,254.0
+East Dennis,Harwich Center,381.0
+East Dennis,Milton,127.0
+East Dennis,Northwest Harwich,572.0
+East Dennis,South Dennis,2035.0
+East Dennis,South Yarmouth,667.0
+East Dennis,Swampscott,254.0
+East Dennis,West Dennis,190.0
+East Dennis,West Yarmouth,158.0
+East Dennis,Wilmington,127.0
+East Dennis,Yarmouth Port,127.0
+East Falmouth,Braintree Town,68.0
+East Falmouth,Weymouth Town,136.0
+East Falmouth,Barnstable Town,3448.0
+East Falmouth,Framingham,141.0
+East Falmouth,Boston,1002.0
+East Falmouth,New Bedford,221.0
+East Falmouth,Fall River,136.0
+East Falmouth,Taunton,136.0
+East Falmouth,Brockton,113.0
+East Falmouth,Springfield,294.0
+East Falmouth,Quincy,68.0
+East Falmouth,Dedham,113.0
+East Falmouth,East Sandwich,68.0
+East Falmouth,Falmouth,9189.0
+East Falmouth,Mansfield Center,68.0
+East Falmouth,Mattapoisett Center,136.0
+East Falmouth,Milford,113.0
+East Falmouth,Monument Beach,747.0
+East Falmouth,North Falmouth,725.0
+East Falmouth,Northwest Harwich,113.0
+East Falmouth,Norwood,68.0
+East Falmouth,Pocasset,498.0
+East Falmouth,Sagamore,249.0
+East Falmouth,Sandwich,68.0
+East Falmouth,Smith Mills,249.0
+East Falmouth,South Dennis,266.0
+East Falmouth,South Yarmouth,113.0
+East Falmouth,West Yarmouth,68.0
+East Harwich,Barnstable Town,4172.0
+East Harwich,Boston,858.0
+East Harwich,Revere,78.0
+East Harwich,New Bedford,78.0
+East Harwich,Taunton,78.0
+East Harwich,Watertown Town,78.0
+East Harwich,Lynn,78.0
+East Harwich,Dennis,331.0
+East Harwich,Dennis Port,234.0
+East Harwich,East Dennis,78.0
+East Harwich,Falmouth,78.0
+East Harwich,Harwich Center,1852.0
+East Harwich,Nantucket,78.0
+East Harwich,North Pembroke,78.0
+East Harwich,Northwest Harwich,1092.0
+East Harwich,Sagamore,78.0
+East Harwich,Sandwich,156.0
+East Harwich,South Dennis,1560.0
+East Harwich,South Yarmouth,546.0
+East Harwich,West Dennis,312.0
+East Harwich,West Yarmouth,390.0
+East Pepperell,Fitchburg,93.0
+East Pepperell,Somerville,93.0
+East Pepperell,Boston,279.0
+East Pepperell,Chelsea,93.0
+East Pepperell,Lowell,1307.0
+East Pepperell,Waltham,279.0
+East Pepperell,Woburn,93.0
+East Pepperell,Cambridge,210.0
+East Pepperell,Watertown Town,93.0
+East Pepperell,Arlington,93.0
+East Pepperell,Brookline,93.0
+East Pepperell,Lexington,280.0
+East Pepperell,Lunenburg,93.0
+East Pepperell,Pinehurst,93.0
+East Pepperell,West Concord,93.0
+East Pepperell,Wilmington,93.0
+East Sandwich,Barnstable Town,6214.0
+East Sandwich,Boston,728.0
+East Sandwich,New Bedford,338.0
+East Sandwich,Taunton,104.0
+East Sandwich,Marlborough,104.0
+East Sandwich,Brockton,104.0
+East Sandwich,Bliss Corner,104.0
+East Sandwich,East Falmouth,104.0
+East Sandwich,East Harwich,208.0
+East Sandwich,Falmouth,312.0
+East Sandwich,Kingston,208.0
+East Sandwich,Monument Beach,442.0
+East Sandwich,Nantucket,104.0
+East Sandwich,North Lakeville,104.0
+East Sandwich,North Pembroke,104.0
+East Sandwich,Northwest Harwich,104.0
+East Sandwich,Plymouth,104.0
+East Sandwich,Pocasset,104.0
+East Sandwich,Sagamore,1014.0
+East Sandwich,Sandwich,5850.0
+East Sandwich,South Yarmouth,208.0
+East Sandwich,West Yarmouth,104.0
+Essex,Boston,667.0
+Essex,Beverly,955.0
+Essex,Gloucester,2698.0
+Essex,Waltham,95.0
+Essex,Newburyport,406.0
+Essex,Peabody,381.0
+Essex,Salem,190.0
+Essex,Haverhill,190.0
+Essex,Danvers,1480.0
+Essex,Ipswich,191.0
+Essex,Lynnfield,477.0
+Essex,Rockport,95.0
+Essex,Rowley,286.0
+Essex,Topsfield,95.0
+Essex,Wakefield,190.0
+Essex,West Concord,95.0
+Essex,Wilmington,190.0
+Falmouth,Barnstable Town,679.0
+Falmouth,Boston,113.0
+Falmouth,Taunton,113.0
+Falmouth,Haverhill,113.0
+Falmouth,East Falmouth,2324.0
+Falmouth,Monument Beach,340.0
+Falmouth,North Falmouth,113.0
+Falmouth,Northwest Harwich,113.0
+Falmouth,Pocasset,113.0
+Falmouth,Sagamore,113.0
+Falmouth,Sandwich,113.0
+Falmouth,Vineyard Haven,198.0
+Falmouth,West Dennis,113.0
+Hanson,Braintree Town,424.0
+Hanson,Weymouth Town,238.0
+Hanson,Barnstable Town,132.0
+Hanson,Newton,106.0
+Hanson,Boston,1378.0
+Hanson,Chelsea,212.0
+Hanson,Worcester,106.0
+Hanson,Brockton,1087.0
+Hanson,Woburn,106.0
+Hanson,Quincy,451.0
+Hanson,Abington,636.0
+Hanson,Dedham,318.0
+Hanson,East Sandwich,106.0
+Hanson,Holbrook,106.0
+Hanson,Hull,106.0
+Hanson,Kingston,106.0
+Hanson,Lexington,106.0
+Hanson,Needham,106.0
+Hanson,North Pembroke,664.0
+Hanson,Norwood,132.0
+Hanson,South Yarmouth,106.0
+Hanson,West Dennis,106.0
+Harwich Center,Barnstable Town,2993.0
+Harwich Center,Gardner,90.0
+Harwich Center,Boston,90.0
+Harwich Center,New Bedford,90.0
+Harwich Center,Woburn,204.0
+Harwich Center,Cambridge,90.0
+Harwich Center,Danvers,181.0
+Harwich Center,Dennis,90.0
+Harwich Center,Dennis Port,453.0
+Harwich Center,East Dennis,204.0
+Harwich Center,East Harwich,1543.0
+Harwich Center,Falmouth,90.0
+Harwich Center,Milton,90.0
+Harwich Center,North Pembroke,90.0
+Harwich Center,Northwest Harwich,1452.0
+Harwich Center,Plymouth,90.0
+Harwich Center,South Dennis,749.0
+Harwich Center,South Yarmouth,725.0
+Harwich Center,West Dennis,181.0
+Harwich Center,West Yarmouth,90.0
+Harwich Center,Yarmouth Port,181.0
+Hingham,Braintree Town,1352.0
+Hingham,Weymouth Town,3344.0
+Hingham,Barnstable Town,98.0
+Hingham,Newton,515.0
+Hingham,Boston,3806.0
+Hingham,Malden,98.0
+Hingham,Waltham,196.0
+Hingham,Cambridge,490.0
+Hingham,Watertown Town,98.0
+Hingham,Quincy,1374.0
+Hingham,Haverhill,98.0
+Hingham,Dedham,294.0
+Hingham,Hull,393.0
+Hingham,Kingston,295.0
+Hingham,Marshfield,98.0
+Hingham,Milton,294.0
+Hingham,Needham,196.0
+Hingham,North Pembroke,246.0
+Hingham,Norwood,98.0
+Hingham,Plymouth,98.0
+Hingham,Wellesley,196.0
+Holbrook,Braintree Town,9773.0
+Holbrook,Weymouth Town,802.0
+Holbrook,Newton,95.0
+Holbrook,Boston,5562.0
+Holbrook,Chelsea,163.0
+Holbrook,Revere,81.0
+Holbrook,Attleboro,95.0
+Holbrook,New Bedford,190.0
+Holbrook,Taunton,571.0
+Holbrook,Worcester,95.0
+Holbrook,Brockton,3387.0
+Holbrook,Melrose,95.0
+Holbrook,Waltham,338.0
+Holbrook,Cambridge,544.0
+Holbrook,Watertown Town,81.0
+Holbrook,Quincy,1331.0
+Holbrook,Peabody,81.0
+Holbrook,Haverhill,95.0
+Holbrook,Abington,2321.0
+Holbrook,Belmont,95.0
+Holbrook,Brookline,439.0
+Holbrook,Burlington,95.0
+Holbrook,Dedham,1195.0
+Holbrook,Hanson,95.0
+Holbrook,Hingham,244.0
+Holbrook,Milton,366.0
+Holbrook,North Pembroke,272.0
+Holbrook,Norwood,95.0
+Holbrook,Sharon,81.0
+Hopedale,Braintree Town,116.0
+Hopedale,Framingham,1367.0
+Hopedale,Newton,465.0
+Hopedale,Boston,349.0
+Hopedale,Marlborough,349.0
+Hopedale,Worcester,1102.0
+Hopedale,Cambridge,348.0
+Hopedale,Lawrence,232.0
+Hopedale,Brookline,233.0
+Hopedale,Hudson,349.0
+Hopedale,Milford,5329.0
+Hopedale,Upton,466.0
+Hopedale,Wellesley,349.0
+Hopedale,Westborough,145.0
+Hopedale,Whitinsville,116.0
+Hudson,Southbridge Town,73.0
+Hudson,Fitchburg,91.0
+Hudson,Framingham,2158.0
+Hudson,Everett,92.0
+Hudson,Newton,902.0
+Hudson,Boston,2945.0
+Hudson,Taunton,91.0
+Hudson,Malden,73.0
+Hudson,Marlborough,12169.0
+Hudson,Worcester,1966.0
+Hudson,Leominster,238.0
+Hudson,Medford,146.0
+Hudson,Waltham,419.0
+Hudson,Cambridge,328.0
+Hudson,Lynn,238.0
+Hudson,Methuen Town,73.0
+Hudson,Lawrence,73.0
+Hudson,Brookline,182.0
+Hudson,Clinton,91.0
+Hudson,Maynard,164.0
+Hudson,Milford,73.0
+Hudson,Needham,91.0
+Hudson,Wakefield,91.0
+Hudson,Westborough,73.0
+Hudson,Whitinsville,91.0
+Hudson,Wilmington,91.0
+Hull,Braintree Town,2587.0
+Hull,Weymouth Town,3148.0
+Hull,Barnstable Town,219.0
+Hull,Framingham,123.0
+Hull,Somerville,96.0
+Hull,Boston,3362.0
+Hull,Revere,123.0
+Hull,Leominster,123.0
+Hull,Brockton,342.0
+Hull,Medford,96.0
+Hull,Waltham,96.0
+Hull,Cambridge,219.0
+Hull,Quincy,1150.0
+Hull,Brookline,322.0
+Hull,Dedham,322.0
+Hull,Hingham,7661.0
+Hull,Holbrook,123.0
+Hull,Kingston,380.0
+Hull,Lexington,107.0
+Hull,Lynnfield,153.0
+Hull,Monument Beach,96.0
+Hull,North Pembroke,777.0
+Hull,Norwood,338.0
+Hull,Pinehurst,96.0
+Hull,Plymouth,230.0
+Hull,Reading,96.0
+Hull,Wellesley,107.0
+Hull,West Concord,123.0
+Ipswich,Somerville,115.0
+Ipswich,Boston,461.0
+Ipswich,Beverly,202.0
+Ipswich,Gloucester,808.0
+Ipswich,Springfield,115.0
+Ipswich,Cambridge,115.0
+Ipswich,Newburyport,230.0
+Ipswich,Peabody,115.0
+Ipswich,Salem,807.0
+Ipswich,Haverhill,461.0
+Ipswich,Belmont,115.0
+Ipswich,Danvers,1041.0
+Ipswich,Essex,666.0
+Ipswich,Lynnfield,347.0
+Ipswich,Rowley,1275.0
+Kingston,Braintree Town,627.0
+Kingston,Weymouth Town,178.0
+Kingston,Barnstable Town,537.0
+Kingston,Boston,1429.0
+Kingston,Fall River,89.0
+Kingston,Brockton,268.0
+Kingston,Cambridge,291.0
+Kingston,Quincy,201.0
+Kingston,Bliss Corner,89.0
+Kingston,Duxbury,269.0
+Kingston,East Falmouth,89.0
+Kingston,East Harwich,89.0
+Kingston,East Sandwich,89.0
+Kingston,Hanson,89.0
+Kingston,Hingham,89.0
+Kingston,Marshfield,89.0
+Kingston,Mattapoisett Center,89.0
+Kingston,North Pembroke,1122.0
+Kingston,North Plymouth,359.0
+Kingston,Plymouth,673.0
+Kingston,Pocasset,89.0
+Kingston,Sagamore,89.0
+Kingston,South Duxbury,359.0
+Kingston,South Yarmouth,89.0
+Kingston,West Yarmouth,89.0
+Lexington,Barnstable Town,106.0
+Lexington,Framingham,737.0
+Lexington,Newton,4251.0
+Lexington,Somerville,909.0
+Lexington,Boston,17253.0
+Lexington,Chelsea,253.0
+Lexington,Revere,117.0
+Lexington,New Bedford,169.0
+Lexington,Beverly,292.0
+Lexington,Malden,223.0
+Lexington,Marlborough,294.0
+Lexington,Worcester,307.0
+Lexington,Leominster,143.0
+Lexington,Springfield,191.0
+Lexington,West Springfield Town,106.0
+Lexington,Lowell,280.0
+Lexington,Medford,1061.0
+Lexington,Melrose,145.0
+Lexington,Waltham,15468.0
+Lexington,Woburn,3018.0
+Lexington,Cambridge,7125.0
+Lexington,Watertown Town,482.0
+Lexington,Lynn,244.0
+Lexington,Methuen Town,135.0
+Lexington,Newburyport,117.0
+Lexington,Haverhill,390.0
+Lexington,Andover,230.0
+Lexington,Arlington,4472.0
+Lexington,Belmont,3054.0
+Lexington,Brookline,880.0
+Lexington,Burlington,782.0
+Lexington,Danvers,145.0
+Lexington,Dedham,657.0
+Lexington,Falmouth,95.0
+Lexington,Ipswich,218.0
+Lexington,Lynnfield,336.0
+Lexington,Maynard,240.0
+Lexington,Milton,145.0
+Lexington,Pinehurst,117.0
+Lexington,Reading,992.0
+Lexington,Stoneham,547.0
+Lexington,Wakefield,577.0
+Lexington,Wellesley,606.0
+Lexington,West Concord,145.0
+Lexington,Wilbraham,95.0
+Lexington,Wilmington,387.0
+Lexington,Winchester,1284.0
+Littleton Common,Gardner,134.0
+Littleton Common,Framingham,178.0
+Littleton Common,Newton,447.0
+Littleton Common,Boston,1296.0
+Littleton Common,Marlborough,178.0
+Littleton Common,Leominster,447.0
+Littleton Common,Brockton,89.0
+Littleton Common,Lowell,267.0
+Littleton Common,Waltham,268.0
+Littleton Common,Cambridge,447.0
+Littleton Common,Watertown Town,89.0
+Littleton Common,Lawrence,179.0
+Littleton Common,Andover,134.0
+Littleton Common,Arlington,358.0
+Littleton Common,Dedham,89.0
+Littleton Common,Lexington,178.0
+Littleton Common,North Pembroke,89.0
+Littleton Common,Reading,89.0
+Littleton Common,West Concord,179.0
+Longmeadow,Palmer Town,63.0
+Longmeadow,Barnstable Town,104.0
+Longmeadow,Northampton,1060.0
+Longmeadow,Newton,82.0
+Longmeadow,Westfield,1147.0
+Longmeadow,Boston,853.0
+Longmeadow,Pittsfield,228.0
+Longmeadow,Easthampton Town,1124.0
+Longmeadow,Agawam Town,1246.0
+Longmeadow,Chicopee,1812.0
+Longmeadow,Holyoke,1614.0
+Longmeadow,Springfield,12652.0
+Longmeadow,West Springfield Town,5776.0
+Longmeadow,Medford,82.0
+Longmeadow,Waltham,82.0
+Longmeadow,Cambridge,82.0
+Longmeadow,Watertown Town,63.0
+Longmeadow,Littleton Common,82.0
+Longmeadow,Wilbraham,729.0
+Lunenburg,Barnstable Town,92.0
+Lunenburg,Gardner,276.0
+Lunenburg,Fitchburg,5566.0
+Lunenburg,Boston,276.0
+Lunenburg,Marlborough,184.0
+Lunenburg,Worcester,1288.0
+Lunenburg,Leominster,9614.0
+Lunenburg,Lowell,368.0
+Lunenburg,Waltham,368.0
+Lunenburg,Cambridge,92.0
+Lunenburg,Athol,184.0
+Lunenburg,Barre,92.0
+Lunenburg,Clinton,92.0
+Lunenburg,East Pepperell,92.0
+Lunenburg,Lexington,276.0
+Lunenburg,Littleton Common,552.0
+Lunenburg,Maynard,115.0
+Lunenburg,Reading,92.0
+Lunenburg,Sagamore,207.0
+Lunenburg,Wakefield,92.0
+Lunenburg,West Concord,92.0
+Lunenburg,Whitinsville,92.0
+Lynnfield,Winthrop Town,165.0
+Lynnfield,Framingham,186.0
+Lynnfield,Everett,104.0
+Lynnfield,Newton,412.0
+Lynnfield,Somerville,246.0
+Lynnfield,Boston,4667.0
+Lynnfield,Chelsea,411.0
+Lynnfield,Revere,412.0
+Lynnfield,Beverly,539.0
+Lynnfield,Gloucester,165.0
+Lynnfield,Malden,888.0
+Lynnfield,Marlborough,104.0
+Lynnfield,Brockton,165.0
+Lynnfield,Springfield,164.0
+Lynnfield,Lowell,329.0
+Lynnfield,Medford,290.0
+Lynnfield,Melrose,352.0
+Lynnfield,Waltham,602.0
+Lynnfield,Woburn,1002.0
+Lynnfield,Cambridge,729.0
+Lynnfield,Quincy,268.0
+Lynnfield,Lynn,1052.0
+Lynnfield,Methuen Town,164.0
+Lynnfield,Newburyport,186.0
+Lynnfield,Peabody,3846.0
+Lynnfield,Salem,889.0
+Lynnfield,Lawrence,165.0
+Lynnfield,Haverhill,351.0
+Lynnfield,Andover,104.0
+Lynnfield,Arlington,186.0
+Lynnfield,Burlington,82.0
+Lynnfield,Danvers,5049.0
+Lynnfield,Dedham,207.0
+Lynnfield,Lexington,208.0
+Lynnfield,Marblehead,82.0
+Lynnfield,Needham,104.0
+Lynnfield,Reading,5346.0
+Lynnfield,Saugus,808.0
+Lynnfield,Stoneham,1745.0
+Lynnfield,Swampscott,82.0
+Lynnfield,Wakefield,4145.0
+Lynnfield,Wellesley,82.0
+Lynnfield,Wilmington,642.0
+Lynnfield,Winchester,82.0
+Mansfield Center,Braintree Town,240.0
+Mansfield Center,Weymouth Town,195.0
+Mansfield Center,Framingham,60.0
+Mansfield Center,Newton,120.0
+Mansfield Center,Boston,1530.0
+Mansfield Center,Revere,60.0
+Mansfield Center,Attleboro,360.0
+Mansfield Center,Beverly,60.0
+Mansfield Center,Taunton,630.0
+Mansfield Center,Brockton,165.0
+Mansfield Center,Waltham,60.0
+Mansfield Center,Cambridge,180.0
+Mansfield Center,Quincy,180.0
+Mansfield Center,Lynn,60.0
+Mansfield Center,Salem,60.0
+Mansfield Center,Abington,180.0
+Mansfield Center,Brookline,60.0
+Mansfield Center,Danvers,60.0
+Mansfield Center,Dedham,180.0
+Mansfield Center,Holbrook,60.0
+Mansfield Center,Medfield,60.0
+Mansfield Center,Milton,120.0
+Mansfield Center,Needham,120.0
+Mansfield Center,North Falmouth,60.0
+Mansfield Center,North Lakeville,60.0
+Mansfield Center,Norwood,300.0
+Mansfield Center,Smith Mills,60.0
+Marblehead,Newton,117.0
+Marblehead,Boston,4086.0
+Marblehead,Revere,282.0
+Marblehead,Beverly,399.0
+Marblehead,Gloucester,117.0
+Marblehead,Worcester,141.0
+Marblehead,Melrose,258.0
+Marblehead,Cambridge,376.0
+Marblehead,Lynn,2939.0
+Marblehead,Peabody,493.0
+Marblehead,Salem,17995.0
+Marblehead,Haverhill,141.0
+Marblehead,Andover,117.0
+Marblehead,Danvers,1294.0
+Marblehead,Lexington,141.0
+Marblehead,Lynnfield,753.0
+Marblehead,Reading,117.0
+Marblehead,Rowley,353.0
+Marblehead,Saugus,117.0
+Marblehead,Swampscott,3463.0
+Marblehead,Wakefield,399.0
+Marblehead,Winchester,117.0
+Marshfield,Boston,844.0
+Marshfield,Taunton,116.0
+Marshfield,Quincy,232.0
+Marshfield,Abington,116.0
+Marshfield,Duxbury,116.0
+Marshfield,Hingham,233.0
+Marshfield,Kingston,233.0
+Marshfield,Milton,233.0
+Marshfield,North Pembroke,2393.0
+Marshfield,North Plymouth,116.0
+Marshfield,Norwood,116.0
+Marshfield,Plymouth,116.0
+Mattapoisett Center,Barnstable Town,185.0
+Mattapoisett Center,Boston,552.0
+Mattapoisett Center,Attleboro,139.0
+Mattapoisett Center,New Bedford,4538.0
+Mattapoisett Center,Fall River,368.0
+Mattapoisett Center,Taunton,277.0
+Mattapoisett Center,Brockton,184.0
+Mattapoisett Center,Waltham,92.0
+Mattapoisett Center,Quincy,184.0
+Mattapoisett Center,Bliss Corner,115.0
+Mattapoisett Center,Brookline,92.0
+Mattapoisett Center,Falmouth,92.0
+Mattapoisett Center,Holbrook,92.0
+Mattapoisett Center,Monument Beach,185.0
+Mattapoisett Center,Needham,115.0
+Mattapoisett Center,North Lakeville,185.0
+Mattapoisett Center,Pocasset,92.0
+Mattapoisett Center,Smith Mills,2968.0
+Mattapoisett Center,Somerset,92.0
+Mattapoisett Center,Vineyard Haven,185.0
+Mattapoisett Center,West Yarmouth,92.0
+Maynard,Braintree Town,102.0
+Maynard,Fitchburg,95.0
+Maynard,Winthrop Town,102.0
+Maynard,Framingham,2227.0
+Maynard,Newton,387.0
+Maynard,Somerville,190.0
+Maynard,Boston,1783.0
+Maynard,Revere,190.0
+Maynard,Marlborough,3996.0
+Maynard,Worcester,894.0
+Maynard,Leominster,788.0
+Maynard,Lowell,95.0
+Maynard,Melrose,95.0
+Maynard,Waltham,2268.0
+Maynard,Woburn,102.0
+Maynard,Cambridge,190.0
+Maynard,Watertown Town,95.0
+Maynard,Quincy,102.0
+Maynard,Lynn,102.0
+Maynard,Lawrence,316.0
+Maynard,Arlington,190.0
+Maynard,Belmont,197.0
+Maynard,Brookline,95.0
+Maynard,Danvers,190.0
+Maynard,Dedham,292.0
+Maynard,Hudson,1315.0
+Maynard,Lexington,387.0
+Maynard,Littleton Common,95.0
+Maynard,Lynnfield,95.0
+Maynard,Needham,190.0
+Maynard,Smith Mills,102.0
+Maynard,Wakefield,197.0
+Maynard,Wellesley,102.0
+Maynard,West Concord,920.0
+Maynard,Winchester,102.0
+Medfield,Southbridge Town,104.0
+Medfield,Braintree Town,104.0
+Medfield,Weymouth Town,104.0
+Medfield,Framingham,887.0
+Medfield,Newton,1071.0
+Medfield,Boston,2611.0
+Medfield,Chelsea,104.0
+Medfield,Attleboro,261.0
+Medfield,New Bedford,104.0
+Medfield,Leominster,104.0
+Medfield,Brockton,208.0
+Medfield,Easthampton Town,104.0
+Medfield,Springfield,209.0
+Medfield,West Springfield Town,313.0
+Medfield,Waltham,235.0
+Medfield,Cambridge,312.0
+Medfield,Lynn,312.0
+Medfield,Brookline,104.0
+Medfield,Dedham,3114.0
+Medfield,East Sandwich,104.0
+Medfield,Lynnfield,104.0
+Medfield,Milton,209.0
+Medfield,Needham,419.0
+Medfield,Norwood,1595.0
+Medfield,Plymouth,104.0
+Medfield,Sharon,235.0
+Medfield,Swampscott,104.0
+Medfield,Wellesley,1465.0
+Medfield,Westborough,209.0
+Milford,Palmer Town,60.0
+Milford,Barnstable Town,327.0
+Milford,Framingham,2379.0
+Milford,Newton,235.0
+Milford,Somerville,162.0
+Milford,Boston,2258.0
+Milford,Revere,60.0
+Milford,New Bedford,54.0
+Milford,Beverly,60.0
+Milford,Fall River,60.0
+Milford,Marlborough,1292.0
+Milford,Worcester,1451.0
+Milford,Brockton,60.0
+Milford,Springfield,92.0
+Milford,Lowell,60.0
+Milford,Medford,108.0
+Milford,Waltham,238.0
+Milford,Woburn,184.0
+Milford,Cambridge,442.0
+Milford,Watertown Town,54.0
+Milford,Quincy,92.0
+Milford,Franklin Town,292.0
+Milford,Lynn,152.0
+Milford,Methuen Town,120.0
+Milford,Peabody,92.0
+Milford,Lawrence,120.0
+Milford,Haverhill,60.0
+Milford,Andover,54.0
+Milford,Brookline,238.0
+Milford,Burlington,54.0
+Milford,Dedham,206.0
+Milford,East Harwich,54.0
+Milford,Falmouth,277.0
+Milford,Hopedale,683.0
+Milford,Hudson,146.0
+Milford,Lexington,54.0
+Milford,Needham,114.0
+Milford,Norwood,251.0
+Milford,Oxford,60.0
+Milford,Reading,54.0
+Milford,South Yarmouth,54.0
+Milford,Upton,243.0
+Milford,Wakefield,114.0
+Milford,Wellesley,395.0
+Milford,Westborough,92.0
+Milford,Whitinsville,268.0
+Milton,Braintree Town,11622.0
+Milton,Weymouth Town,699.0
+Milton,Barnstable Town,281.0
+Milton,Framingham,268.0
+Milton,Newton,1038.0
+Milton,Somerville,689.0
+Milton,Boston,35682.0
+Milton,Chelsea,432.0
+Milton,Revere,105.0
+Milton,Fall River,120.0
+Milton,Malden,66.0
+Milton,Worcester,66.0
+Milton,Brockton,1086.0
+Milton,Medford,97.0
+Milton,Waltham,776.0
+Milton,Cambridge,1776.0
+Milton,Watertown Town,132.0
+Milton,Quincy,6465.0
+Milton,Franklin Town,176.0
+Milton,Methuen Town,105.0
+Milton,Haverhill,105.0
+Milton,Amesbury Town,66.0
+Milton,Abington,194.0
+Milton,Belmont,186.0
+Milton,Brookline,829.0
+Milton,Dedham,7844.0
+Milton,East Dennis,176.0
+Milton,Falmouth,486.0
+Milton,Holbrook,105.0
+Milton,Kingston,66.0
+Milton,Mansfield Center,240.0
+Milton,Needham,1080.0
+Milton,North Falmouth,120.0
+Milton,Norwood,714.0
+Milton,Somerset,176.0
+Milton,Wakefield,120.0
+Milton,Wellesley,395.0
+Milton,West Concord,97.0
+Milton,Winchester,132.0
+Monument Beach,Barnstable Town,2055.0
+Monument Beach,Boston,395.0
+Monument Beach,New Bedford,186.0
+Monument Beach,Taunton,93.0
+Monument Beach,Lynn,93.0
+Monument Beach,Abington,93.0
+Monument Beach,East Falmouth,280.0
+Monument Beach,East Harwich,93.0
+Monument Beach,Falmouth,911.0
+Monument Beach,North Falmouth,327.0
+Monument Beach,North Lakeville,93.0
+Monument Beach,North Plymouth,93.0
+Monument Beach,Norwood,93.0
+Monument Beach,Pocasset,2267.0
+Monument Beach,Sagamore,2080.0
+Monument Beach,Sandwich,654.0
+Monument Beach,Smith Mills,93.0
+Monument Beach,South Yarmouth,93.0
+Nahant,Newton,109.0
+Nahant,Somerville,218.0
+Nahant,Boston,1772.0
+Nahant,Revere,109.0
+Nahant,Gloucester,327.0
+Nahant,Lowell,109.0
+Nahant,Medford,327.0
+Nahant,Woburn,354.0
+Nahant,Cambridge,109.0
+Nahant,Lynn,4367.0
+Nahant,Peabody,218.0
+Nahant,Salem,954.0
+Nahant,Lawrence,109.0
+Nahant,Haverhill,109.0
+Nahant,Arlington,109.0
+Nahant,Brookline,109.0
+Nahant,Danvers,218.0
+Nahant,Lexington,109.0
+Nahant,Lynnfield,327.0
+Nahant,Marblehead,109.0
+Nahant,Norwood,109.0
+Nahant,Stoneham,109.0
+Nahant,Swampscott,2294.0
+Nahant,Wakefield,109.0
+Nahant,Winchester,109.0
+Nantucket,Braintree Town,50.0
+Nantucket,Barnstable Town,2091.0
+Nantucket,Newton,62.0
+Nantucket,Boston,662.0
+Nantucket,Fall River,62.0
+Nantucket,Springfield,50.0
+Nantucket,Quincy,62.0
+Nantucket,North Pembroke,62.0
+Nantucket,West Yarmouth,112.0
+Needham,Braintree Town,573.0
+Needham,Barnstable Town,85.0
+Needham,Framingham,3709.0
+Needham,Newton,14654.0
+Needham,Somerville,243.0
+Needham,Boston,12481.0
+Needham,Taunton,99.0
+Needham,Marlborough,431.0
+Needham,Worcester,261.0
+Needham,Brockton,180.0
+Needham,Springfield,81.0
+Needham,Lowell,142.0
+Needham,Medford,178.0
+Needham,Waltham,2721.0
+Needham,Cambridge,1081.0
+Needham,Watertown Town,85.0
+Needham,Quincy,269.0
+Needham,Lawrence,85.0
+Needham,Abington,124.0
+Needham,Belmont,265.0
+Needham,Brookline,1743.0
+Needham,Cochituate,85.0
+Needham,Danvers,99.0
+Needham,Dedham,14256.0
+Needham,Hopedale,81.0
+Needham,Lexington,595.0
+Needham,Lynnfield,199.0
+Needham,Mansfield Center,81.0
+Needham,Medfield,270.0
+Needham,Milton,81.0
+Needham,North Lakeville,99.0
+Needham,Norwood,1491.0
+Needham,Reading,362.0
+Needham,Wellesley,10310.0
+Northborough,Framingham,182.0
+Northborough,Boston,274.0
+Northborough,Marlborough,1991.0
+Northborough,Worcester,729.0
+Northborough,Waltham,91.0
+Northborough,Brookline,91.0
+Northborough,Hudson,91.0
+Northborough,Mansfield Center,137.0
+Northborough,Wellesley,91.0
+Northborough,Westborough,183.0
+North Falmouth,Braintree Town,104.0
+North Falmouth,Barnstable Town,834.0
+North Falmouth,Boston,520.0
+North Falmouth,Marlborough,104.0
+North Falmouth,Waltham,104.0
+North Falmouth,Cambridge,104.0
+North Falmouth,Quincy,208.0
+North Falmouth,Dedham,104.0
+North Falmouth,East Falmouth,2348.0
+North Falmouth,Falmouth,5818.0
+North Falmouth,Hudson,104.0
+North Falmouth,Monument Beach,626.0
+North Falmouth,North Plymouth,104.0
+North Falmouth,Plymouth,104.0
+North Falmouth,Pocasset,521.0
+North Falmouth,Sagamore,313.0
+North Falmouth,Sandwich,104.0
+North Falmouth,Upton,104.0
+North Lakeville,Barnstable Town,373.0
+North Lakeville,Somerville,93.0
+North Lakeville,Boston,651.0
+North Lakeville,New Bedford,186.0
+North Lakeville,Fall River,186.0
+North Lakeville,Taunton,1142.0
+North Lakeville,Brockton,279.0
+North Lakeville,Cambridge,373.0
+North Lakeville,Methuen Town,93.0
+North Lakeville,Mansfield Center,93.0
+North Lakeville,Monument Beach,93.0
+North Lakeville,North Plymouth,93.0
+North Lakeville,Norwood,93.0
+North Lakeville,Plymouth,116.0
+North Lakeville,Smith Mills,186.0
+North Pembroke,Braintree Town,1071.0
+North Pembroke,Weymouth Town,267.0
+North Pembroke,Barnstable Town,178.0
+North Pembroke,Framingham,89.0
+North Pembroke,Newton,178.0
+North Pembroke,Boston,2832.0
+North Pembroke,Taunton,89.0
+North Pembroke,Brockton,779.0
+North Pembroke,Waltham,290.0
+North Pembroke,Cambridge,89.0
+North Pembroke,Quincy,668.0
+North Pembroke,Abington,89.0
+North Pembroke,Danvers,111.0
+North Pembroke,Dedham,89.0
+North Pembroke,Duxbury,89.0
+North Pembroke,Hanson,268.0
+North Pembroke,Hingham,89.0
+North Pembroke,Hull,89.0
+North Pembroke,Kingston,1094.0
+North Pembroke,Mansfield Center,89.0
+North Pembroke,Marshfield,715.0
+North Pembroke,North Plymouth,268.0
+North Pembroke,Norwood,290.0
+North Pembroke,Plymouth,469.0
+North Pembroke,Smith Mills,89.0
+North Plymouth,Braintree Town,87.0
+North Plymouth,Barnstable Town,526.0
+North Plymouth,Framingham,87.0
+North Plymouth,Boston,785.0
+North Plymouth,Taunton,87.0
+North Plymouth,Brockton,87.0
+North Plymouth,Springfield,87.0
+North Plymouth,Woburn,87.0
+North Plymouth,Cambridge,261.0
+North Plymouth,Quincy,87.0
+North Plymouth,Abington,87.0
+North Plymouth,Brookline,87.0
+North Plymouth,Kingston,1053.0
+North Plymouth,Mansfield Center,87.0
+North Plymouth,Marshfield,504.0
+North Plymouth,North Falmouth,87.0
+North Plymouth,North Pembroke,131.0
+North Plymouth,Plymouth,1866.0
+North Plymouth,South Duxbury,87.0
+Northwest Harwich,Braintree Town,205.0
+Northwest Harwich,Barnstable Town,6732.0
+Northwest Harwich,Newton,308.0
+Northwest Harwich,Boston,1103.0
+Northwest Harwich,Brockton,102.0
+Northwest Harwich,Quincy,282.0
+Northwest Harwich,Newburyport,102.0
+Northwest Harwich,Dennis,308.0
+Northwest Harwich,Dennis Port,1234.0
+Northwest Harwich,East Dennis,411.0
+Northwest Harwich,East Harwich,1851.0
+Northwest Harwich,Harwich Center,2211.0
+Northwest Harwich,Milton,102.0
+Northwest Harwich,Sagamore,205.0
+Northwest Harwich,South Dennis,3369.0
+Northwest Harwich,South Yarmouth,1284.0
+Northwest Harwich,West Dennis,308.0
+Northwest Harwich,West Yarmouth,642.0
+North Westport,Braintree Town,299.0
+North Westport,Newton,184.0
+North Westport,Boston,1012.0
+North Westport,New Bedford,3473.0
+North Westport,Fall River,11436.0
+North Westport,Taunton,299.0
+North Westport,Watertown Town,92.0
+North Westport,Quincy,92.0
+North Westport,Bliss Corner,184.0
+North Westport,Dedham,92.0
+North Westport,Holbrook,184.0
+North Westport,Mattapoisett Center,184.0
+North Westport,Pocasset,92.0
+North Westport,Smith Mills,7206.0
+North Westport,Somerset,897.0
+North Westport,South Dennis,92.0
+Norwood,Braintree Town,1291.0
+Norwood,Weymouth Town,51.0
+Norwood,Fitchburg,81.0
+Norwood,Framingham,396.0
+Norwood,Everett,203.0
+Norwood,Newton,1937.0
+Norwood,Somerville,117.0
+Norwood,Boston,12880.0
+Norwood,Attleboro,132.0
+Norwood,Fall River,122.0
+Norwood,Taunton,81.0
+Norwood,Marlborough,240.0
+Norwood,Worcester,451.0
+Norwood,Brockton,1143.0
+Norwood,Chicopee,106.0
+Norwood,Lowell,162.0
+Norwood,Waltham,915.0
+Norwood,Cambridge,513.0
+Norwood,Quincy,792.0
+Norwood,Franklin Town,385.0
+Norwood,Lynn,81.0
+Norwood,Methuen Town,106.0
+Norwood,Peabody,117.0
+Norwood,Haverhill,106.0
+Norwood,Amesbury Town,160.0
+Norwood,Abington,211.0
+Norwood,Arlington,81.0
+Norwood,Belmont,81.0
+Norwood,Brookline,475.0
+Norwood,Dedham,11129.0
+Norwood,East Harwich,117.0
+Norwood,Hingham,350.0
+Norwood,Lexington,51.0
+Norwood,Lynnfield,81.0
+Norwood,Mansfield Center,163.0
+Norwood,Medfield,162.0
+Norwood,Milton,132.0
+Norwood,Needham,1083.0
+Norwood,Reading,152.0
+Norwood,Sharon,81.0
+Norwood,Stoneham,147.0
+Norwood,Wellesley,688.0
+Norwood,Wilmington,187.0
+Orange,Palmer Town,125.0
+Orange,Gardner,690.0
+Orange,Fitchburg,250.0
+Orange,Boston,125.0
+Orange,Worcester,125.0
+Orange,Leominster,754.0
+Orange,Holyoke,125.0
+Orange,Springfield,250.0
+Orange,Athol,912.0
+Orange,Longmeadow,125.0
+Orange,Turners Falls,125.0
+Oxford,Southbridge Town,418.0
+Oxford,Braintree Town,152.0
+Oxford,Northampton,76.0
+Oxford,Fitchburg,76.0
+Oxford,Newton,76.0
+Oxford,Boston,684.0
+Oxford,Revere,76.0
+Oxford,Marlborough,475.0
+Oxford,Worcester,4466.0
+Oxford,Leominster,76.0
+Oxford,Springfield,152.0
+Oxford,Medford,76.0
+Oxford,Franklin Town,76.0
+Oxford,Brookline,76.0
+Oxford,Milford,247.0
+Oxford,Northborough,76.0
+Oxford,Spencer,76.0
+Oxford,Webster,2015.0
+Oxford,Westborough,76.0
+Pinehurst,Winthrop Town,89.0
+Pinehurst,Newton,89.0
+Pinehurst,Somerville,428.0
+Pinehurst,Boston,2317.0
+Pinehurst,Beverly,183.0
+Pinehurst,Gloucester,94.0
+Pinehurst,Malden,371.0
+Pinehurst,Leominster,94.0
+Pinehurst,Lowell,1977.0
+Pinehurst,Medford,371.0
+Pinehurst,Melrose,94.0
+Pinehurst,Waltham,643.0
+Pinehurst,Woburn,1197.0
+Pinehurst,Cambridge,722.0
+Pinehurst,Methuen Town,361.0
+Pinehurst,Peabody,94.0
+Pinehurst,Salem,183.0
+Pinehurst,Lawrence,441.0
+Pinehurst,Haverhill,94.0
+Pinehurst,Andover,94.0
+Pinehurst,Arlington,383.0
+Pinehurst,Belmont,89.0
+Pinehurst,Brookline,371.0
+Pinehurst,Burlington,3714.0
+Pinehurst,Danvers,188.0
+Pinehurst,Dedham,94.0
+Pinehurst,Hudson,178.0
+Pinehurst,Lexington,277.0
+Pinehurst,Lynnfield,89.0
+Pinehurst,Needham,89.0
+Pinehurst,Norwood,188.0
+Pinehurst,Reading,967.0
+Pinehurst,Stoneham,183.0
+Pinehurst,Wellesley,188.0
+Pinehurst,Wilmington,2271.0
+Pinehurst,Winchester,188.0
+Plymouth,Braintree Town,342.0
+Plymouth,Weymouth Town,85.0
+Plymouth,Barnstable Town,256.0
+Plymouth,Boston,767.0
+Plymouth,Taunton,85.0
+Plymouth,Cambridge,85.0
+Plymouth,Duxbury,85.0
+Plymouth,Kingston,812.0
+Plymouth,North Plymouth,684.0
+Plymouth,South Dennis,85.0
+Plymouth,South Duxbury,85.0
+Plymouth,South Yarmouth,85.0
+Pocasset,Barnstable Town,1530.0
+Pocasset,Newton,90.0
+Pocasset,Boston,270.0
+Pocasset,New Bedford,360.0
+Pocasset,Marlborough,90.0
+Pocasset,Arlington,112.0
+Pocasset,East Falmouth,540.0
+Pocasset,Falmouth,922.0
+Pocasset,Monument Beach,2317.0
+Pocasset,North Falmouth,742.0
+Pocasset,North Pembroke,90.0
+Pocasset,North Plymouth,90.0
+Pocasset,Sagamore,652.0
+Pocasset,Sandwich,540.0
+Pocasset,Smith Mills,90.0
+Pocasset,Vineyard Haven,180.0
+Reading,Braintree Town,354.0
+Reading,Weymouth Town,102.0
+Reading,Barnstable Town,205.0
+Reading,Fitchburg,154.0
+Reading,Winthrop Town,226.0
+Reading,Framingham,217.0
+Reading,Everett,113.0
+Reading,Newton,420.0
+Reading,Somerville,491.0
+Reading,Boston,9772.0
+Reading,Chelsea,113.0
+Reading,Revere,102.0
+Reading,Beverly,139.0
+Reading,Gloucester,419.0
+Reading,Malden,452.0
+Reading,Worcester,426.0
+Reading,Lowell,395.0
+Reading,Medford,944.0
+Reading,Melrose,228.0
+Reading,Waltham,737.0
+Reading,Woburn,4717.0
+Reading,Cambridge,1054.0
+Reading,Watertown Town,113.0
+Reading,Quincy,102.0
+Reading,Lynn,1184.0
+Reading,Methuen Town,797.0
+Reading,Newburyport,89.0
+Reading,Peabody,674.0
+Reading,Salem,89.0
+Reading,Lawrence,430.0
+Reading,Haverhill,775.0
+Reading,Andover,545.0
+Reading,Arlington,315.0
+Reading,Belmont,365.0
+Reading,Brookline,215.0
+Reading,Burlington,344.0
+Reading,Danvers,1550.0
+Reading,Essex,139.0
+Reading,Falmouth,215.0
+Reading,Holbrook,112.0
+Reading,Ipswich,226.0
+Reading,Lexington,837.0
+Reading,Lynnfield,6004.0
+Reading,Mansfield Center,113.0
+Reading,Maynard,113.0
+Reading,Pinehurst,667.0
+Reading,Saugus,226.0
+Reading,Stoneham,7755.0
+Reading,Wakefield,4275.0
+Reading,West Concord,113.0
+Reading,West Yarmouth,102.0
+Reading,Wilmington,4893.0
+Reading,Winchester,1176.0
+Rockport,Boston,1200.0
+Rockport,Beverly,360.0
+Rockport,Gloucester,12693.0
+Rockport,Malden,120.0
+Rockport,Lynn,120.0
+Rockport,Newburyport,120.0
+Rockport,Salem,150.0
+Rockport,Danvers,270.0
+Rockport,Essex,120.0
+Rockport,Lexington,120.0
+Rockport,Lynnfield,480.0
+Rockport,Reading,240.0
+Rockport,Westborough,360.0
+Rowley,Boston,962.0
+Rowley,Chelsea,126.0
+Rowley,Revere,101.0
+Rowley,Beverly,203.0
+Rowley,Gloucester,303.0
+Rowley,Malden,203.0
+Rowley,Marlborough,101.0
+Rowley,Medford,101.0
+Rowley,Melrose,101.0
+Rowley,Lynn,404.0
+Rowley,Methuen Town,202.0
+Rowley,Newburyport,2944.0
+Rowley,Peabody,837.0
+Rowley,Salem,405.0
+Rowley,Lawrence,202.0
+Rowley,Haverhill,1342.0
+Rowley,Amesbury Town,507.0
+Rowley,Andover,203.0
+Rowley,Belmont,101.0
+Rowley,Danvers,1521.0
+Rowley,Dedham,101.0
+Rowley,Essex,203.0
+Rowley,Hudson,101.0
+Rowley,Ipswich,507.0
+Rowley,Lynnfield,558.0
+Rowley,Reading,101.0
+Rowley,Saugus,431.0
+Rowley,Swampscott,101.0
+Rowley,Topsfield,203.0
+Rowley,Vineyard Haven,101.0
+Rowley,Wakefield,379.0
+Rowley,Wilmington,101.0
+Sagamore,Braintree Town,113.0
+Sagamore,Barnstable Town,3742.0
+Sagamore,Framingham,180.0
+Sagamore,Boston,589.0
+Sagamore,Fall River,90.0
+Sagamore,Waltham,90.0
+Sagamore,Watertown Town,90.0
+Sagamore,Methuen Town,136.0
+Sagamore,Dennis Port,272.0
+Sagamore,East Falmouth,90.0
+Sagamore,East Harwich,90.0
+Sagamore,East Sandwich,181.0
+Sagamore,Falmouth,181.0
+Sagamore,Hingham,90.0
+Sagamore,Kingston,272.0
+Sagamore,Marshfield,204.0
+Sagamore,Monument Beach,2089.0
+Sagamore,Nantucket,363.0
+Sagamore,North Plymouth,90.0
+Sagamore,Northwest Harwich,90.0
+Sagamore,Plymouth,272.0
+Sagamore,Pocasset,726.0
+Sagamore,Sandwich,2316.0
+Sagamore,Somerset,181.0
+Sagamore,South Dennis,317.0
+Sagamore,South Yarmouth,90.0
+Sagamore,West Yarmouth,90.0
+Sandwich,Braintree Town,104.0
+Sandwich,Barnstable Town,2944.0
+Sandwich,Newton,104.0
+Sandwich,Boston,364.0
+Sandwich,Brockton,312.0
+Sandwich,Quincy,104.0
+Sandwich,Peabody,104.0
+Sandwich,East Sandwich,703.0
+Sandwich,Falmouth,208.0
+Sandwich,Monument Beach,599.0
+Sandwich,Plymouth,208.0
+Sandwich,Pocasset,104.0
+Sandwich,Sagamore,1486.0
+Sandwich,South Dennis,104.0
+Sandwich,Vineyard Haven,104.0
+Saugus,Winthrop Town,256.0
+Saugus,Framingham,144.0
+Saugus,Everett,422.0
+Saugus,Newton,158.0
+Saugus,Somerville,933.0
+Saugus,Boston,7908.0
+Saugus,Chelsea,1472.0
+Saugus,Revere,2490.0
+Saugus,Beverly,414.0
+Saugus,Gloucester,228.0
+Saugus,Taunton,76.0
+Saugus,Malden,1189.0
+Saugus,Worcester,68.0
+Saugus,Lowell,144.0
+Saugus,Medford,926.0
+Saugus,Melrose,1022.0
+Saugus,Waltham,234.0
+Saugus,Woburn,553.0
+Saugus,Cambridge,1705.0
+Saugus,Lynn,4003.0
+Saugus,Methuen Town,228.0
+Saugus,Newburyport,76.0
+Saugus,Peabody,1296.0
+Saugus,Salem,394.0
+Saugus,Lawrence,337.0
+Saugus,Haverhill,144.0
+Saugus,Andover,136.0
+Saugus,Arlington,180.0
+Saugus,Belmont,90.0
+Saugus,Brookline,180.0
+Saugus,Danvers,1448.0
+Saugus,Holbrook,68.0
+Saugus,Lexington,144.0
+Saugus,Lynnfield,2140.0
+Saugus,Marblehead,76.0
+Saugus,Milton,76.0
+Saugus,Nahant,76.0
+Saugus,Needham,85.0
+Saugus,Pinehurst,68.0
+Saugus,Reading,468.0
+Saugus,Stoneham,446.0
+Saugus,Swampscott,152.0
+Saugus,Topsfield,76.0
+Saugus,Wakefield,1456.0
+Saugus,Wellesley,204.0
+Saugus,Wilmington,270.0
+Saugus,Winchester,90.0
+Sharon,Braintree Town,587.0
+Sharon,Newton,585.0
+Sharon,Somerville,106.0
+Sharon,Boston,3513.0
+Sharon,New Bedford,106.0
+Sharon,Taunton,106.0
+Sharon,Brockton,451.0
+Sharon,Waltham,106.0
+Sharon,Cambridge,212.0
+Sharon,Quincy,426.0
+Sharon,Franklin Town,213.0
+Sharon,Brookline,318.0
+Sharon,Dedham,853.0
+Sharon,Holbrook,106.0
+Sharon,Mansfield Center,320.0
+Sharon,Medfield,106.0
+Sharon,Norwood,1280.0
+Sharon,Wellesley,426.0
+Smith Mills,Boston,882.0
+Smith Mills,New Bedford,5597.0
+Smith Mills,Fall River,3248.0
+Smith Mills,Taunton,441.0
+Smith Mills,Worcester,252.0
+Smith Mills,Brockton,63.0
+Smith Mills,Cambridge,315.0
+Smith Mills,Acushnet Center,252.0
+Smith Mills,Bliss Corner,2148.0
+Smith Mills,Brookline,126.0
+Smith Mills,Dedham,63.0
+Smith Mills,Kingston,126.0
+Smith Mills,Mattapoisett Center,268.0
+Smith Mills,Milton,63.0
+Smith Mills,North Westport,489.0
+Smith Mills,Norwood,63.0
+Smith Mills,Plymouth,63.0
+Smith Mills,Sandwich,63.0
+Smith Mills,Somerset,126.0
+Smith Mills,West Yarmouth,284.0
+Somerset,Southbridge Town,103.0
+Somerset,Braintree Town,79.0
+Somerset,Barnstable Town,239.0
+Somerset,Boston,1321.0
+Somerset,Chelsea,181.0
+Somerset,Attleboro,315.0
+Somerset,New Bedford,1931.0
+Somerset,Fall River,23959.0
+Somerset,Taunton,2253.0
+Somerset,Malden,103.0
+Somerset,Worcester,103.0
+Somerset,Brockton,364.0
+Somerset,Springfield,78.0
+Somerset,Lowell,103.0
+Somerset,Waltham,78.0
+Somerset,Salem,206.0
+Somerset,Abington,78.0
+Somerset,Bliss Corner,206.0
+Somerset,Dedham,79.0
+Somerset,Hingham,299.0
+Somerset,Mansfield Center,103.0
+Somerset,Mattapoisett Center,79.0
+Somerset,Monument Beach,103.0
+Somerset,North Westport,680.0
+Somerset,Plymouth,78.0
+Somerset,Pocasset,206.0
+Somerset,Smith Mills,3006.0
+Somerset,Wakefield,79.0
+Somerset,Wilmington,79.0
+South Dennis,Barnstable Town,4951.0
+South Dennis,Boston,208.0
+South Dennis,Brockton,104.0
+South Dennis,Dedham,104.0
+South Dennis,Dennis,208.0
+South Dennis,Dennis Port,1460.0
+South Dennis,East Dennis,521.0
+South Dennis,East Harwich,208.0
+South Dennis,East Sandwich,104.0
+South Dennis,Harwich Center,312.0
+South Dennis,Nantucket,104.0
+South Dennis,Northwest Harwich,208.0
+South Dennis,Sagamore,521.0
+South Dennis,Sandwich,104.0
+South Dennis,South Yarmouth,1772.0
+South Dennis,West Dennis,521.0
+South Dennis,West Yarmouth,416.0
+South Duxbury,Braintree Town,275.0
+South Duxbury,Weymouth Town,300.0
+South Duxbury,Newton,600.0
+South Duxbury,Boston,1875.0
+South Duxbury,Fall River,100.0
+South Duxbury,Brockton,100.0
+South Duxbury,Waltham,200.0
+South Duxbury,Cambridge,200.0
+South Duxbury,Quincy,100.0
+South Duxbury,Abington,100.0
+South Duxbury,Brookline,100.0
+South Duxbury,Dedham,100.0
+South Duxbury,Duxbury,3851.0
+South Duxbury,Harwich Center,100.0
+South Duxbury,Kingston,6953.0
+South Duxbury,Marshfield,825.0
+South Duxbury,North Pembroke,1375.0
+South Duxbury,North Plymouth,100.0
+South Duxbury,Plymouth,800.0
+South Duxbury,West Dennis,100.0
+South Yarmouth,Braintree Town,168.0
+South Yarmouth,Barnstable Town,13289.0
+South Yarmouth,Somerville,156.0
+South Yarmouth,Boston,775.0
+South Yarmouth,Worcester,361.0
+South Yarmouth,Pittsfield,272.0
+South Yarmouth,Watertown Town,90.0
+South Yarmouth,Quincy,90.0
+South Yarmouth,Arlington,90.0
+South Yarmouth,Dennis,246.0
+South Yarmouth,Dennis Port,272.0
+South Yarmouth,East Dennis,90.0
+South Yarmouth,East Falmouth,90.0
+South Yarmouth,East Harwich,804.0
+South Yarmouth,East Sandwich,78.0
+South Yarmouth,Falmouth,78.0
+South Yarmouth,Harwich Center,90.0
+South Yarmouth,Kingston,90.0
+South Yarmouth,Monument Beach,448.0
+South Yarmouth,North Pembroke,272.0
+South Yarmouth,Northwest Harwich,337.0
+South Yarmouth,Sagamore,337.0
+South Yarmouth,Sandwich,90.0
+South Yarmouth,Smith Mills,156.0
+South Yarmouth,South Dennis,1529.0
+South Yarmouth,Vineyard Haven,78.0
+South Yarmouth,West Dennis,272.0
+South Yarmouth,West Yarmouth,2450.0
+South Yarmouth,Yarmouth Port,598.0
+Spencer,Southbridge Town,84.0
+Spencer,Palmer Town,106.0
+Spencer,Northampton,84.0
+Spencer,Framingham,84.0
+Spencer,Somerville,168.0
+Spencer,Westfield,84.0
+Spencer,Boston,675.0
+Spencer,Revere,84.0
+Spencer,Marlborough,168.0
+Spencer,Worcester,6370.0
+Spencer,Leominster,423.0
+Spencer,Easthampton Town,84.0
+Spencer,Springfield,168.0
+Spencer,Cambridge,84.0
+Spencer,Haverhill,84.0
+Spencer,Clinton,84.0
+Spencer,Oxford,424.0
+Spencer,Webster,592.0
+Spencer,Westborough,84.0
+Spencer,Whitinsville,84.0
+Stoneham,Barnstable Town,77.0
+Stoneham,Winthrop Town,126.0
+Stoneham,Everett,77.0
+Stoneham,Newton,389.0
+Stoneham,Somerville,642.0
+Stoneham,Boston,7837.0
+Stoneham,Chelsea,1010.0
+Stoneham,Revere,654.0
+Stoneham,Attleboro,97.0
+Stoneham,Beverly,347.0
+Stoneham,Gloucester,191.0
+Stoneham,Malden,1951.0
+Stoneham,Marlborough,101.0
+Stoneham,Springfield,101.0
+Stoneham,Lowell,169.0
+Stoneham,Medford,2947.0
+Stoneham,Melrose,1886.0
+Stoneham,Waltham,622.0
+Stoneham,Woburn,6374.0
+Stoneham,Cambridge,1986.0
+Stoneham,Lynn,1320.0
+Stoneham,Methuen Town,443.0
+Stoneham,Peabody,837.0
+Stoneham,Salem,367.0
+Stoneham,Lawrence,178.0
+Stoneham,Haverhill,180.0
+Stoneham,Andover,292.0
+Stoneham,Arlington,550.0
+Stoneham,Belmont,304.0
+Stoneham,Brookline,385.0
+Stoneham,Burlington,77.0
+Stoneham,Danvers,2283.0
+Stoneham,Dedham,395.0
+Stoneham,Ipswich,97.0
+Stoneham,Lexington,794.0
+Stoneham,Lynnfield,1724.0
+Stoneham,Marblehead,97.0
+Stoneham,Maynard,97.0
+Stoneham,Norwood,409.0
+Stoneham,Pinehurst,284.0
+Stoneham,Reading,8558.0
+Stoneham,Saugus,598.0
+Stoneham,Wakefield,6733.0
+Stoneham,Wellesley,101.0
+Stoneham,Wilmington,776.0
+Stoneham,Winchester,1307.0
+Swampscott,Winthrop Town,170.0
+Swampscott,Newton,337.0
+Swampscott,Somerville,67.0
+Swampscott,Boston,3243.0
+Swampscott,Chelsea,206.0
+Swampscott,Revere,372.0
+Swampscott,Beverly,789.0
+Swampscott,Gloucester,103.0
+Swampscott,Marlborough,103.0
+Swampscott,Worcester,170.0
+Swampscott,Medford,103.0
+Swampscott,Woburn,134.0
+Swampscott,Cambridge,170.0
+Swampscott,Lynn,3489.0
+Swampscott,Newburyport,206.0
+Swampscott,Peabody,516.0
+Swampscott,Salem,4910.0
+Swampscott,Haverhill,516.0
+Swampscott,Amesbury Town,103.0
+Swampscott,Andover,103.0
+Swampscott,Danvers,1591.0
+Swampscott,Dedham,103.0
+Swampscott,Essex,103.0
+Swampscott,Lynnfield,884.0
+Swampscott,Marblehead,2236.0
+Swampscott,Nahant,723.0
+Swampscott,Reading,206.0
+Swampscott,Stoneham,103.0
+Swampscott,Topsfield,67.0
+Swampscott,Wakefield,206.0
+Swampscott,West Concord,103.0
+Swampscott,Wilmington,103.0
+Topsfield,Braintree Town,117.0
+Topsfield,Barnstable Town,117.0
+Topsfield,Framingham,234.0
+Topsfield,Somerville,234.0
+Topsfield,Boston,1789.0
+Topsfield,Chelsea,234.0
+Topsfield,Revere,351.0
+Topsfield,Beverly,822.0
+Topsfield,Gloucester,351.0
+Topsfield,Malden,117.0
+Topsfield,Lowell,235.0
+Topsfield,Melrose,117.0
+Topsfield,Waltham,117.0
+Topsfield,Woburn,117.0
+Topsfield,Cambridge,234.0
+Topsfield,Lynn,351.0
+Topsfield,Methuen Town,117.0
+Topsfield,Newburyport,645.0
+Topsfield,Peabody,1408.0
+Topsfield,Salem,615.0
+Topsfield,Lawrence,117.0
+Topsfield,Haverhill,615.0
+Topsfield,Amesbury Town,117.0
+Topsfield,Danvers,6345.0
+Topsfield,Ipswich,235.0
+Topsfield,Lynnfield,881.0
+Topsfield,Marblehead,117.0
+Topsfield,Reading,117.0
+Topsfield,Rowley,2467.0
+Topsfield,Saugus,117.0
+Topsfield,Wakefield,470.0
+Topsfield,Wilmington,117.0
+Topsfield,Winchester,117.0
+Turners Falls,Northampton,829.0
+Turners Falls,Chicopee,200.0
+Turners Falls,Holyoke,100.0
+Turners Falls,Springfield,100.0
+Turners Falls,West Springfield Town,100.0
+Turners Falls,Athol,100.0
+Upton,Barnstable Town,93.0
+Upton,Fitchburg,93.0
+Upton,Winthrop Town,93.0
+Upton,Framingham,1209.0
+Upton,Newton,186.0
+Upton,Boston,1069.0
+Upton,Taunton,186.0
+Upton,Malden,93.0
+Upton,Marlborough,744.0
+Upton,Worcester,1301.0
+Upton,Brockton,93.0
+Upton,Holyoke,93.0
+Upton,Springfield,93.0
+Upton,Waltham,93.0
+Upton,Cambridge,279.0
+Upton,Newburyport,93.0
+Upton,Hingham,93.0
+Upton,Hopedale,186.0
+Upton,Hudson,186.0
+Upton,Milford,2163.0
+Upton,Northborough,93.0
+Upton,Oxford,93.0
+Upton,Pocasset,93.0
+Upton,Wellesley,279.0
+Upton,Westborough,1070.0
+Upton,Whitinsville,558.0
+Vineyard Haven,Braintree Town,172.0
+Vineyard Haven,Barnstable Town,172.0
+Vineyard Haven,Everett,86.0
+Vineyard Haven,Boston,172.0
+Vineyard Haven,Fall River,86.0
+Vineyard Haven,Cambridge,172.0
+Vineyard Haven,Belmont,86.0
+Vineyard Haven,East Falmouth,86.0
+Vineyard Haven,Falmouth,280.0
+Vineyard Haven,Mansfield Center,86.0
+Vineyard Haven,Sagamore,86.0
+Vineyard Haven,Smith Mills,86.0
+Wakefield,Braintree Town,170.0
+Wakefield,Framingham,108.0
+Wakefield,Everett,391.0
+Wakefield,Newton,718.0
+Wakefield,Somerville,562.0
+Wakefield,Boston,10257.0
+Wakefield,Chelsea,1119.0
+Wakefield,Revere,869.0
+Wakefield,Beverly,210.0
+Wakefield,Gloucester,290.0
+Wakefield,Malden,2463.0
+Wakefield,Marlborough,157.0
+Wakefield,Worcester,188.0
+Wakefield,Lowell,187.0
+Wakefield,Medford,1229.0
+Wakefield,Melrose,2769.0
+Wakefield,Waltham,1246.0
+Wakefield,Woburn,3585.0
+Wakefield,Cambridge,1076.0
+Wakefield,Quincy,291.0
+Wakefield,Lynn,826.0
+Wakefield,Methuen Town,488.0
+Wakefield,Peabody,1102.0
+Wakefield,Salem,1046.0
+Wakefield,Lawrence,533.0
+Wakefield,Haverhill,491.0
+Wakefield,Andover,55.0
+Wakefield,Arlington,157.0
+Wakefield,Belmont,503.0
+Wakefield,Brookline,55.0
+Wakefield,Burlington,204.0
+Wakefield,Danvers,2048.0
+Wakefield,Dedham,532.0
+Wakefield,East Harwich,55.0
+Wakefield,Lexington,848.0
+Wakefield,Lynnfield,8941.0
+Wakefield,Marblehead,241.0
+Wakefield,Milton,55.0
+Wakefield,Norwood,55.0
+Wakefield,Pinehurst,613.0
+Wakefield,Reading,15889.0
+Wakefield,Saugus,330.0
+Wakefield,Smith Mills,266.0
+Wakefield,Stoneham,11403.0
+Wakefield,Topsfield,85.0
+Wakefield,Wellesley,133.0
+Wakefield,West Concord,133.0
+Wakefield,Wilmington,1481.0
+Wakefield,Winchester,1812.0
+Ware,Southbridge Town,118.0
+Ware,Palmer Town,897.0
+Ware,Northampton,201.0
+Ware,Boston,134.0
+Ware,Worcester,403.0
+Ware,Pittsfield,67.0
+Ware,Easthampton Town,101.0
+Ware,Chicopee,269.0
+Ware,Springfield,707.0
+Ware,West Springfield Town,270.0
+Ware,Turners Falls,67.0
+Ware,Wilbraham,67.0
+Webster,Southbridge Town,1087.0
+Webster,Braintree Town,98.0
+Webster,Gardner,89.0
+Webster,Framingham,494.0
+Webster,Everett,89.0
+Webster,Westfield,79.0
+Webster,Boston,1240.0
+Webster,Chelsea,156.0
+Webster,Beverly,89.0
+Webster,Marlborough,620.0
+Webster,Worcester,6947.0
+Webster,Holyoke,84.0
+Webster,Waltham,445.0
+Webster,Cambridge,158.0
+Webster,Franklin Town,79.0
+Webster,Lynn,89.0
+Webster,Clinton,84.0
+Webster,Hudson,177.0
+Webster,Milford,158.0
+Webster,Northborough,79.0
+Webster,Oxford,2813.0
+Webster,Spencer,84.0
+Webster,Stoneham,89.0
+Webster,Upton,89.0
+Webster,West Concord,79.0
+Webster,Whitinsville,89.0
+Wellesley,Southbridge Town,115.0
+Wellesley,Braintree Town,109.0
+Wellesley,Framingham,9361.0
+Wellesley,Newton,14585.0
+Wellesley,Somerville,241.0
+Wellesley,Boston,14117.0
+Wellesley,Chelsea,115.0
+Wellesley,Attleboro,109.0
+Wellesley,Fall River,134.0
+Wellesley,Malden,90.0
+Wellesley,Marlborough,539.0
+Wellesley,Worcester,280.0
+Wellesley,Leominster,109.0
+Wellesley,Brockton,263.0
+Wellesley,Chicopee,205.0
+Wellesley,Springfield,115.0
+Wellesley,Medford,115.0
+Wellesley,Waltham,2879.0
+Wellesley,Cambridge,2320.0
+Wellesley,Watertown Town,90.0
+Wellesley,Quincy,897.0
+Wellesley,Lynn,224.0
+Wellesley,Arlington,115.0
+Wellesley,Belmont,1609.0
+Wellesley,Brookline,1355.0
+Wellesley,Cochituate,460.0
+Wellesley,Dedham,3309.0
+Wellesley,East Harwich,134.0
+Wellesley,Hingham,618.0
+Wellesley,Hudson,115.0
+Wellesley,Lexington,318.0
+Wellesley,Medfield,244.0
+Wellesley,Milford,154.0
+Wellesley,Milton,205.0
+Wellesley,Needham,5498.0
+Wellesley,Norwood,799.0
+Wellesley,Reading,386.0
+Wellesley,Sandwich,137.0
+Westborough,Palmer Town,71.0
+Westborough,Framingham,640.0
+Westborough,Newton,142.0
+Westborough,Boston,497.0
+Westborough,Marlborough,1031.0
+Westborough,Worcester,1029.0
+Westborough,Springfield,71.0
+Westborough,Waltham,142.0
+Westborough,Lynn,71.0
+Westborough,Salem,71.0
+Westborough,Andover,71.0
+Westborough,Hudson,71.0
+Westborough,Lexington,71.0
+Westborough,Littleton Common,88.0
+Westborough,Milford,213.0
+Westborough,Northborough,142.0
+Westborough,Wellesley,71.0
+West Concord,Framingham,946.0
+West Concord,Newton,189.0
+West Concord,Somerville,189.0
+West Concord,Boston,2366.0
+West Concord,Marlborough,189.0
+West Concord,Worcester,378.0
+West Concord,Leominster,189.0
+West Concord,Lowell,756.0
+West Concord,Waltham,378.0
+West Concord,Cambridge,992.0
+West Concord,Methuen Town,189.0
+West Concord,Lawrence,378.0
+West Concord,Arlington,189.0
+West Concord,Belmont,379.0
+West Concord,Burlington,189.0
+West Concord,Hudson,378.0
+West Concord,Lexington,189.0
+West Concord,Littleton Common,189.0
+West Concord,Maynard,1279.0
+West Concord,Pinehurst,189.0
+West Concord,Reading,379.0
+West Concord,Winchester,425.0
+West Dennis,Southbridge Town,114.0
+West Dennis,Braintree Town,229.0
+West Dennis,Barnstable Town,1144.0
+West Dennis,New Bedford,114.0
+West Dennis,Dennis,114.0
+West Dennis,Dennis Port,229.0
+West Dennis,East Dennis,229.0
+West Dennis,Harwich Center,114.0
+West Dennis,South Dennis,1689.0
+West Dennis,South Yarmouth,915.0
+West Dennis,West Yarmouth,228.0
+West Yarmouth,Palmer Town,97.0
+West Yarmouth,Barnstable Town,20230.0
+West Yarmouth,Somerville,97.0
+West Yarmouth,Boston,1010.0
+West Yarmouth,Chelsea,121.0
+West Yarmouth,Worcester,121.0
+West Yarmouth,Lynn,97.0
+West Yarmouth,Dennis,291.0
+West Yarmouth,Dennis Port,97.0
+West Yarmouth,East Dennis,291.0
+West Yarmouth,East Falmouth,95.0
+West Yarmouth,East Harwich,385.0
+West Yarmouth,East Pepperell,97.0
+West Yarmouth,Falmouth,335.0
+West Yarmouth,Harwich Center,798.0
+West Yarmouth,Monument Beach,386.0
+West Yarmouth,Nantucket,97.0
+West Yarmouth,Needham,95.0
+West Yarmouth,Northwest Harwich,194.0
+West Yarmouth,Plymouth,240.0
+West Yarmouth,Sagamore,410.0
+West Yarmouth,Sandwich,97.0
+West Yarmouth,Sharon,95.0
+West Yarmouth,South Dennis,847.0
+West Yarmouth,South Yarmouth,7817.0
+West Yarmouth,West Dennis,194.0
+West Yarmouth,Yarmouth Port,291.0
+Whitinsville,Southbridge Town,86.0
+Whitinsville,Framingham,431.0
+Whitinsville,Boston,345.0
+Whitinsville,Marlborough,194.0
+Whitinsville,Worcester,2775.0
+Whitinsville,Waltham,172.0
+Whitinsville,Salem,86.0
+Whitinsville,Brookline,86.0
+Whitinsville,Dedham,86.0
+Whitinsville,East Falmouth,172.0
+Whitinsville,Hopedale,259.0
+Whitinsville,Lynnfield,86.0
+Whitinsville,Milford,776.0
+Whitinsville,Oxford,259.0
+Whitinsville,Upton,821.0
+Whitinsville,Webster,431.0
+Whitinsville,Westborough,583.0
+Wilbraham,Southbridge Town,72.0
+Wilbraham,Palmer Town,1028.0
+Wilbraham,Braintree Town,72.0
+Wilbraham,Northampton,721.0
+Wilbraham,Framingham,72.0
+Wilbraham,Westfield,576.0
+Wilbraham,Boston,216.0
+Wilbraham,Malden,72.0
+Wilbraham,Worcester,144.0
+Wilbraham,Leominster,144.0
+Wilbraham,Easthampton Town,72.0
+Wilbraham,Agawam Town,288.0
+Wilbraham,Chicopee,1586.0
+Wilbraham,Holyoke,576.0
+Wilbraham,Springfield,12301.0
+Wilbraham,West Springfield Town,1334.0
+Wilbraham,Watertown Town,72.0
+Wilbraham,Lynn,72.0
+Wilbraham,Barre,198.0
+Wilbraham,Dedham,144.0
+Wilbraham,Longmeadow,577.0
+Wilbraham,Ware,72.0
+Williamstown,Westfield,257.0
+Williamstown,North Adams,4340.0
+Williamstown,Pittsfield,1574.0
+Williamstown,Cambridge,128.0
+Wilmington,Weymouth Town,100.0
+Wilmington,Barnstable Town,302.0
+Wilmington,Winthrop Town,92.0
+Wilmington,Framingham,168.0
+Wilmington,Everett,382.0
+Wilmington,Newton,290.0
+Wilmington,Somerville,451.0
+Wilmington,Westfield,99.0
+Wilmington,Boston,8543.0
+Wilmington,Chelsea,384.0
+Wilmington,Revere,99.0
+Wilmington,New Bedford,69.0
+Wilmington,Beverly,100.0
+Wilmington,Gloucester,402.0
+Wilmington,Malden,1021.0
+Wilmington,Marlborough,291.0
+Wilmington,Leominster,99.0
+Wilmington,Brockton,191.0
+Wilmington,Springfield,139.0
+Wilmington,Lowell,3051.0
+Wilmington,Medford,905.0
+Wilmington,Melrose,198.0
+Wilmington,Waltham,1017.0
+Wilmington,Woburn,4263.0
+Wilmington,Cambridge,2172.0
+Wilmington,Watertown Town,92.0
+Wilmington,Lynn,336.0
+Wilmington,Methuen Town,1202.0
+Wilmington,Newburyport,169.0
+Wilmington,Peabody,392.0
+Wilmington,Lawrence,718.0
+Wilmington,Haverhill,1738.0
+Wilmington,Andover,446.0
+Wilmington,Arlington,1043.0
+Wilmington,Belmont,92.0
+Wilmington,Brookline,151.0
+Wilmington,Burlington,1405.0
+Wilmington,Danvers,830.0
+Wilmington,Dedham,92.0
+Wilmington,Ipswich,222.0
+Wilmington,Lexington,818.0
+Wilmington,Lynnfield,992.0
+Wilmington,Needham,100.0
+Wilmington,Pinehurst,3414.0
+Wilmington,Reading,5200.0
+Wilmington,Saugus,192.0
+Wilmington,South Yarmouth,201.0
+Wilmington,Stoneham,2528.0
+Wilmington,Wakefield,1639.0
+Wilmington,Wellesley,100.0
+Wilmington,Winchester,851.0
+Winchester,Braintree Town,124.0
+Winchester,Framingham,295.0
+Winchester,Everett,117.0
+Winchester,Newton,705.0
+Winchester,Somerville,1540.0
+Winchester,Westfield,124.0
+Winchester,Boston,13114.0
+Winchester,Chelsea,328.0
+Winchester,Revere,741.0
+Winchester,Gloucester,124.0
+Winchester,Malden,915.0
+Winchester,Marlborough,765.0
+Winchester,Worcester,373.0
+Winchester,Springfield,76.0
+Winchester,Lowell,394.0
+Winchester,Medford,4447.0
+Winchester,Melrose,235.0
+Winchester,Waltham,2488.0
+Winchester,Woburn,14782.0
+Winchester,Cambridge,4904.0
+Winchester,Watertown Town,118.0
+Winchester,Quincy,118.0
+Winchester,Lynn,606.0
+Winchester,Peabody,102.0
+Winchester,Salem,152.0
+Winchester,Haverhill,220.0
+Winchester,Andover,358.0
+Winchester,Arlington,2852.0
+Winchester,Belmont,1769.0
+Winchester,Brookline,732.0
+Winchester,Burlington,236.0
+Winchester,Danvers,443.0
+Winchester,Dedham,118.0
+Winchester,Falmouth,124.0
+Winchester,Lexington,3102.0
+Winchester,Lynnfield,1303.0
+Winchester,Needham,118.0
+Winchester,North Falmouth,124.0
+Winchester,Reading,792.0
+Winchester,Saugus,124.0
+Winchester,Stoneham,2945.0
+Winchester,Wakefield,715.0
+Winchester,Wellesley,194.0
+Winchester,Wilmington,523.0
+Yarmouth Port,Barnstable Town,5317.0
+Yarmouth Port,Boston,270.0
+Yarmouth Port,Dennis,542.0
+Yarmouth Port,Dennis Port,271.0
+Yarmouth Port,East Dennis,271.0
+Yarmouth Port,Harwich Center,135.0
+Yarmouth Port,Northwest Harwich,338.0
+Yarmouth Port,Sandwich,135.0
+Yarmouth Port,South Dennis,948.0
+Yarmouth Port,South Yarmouth,3251.0
+Yarmouth Port,West Yarmouth,812.0

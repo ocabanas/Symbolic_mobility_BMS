@@ -1,0 +1,499 @@
+name,m,area
+Altamont,1675,3.279144
+Peekskill,25431,11.251161
+Cortland,17556,10.085376
+Homer,3210,4.986794
+Lewiston,2531,2.840234
+Lockport,20876,21.755323
+Middleport,1729,2.258057
+Niagara Falls,48671,36.482615
+Newburgh,28856,9.857747
+Port Jervis,8775,6.55221
+Head of the Harbor,1520,7.266262
+Islandia,3567,5.733949
+Lake Grove,11072,7.653845
+Massena,10151,11.733827
+Canastota,4556,8.649529
+Ogdensburg,10064,12.834996
+Cazenovia,2767,4.888199
+Washingtonville,5657,6.573775
+Geneva,12812,10.914565
+Hudson Falls,7427,4.82118
+Lindenhurst,27148,9.704444
+Lloyd Harbor,3571,24.168878
+North Haven,1162,6.872636
+Old Field,893,5.36035
+Hamilton,4107,6.458504
+Rome,32127,193.870118
+Sherrill,3077,5.986679
+Utica,65283,43.310457
+Dolgeville,2042,4.637386
+Gloversville,15131,13.069249
+Johnstown,8204,12.485028
+Buffalo,278349,104.577537
+Cobleskill,4173,9.232745
+Wilson,1247,2.10591
+Fulton,11389,10.161074
+Oswego,16921,19.720149
+Phoenix,2226,3.031723
+Pulaski,2186,9.157572
+Saratoga Springs,28491,72.687552
+Castleton-on-Hudson,1477,1.848304
+Nassau,1103,1.809749
+Albany,99224,55.435357
+Green Island,2934,1.935064
+Mamaroneck,20151,8.311614
+Mount Kisco,10959,7.877311
+Ossining,27551,8.203208
+Rensselaer,9210,8.232403
+Troy,51401,26.825731
+Highland Falls,3684,2.832502
+Clyde,2171,5.693176
+Potsdam,8312,12.736472
+Newark,9017,14.035204
+Palmyra,3305,3.488424
+Pelham Manor,5752,3.503454
+Tarrytown,11860,7.603008
+Lancaster,10027,6.989269
+East Rochester,6334,3.405735
+Honeoye Falls,2706,6.586703
+Great Neck,11145,3.430081
+Great Neck Plaza,7482,0.806563
+Hempstead,59169,9.558962
+Hewlett Bay Park,494,0.8743
+Island Park,4928,1.151846
+Bayville,6748,3.769718
+Brookville,2939,10.223878
+Spencerport,3685,3.58001
+Hillburn,930,5.784799
+Mount Vernon,73893,11.377785
+Piermont,2517,1.742277
+Sloatsburg,3036,6.471761
+South Nyack,2699,1.560442
+Suffern,11441,5.431424
+Upper Nyack,2015,3.165384
+New York,8804190,778.178241
+Malone,5483,8.078949
+East Hampton,1517,12.352035
+Greenport,2583,2.460134
+Port Jefferson,7962,7.933856
+North Tonawanda,30496,26.140446
+Scotia,7272,4.372005
+Pelham,7326,2.129386
+Rye,16592,15.157983
+Brockport,7104,5.631325
+Fairport,5501,4.091906
+Airmont,10166,11.823716
+Montebello,4507,11.190593
+West Haverstraw,10678,3.932326
+Frankfort,2320,2.625522
+Herkimer,7234,6.703914
+Ilion,7646,6.456618
+Hoosick Falls,3216,4.138795
+Old Westbury,4289,22.20246
+Port Washington North,3160,1.239548
+Woodbury,9335,12.969493
+Marcellus,1745,1.655581
+Patchogue,12408,5.854107
+Rockville Centre,26016,8.419755
+Roslyn Harbor,1067,3.084042
+Sands Point,2712,10.929014
+Ellenville,4167,22.51497
+Kingston,24069,19.379178
+New Paltz,7324,4.562907
+Saugerties,3899,4.619269
+Sea Cliff,5062,2.887408
+Thomaston,2759,1.045477
+Valley Stream,40634,9.007439
+Westbury,15864,6.069815
+Williston Park,7591,1.621989
+Ithaca,32108,13.95712
+Dunkirk,12743,11.774799
+Cohoes,18147,9.771247
+Colonie,7781,8.395683
+Menands,4554,7.929471
+Ravena,3271,3.802021
+Lackawanna,19949,16.958231
+Atlantic Beach,1707,1.137583
+East Williston,2645,1.47285
+Great Neck Estates,2990,1.983719
+Oyster Bay Cove,2265,10.837156
+Plandome,1448,1.275361
+Amityville,9500,5.324065
+Lawrence,6809,9.628551
+Munsey Park,2809,1.336745
+Muttontown,3512,15.68754
+Babylon,12188,6.243579
+Belle Terre,808,2.291699
+Bellport,2203,3.755084
+Brightwaters,3181,2.500948
+Haverstraw,12323,5.138773
+Watervliet,10375,3.475039
+Rochester,211328,92.6347
+Oneida,10329,57.115754
+Ballston Spa,5111,4.145396
+Corinth,2562,2.762585
+Mechanicville,5163,2.172487
+Croton-on-Hudson,8327,12.155696
+Harrison,28218,43.422937
+New Rochelle,79726,26.640882
+Port Chester,31693,6.029919
+Scarsdale,18253,17.288625
+Yonkers,211569,46.63444
+North Syracuse,6739,5.145191
+Endicott,13667,8.272082
+Voorheesville,2841,5.539441
+Watertown,24685,23.393545
+Auburn,26866,21.588471
+Bronxville,6656,2.51865
+South Glens Falls,3744,3.518293
+Stillwater,1754,3.258267
+Victory,666,1.361018
+Waterford,2038,0.732551
+Chester,3993,5.563811
+Cornwall-on-Hudson,3075,5.146045
+Fishkill,2166,2.154279
+Millbrook,1455,4.816653
+Pawling,1995,5.061125
+Poughkeepsie,31577,13.324438
+Rhinebeck,2697,3.900078
+Buchanan,2302,3.666065
+Dobbs Ferry,11541,6.27483
+Elmsford,5239,2.7371
+Hastings-on-Hudson,8590,5.125595
+Nelsonville,624,2.677636
+Coxsackie,2746,5.620623
+Oneonta,13079,11.295615
+Middletown,30345,13.741253
+Harriman,2714,2.601406
+Kiryas Joel,32954,3.785896
+Monroe,9343,9.047725
+Wappingers Falls,6103,2.90323
+White Plains,59559,25.217999
+Briarcliff Manor,7569,15.527998
+Larchmont,6630,2.838001
+Rye Brook,10047,8.879538
+Owego,3654,6.599467
+New Hartford,1859,1.60384
+New York Mills,3244,3.056761
+Lansing,3648,11.940517
+Glens Falls,14830,9.973637
+Hudson,5894,5.588824
+Warsaw,3646,10.633987
+Ardsley,5079,3.421377
+Irvington,6652,7.225673
+Whitesboro,3612,2.718396
+Yorkville,2657,1.73878
+Westhampton Beach,2150,7.615801
+Syracuse,148620,64.903077
+New Square,9679,0.94966
+Spring Valley,33066,5.200992
+South Blooming Grove,3973,12.095747
+Little Falls,4605,9.941029
+Mohawk,2415,2.272584
+Kings Point,5619,8.699839
+Lattingtown,1881,9.705069
+Long Beach,35029,5.743691
+Corning,10551,7.986917
+Farmingdale,8466,2.833877
+Floral Park,16172,3.680302
+Hornell,8263,8.491569
+Elmira,26523,18.782821
+Horseheads,6606,10.070798
+Norwich,7051,5.502165
+Flower Hill,4794,4.175019
+Freeport,44472,11.857374
+Garden City,23272,13.799905
+Lynbrook,20438,5.21322
+Malverne,8560,2.740049
+Manorhaven,6956,1.215967
+Massapequa Park,17109,5.676961
+Glen Cove,28365,17.243917
+Wyoming,377,1.732336
+Batavia,15600,13.456004
+Le Roy,4300,6.96824
+Olean,13937,15.279909
+Avon,3399,8.148997
+Dansville,4433,6.753953
+Geneseo,7574,7.379703
+Mount Morris,2898,5.303317
+Canandaigua,10576,11.811298
+Plattsburgh,19841,13.049718
+Amsterdam,18219,15.208935
+Sleepy Hollow,9986,5.809691
+St. Johnsville,1643,2.272798
+Delhi,2721,8.225825
+Binghamton,47969,27.141216
+Akron,2888,5.209767
+Alden,2604,7.040219
+Angola,2046,3.669096
+Blasdell,2539,2.910121
+Depew,15178,13.147772
+East Aurora,5998,6.5033
+Gowanda,2513,4.125363
+Hamburg,9696,6.421437
+Baldwinsville,7898,8.261134
+Camillus,1222,1.050759
+Schenectady,67047,27.991725
+Kenmore,15205,3.718719
+Orchard Park,3108,3.479089
+Tonawanda,15129,9.850438
+Williamsville,5423,3.258137
+Johnson City,15343,11.789493
+Liverpool,2242,1.946367
+Manlius,4662,4.715779
+Minoa,3657,3.421226
+Waverly,4373,5.916356
+Fredonia,9585,13.303985
+Jamestown,28712,23.049709
+Beacon,13769,12.273969
+Red Hook,1975,2.731454
+Mineola,20800,4.794402
+New Hyde Park,10257,2.195675
+Huntington Bay,1446,2.585393
+Solvay,6645,4.185853
+Medina,6047,8.543805
+Hammondsport,583,0.893853
+Cedarhurst,7374,1.747711
+East Hills,7284,5.903176
+East Rockaway,10159,2.636667
+East Syracuse,3078,4.039633
+Sloan,3775,2.020127
+Springville,4225,9.5317
+Lakewood,3002,5.076309
+Albertson,5220,1.758559
+Averill Park,2098,10.455319
+Baiting Hollow,2763,13.493751
+Baldwin,33919,10.654991
+Bay Park,2117,1.300132
+Bayport,8609,9.675302
+Bay Shore,29244,14.70649
+Baywood,7726,5.920213
+Beaver Dam Lake,2609,6.318668
+Bellerose Terrace,2329,0.323483
+Bellmore,16297,6.110559
+Bethpage,16658,9.261281
+Blue Point,5156,4.666261
+Bohemia,9852,22.287188
+Brasher Falls,674,4.25434
+Brentwood,62387,28.360731
+Brighton,37137,39.904827
+Brinckerhoff,3377,4.558991
+Brookhaven,3330,15.014103
+Carle Place,5005,2.481987
+Centereach,30980,23.073451
+Cheektowaga,76829,65.724372
+Chenango Bridge,2884,6.342875
+Commack,36536,31.723379
+Copiague,23429,8.008831
+Coram,40220,35.809365
+Cortland West,1286,13.37879
+Country Knolls,5349,8.869366
+Crugers,1627,1.719994
+Deer Park,28837,15.973368
+Dix Hills,26180,40.790585
+Eastchester,20901,8.548837
+East Farmingdale,6617,19.365877
+East Glenville,11896,26.056067
+East Islip,13931,10.233259
+East Massapequa,19854,8.75162
+East Meadow,37796,16.324393
+East Northport,20048,13.350783
+East Patchogue,21580,21.544165
+East Shoreham,6841,13.984163
+Eatons Neck,1334,2.602162
+Eden,3346,14.487988
+Edwards,361,2.39542
+Eggertsville,15561,7.408692
+Elmont,35265,8.831008
+Elwood,11426,12.381408
+Endwell,11762,9.696146
+Farmingville,14983,10.846168
+Fire Island,777,23.746998
+Firthcliffe,5022,7.69227
+Fort Drum,15896,37.139292
+Franklin Square,30903,7.458918
+Garden City South,4119,1.032894
+Gardnertown,4542,12.498697
+Apalachin,2632,7.44826
+Armonk,4495,15.368193
+Bedford,1691,9.219054
+Cumberland Head,1735,9.996648
+Bardonia,4249,6.636214
+Blauvelt,5548,11.681585
+Binghamton University,7261,2.008507
+Centerport,5822,5.728172
+Central Islip,36714,18.530561
+Clarkson,4694,23.592181
+Congers,8532,8.249477
+East Moriches,5946,14.058898
+East Norwich,2792,2.724886
+Fairmount,10248,8.714955
+Galeville,4482,3.245228
+Fort Salonga,9652,24.580342
+Germantown,1121,9.440096
+Gilgo,185,12.999547
+Glasco,2013,4.186593
+Glens Falls North,9530,21.694425
+Golden's Bridge,1628,6.243569
+Gordon Heights,3981,4.413705
+Great River,2005,10.840344
+Greece,14429,11.326697
+Greenlawn,13661,9.908547
+Greenville,9394,6.774073
+Hampton Bays,15228,33.50189
+Hartsdale,3377,2.197493
+Hauppauge,20083,26.43366
+Haviland,4174,12.761937
+Hawthorne,4646,2.844944
+Heritage Hills,4511,4.833175
+Hicksville,43869,17.591639
+Holtsville,18937,18.411792
+Huntington,19645,19.787131
+Huntington Station,34878,14.181619
+Inwood,11340,4.13084
+Irondequoit,51043,38.890209
+Islip,18418,12.292964
+Islip Terrace,5323,3.298459
+Jamestown West,2652,6.526951
+Jefferson Valley-Yorktown,14444,18.023643
+Jericho,14808,10.261294
+Kings Park,17085,17.279484
+Lake Carmel,8069,13.532014
+Lake Erie Beach,3467,9.899184
+Lake Ronkonkoma,18619,11.74943
+Lakeview,6077,2.591953
+Levittown,51758,17.643735
+Locust Valley,3571,2.347239
+Lyncourt,4376,3.241848
+Lyons,3989,11.947349
+Mahopac,8932,15.87286
+Manhasset,8176,6.177315
+Manhasset Hills,3649,1.53136
+Manorville,14317,65.866551
+Massapequa,21355,9.217047
+Mastic,15404,9.998798
+Mastic Beach,14199,12.686827
+Mechanicstown,8065,8.673786
+Medford,24247,27.968187
+Melville,19284,31.367459
+Merrick,22040,10.31148
+Middle Island,10546,21.286834
+Miller Place,11723,16.962332
+Mount Sinai,11623,15.538347
+Myers Corner,10598,22.119523
+Nanuet,18886,14.07619
+Nesconset,13207,9.897846
+New Cassel,14199,3.867663
+New City,34135,40.046546
+New Windsor,8882,9.742405
+Niskayuna,20787,30.759388
+North Babylon,17927,8.538901
+Gates,4956,5.1266
+Glen Head,4837,4.254606
+Harris Hill,5839,10.463349
+Herricks,4398,1.483898
+Hewlett,7262,2.28077
+Highland,6385,13.990326
+Hurley,3346,14.211364
+Holbrook,26487,17.826641
+Hyde Park,1925,3.217899
+Montrose,2862,4.196753
+Latham,13680,14.974853
+Mattydale,6296,4.974026
+Nedrow,2095,2.491135
+Minetto,1262,9.718715
+North Bay Shore,19619,8.279693
+Northeast Ithaca,2701,3.805963
+North Gates,9458,6.890957
+North Great River,4266,6.09149
+North Lindenhurst,12000,4.999985
+North New Hyde Park,15657,5.15709
+North Sea,5461,28.630495
+North Valley Stream,18197,4.828663
+North Wantagh,11931,4.92954
+Northwest Ithaca,2231,9.203659
+Oakdale,7430,8.227824
+Oceanside,32637,12.76854
+Old Bethpage,6403,10.786324
+Oyster Bay,7049,3.203758
+Pearl River,16567,17.594637
+Pine Plains,1142,5.388322
+Plainedge,9517,3.636242
+Plainview,27100,14.825128
+Port Ewen,3678,5.410895
+Port Washington,16753,10.880599
+Putnam Lake,3776,11.793366
+Remsenburg-Speonk,3110,9.321189
+Ridge,13271,34.167959
+Riverhead,14993,39.091457
+Rocky Point,13633,29.318482
+Ronkonkoma,18955,20.999858
+Roosevelt,18066,4.584995
+Roslyn Heights,6747,3.821589
+Rotterdam,22968,21.24823
+Salem,811,7.597609
+Salisbury,12618,4.520312
+Scotchtown,10578,12.528524
+Seaford,15251,6.75928
+Searingtown,5044,2.413224
+Selden,21262,11.781701
+Shelter Island,1602,16.974381
+Shirley,26360,29.302739
+Smithtown,25629,30.891551
+Sound Beach,7416,4.23891
+South Hill,7245,15.270487
+South Huntington,9561,8.845402
+South Lockport,9355,16.053045
+Stony Brook,13467,15.082104
+Stony Point,12126,15.247775
+Syosset,19259,12.885287
+Terryville,11472,8.170832
+Tillson,1516,6.073456
+North Bellmore,20583,6.786406
+North Massapequa,17829,7.7548
+North Merrick,12238,4.451873
+Orange Lake,9770,22.619188
+Plattsburgh West,1382,4.907597
+St. James,13487,11.820361
+Sayville,16569,13.759863
+Thornwood,3960,2.892642
+South Farmingdale,14345,5.679332
+South Hempstead,3406,1.497817
+South Valley Stream,6386,2.252667
+Tappan,6673,7.141312
+Thiells,5240,4.702225
+Titusville,729,1.788717
+Uniondale,32473,14.792087
+University at Buffalo,6798,3.496629
+Vails Gate,3368,2.670846
+Valhalla,3213,2.148536
+Valley Cottage,9038,11.389829
+Village Green,3834,2.988671
+Wading River,7731,25.332009
+Wallkill,2166,7.943527
+Walton Park,3907,7.988857
+Wantagh,18613,9.919069
+Warrensburg,3045,17.497428
+Wells,531,19.996514
+West Babylon,43213,21.898761
+West Bay Shore,4625,5.65477
+West Elmira,4850,7.869039
+West Glens Falls,9473,17.219401
+Westhampton,3621,32.747764
+West Hempstead,19835,6.883715
+West Hills,5385,12.708747
+West Hurley,1917,9.808986
+West Islip,27048,15.78251
+Westmere,7560,8.208195
+West Point,7341,47.746843
+West Sayville,4872,4.970048
+West Seneca,45500,55.391223
+Westvale,5090,3.493179
+Wheatley Heights,5140,3.41319
+Woodmere,18669,6.683714
+Wyandanch,12990,5.623609
+Yaphank,5974,35.336639
+Zena,1038,7.9188
+University Gardens,4358,1.375443
+Williamson,2418,9.94621
