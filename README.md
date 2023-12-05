@@ -1,1 +1,1 @@
-# Symbolic_mobility_BMS
+# Mobility models with the Bayesian Machine Scientist
