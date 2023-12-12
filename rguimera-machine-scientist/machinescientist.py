@@ -14,6 +14,7 @@ from IPython.display import display,display_latex,Latex
 import time
 import pickle
 import matplotlib.gridspec as gs
+import os
 
 full_path = os.path.realpath(__file__)
 path, filename = os.path.split(full_path)
@@ -21,20 +22,20 @@ sys.path.append(path)
 from mcmc import *
 from parallel import *
 
-sys.path.append(f'{path}Prior/')
+sys.path.append(f'{path}/Prior/')
 from fit_prior import read_prior_par
 
 priors={
-    'v1_p3':f'{path}Prior/final_prior_param_sq.named_equations.nv1.np3.2017-10-18 18:07:35.262530.dat',
-    'v1_p8':f'{path}Prior/final_prior_param_sq.named_equations.nv1.np8.2017-10-18 18:07:35.261518.dat',
-    'v2_p4':f'{path}Prior/final_prior_param_sq.named_equations.nv2.np4.2016-09-09 18:49:43.056910.dat',
-    'v3_p3':f'{path}Prior/final_prior_param_sq.named_equations.nv3.np3.2017-06-13 08:55:24.082204.dat',
-    'v3_p6':f'{path}Prior/final_prior_param_sq.named_equations.nv3.np6.maxs50.2021-12-14 09:51:44.438445.dat',
-    'v4_p8':f'{path}Prior/final_prior_param_sq.named_equations.nv4.np8.maxs200.2019-12-03 09:30:20.580307.dat',
-    'v5_p10':f'{path}Prior/final_prior_param_sq.named_equations.nv5.np10.2016-07-11 17:12:38.129639.dat',
-    'v5_p12':f'{path}Prior/final_prior_param_sq.named_equations.nv5.np12.2016-07-11 17:12:37.338812.dat',
-    'v6_p12':f'{path}Prior/final_prior_param_sq.named_equations.nv6.np12.2016-07-11 17:20:51.957121.dat',
-    'v7_p14':f'{path}Prior/final_prior_param_sq.named_equations.nv7.np14.2016-06-06 16:43:26.130179.dat'
+    'v1_p3':f'{path}/Prior/final_prior_param_sq.named_equations.nv1.np3.2017-10-18 18:07:35.262530.dat',
+    'v1_p8':f'{path}/Prior/final_prior_param_sq.named_equations.nv1.np8.2017-10-18 18:07:35.261518.dat',
+    'v2_p4':f'{path}/Prior/final_prior_param_sq.named_equations.nv2.np4.2016-09-09 18:49:43.056910.dat',
+    'v3_p3':f'{path}/Prior/final_prior_param_sq.named_equations.nv3.np3.2017-06-13 08:55:24.082204.dat',
+    'v3_p6':f'{path}/Prior/final_prior_param_sq.named_equations.nv3.np6.maxs50.2021-12-14 09:51:44.438445.dat',
+    'v4_p8':f'{path}/Prior/final_prior_param_sq.named_equations.nv4.np8.maxs200.2019-12-03 09:30:20.580307.dat',
+    'v5_p10':f'{path}/Prior/final_prior_param_sq.named_equations.nv5.np10.2016-07-11 17:12:38.129639.dat',
+    'v5_p12':f'{path}/Prior/final_prior_param_sq.named_equations.nv5.np12.2016-07-11 17:12:37.338812.dat',
+    'v6_p12':f'{path}/Prior/final_prior_param_sq.named_equations.nv6.np12.2016-07-11 17:20:51.957121.dat',
+    'v7_p14':f'{path}/Prior/final_prior_param_sq.named_equations.nv7.np14.2016-06-06 16:43:26.130179.dat'
 }
 
 
@@ -200,7 +201,7 @@ def machinescientist(x,y,XLABS,n_params,resets=1,
     print('#'*40)
     print('Lowest mdl for training data:',copy(lowest_mdl))
     print('Model:',copy(best_model))
-    fig.show()
+    #fig.show()
     if ensemble_avg != None:
         return copy(best_model) , copy(list_ens_mdls), fig
     else: 
