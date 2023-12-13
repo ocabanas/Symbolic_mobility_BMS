@@ -193,7 +193,7 @@ def machinescientist(x,y,XLABS,n_params,resets=1,
         ax.plot(j,line,label=f'${i}$')
     ax.set_xlabel('MCMC step', fontsize=14)
     ax.set_ylabel('Description length', fontsize=14)
-    ax.set_title('MDL model all MC runs')
+    ax.set_title('Description length evolution')
     ax1=fig.add_subplot(g[1])
     h, l = ax.get_legend_handles_labels() 
     ax1.legend(h, l,fontsize='large',ncol=2,frameon=False)
