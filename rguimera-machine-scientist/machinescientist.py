@@ -64,6 +64,8 @@ def machinescientist(x,y,XLABS,n_params,resets=1,
     all_mdls={}
     #Start some MCMC
     runs=0
+    # Save step,dl,model
+    plot_talk=[]
     while runs < resets:
         try: #Sometimes a NaN error appears. Therefore we forget the current MCMC and start again.
             # Initialize the parallel machine scientist
@@ -89,6 +91,7 @@ def machinescientist(x,y,XLABS,n_params,resets=1,
                 pms.tree_swap() # Attempt to swap two randomly selected consecutive temps
                 # Add the description length to the trace
                 description_lengths.append(pms.t1.E)
+                plot_talk.append([i,pms.t1.E,str(pms.t1),str(pms.t1.latex())])
                 # Check if this is the MDL expression so far
                 if pms.t1.E < mdl:
                     #if pms.t1.E==float('NaN'): print('NaN in best model mdl')
@@ -203,7 +206,7 @@ def machinescientist(x,y,XLABS,n_params,resets=1,
     print('Model:',copy(best_model))
     #fig.show()
     if ensemble_avg != None:
-        return copy(best_model) , copy(list_ens_mdls), fig
+        return copy(best_model) , copy(list_ens_mdls), fig,plot_talk
     else: 
         return copy(best_model), copy(lowest_mdl), fig
 def plot_predicted_model(prediction=None,real=None,title="Data vs Model prediction",n_box=20,log_scale=False,
